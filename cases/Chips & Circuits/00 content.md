@@ -1,8 +1,8 @@
-![](chipsandcircuits2.jpg)
+![](Chipsandcircuits2.jpg)
 
 ## Introduction
 
-Chips (or more precisely: ''integrated circuits'') are found in your PC, MacBook, Android Phone and microwave oven where they perform a diversity of functions, ranging from timekeeping and motor control to arithmetic and logic. Basically a small plate of silicon, chips are usually designed logically and subsequentially transformed to a list of connectable gates. This list, commonly known as a ''net list'' is finally transformed into a 2-dimensional design on a silicon base.
+Chips (or more precisely: *integrated circuits*) are found in your PC, MacBook, Android Phone and microwave oven where they perform a diversity of functions, ranging from timekeeping and motor control to arithmetic and logic. Basically a small plate of silicon, chips are usually designed logically and subsequentially transformed to a list of connectable gates. This list, commonly known as a *net list* is finally transformed into a 2-dimensional design on a silicon base.
 
 
 This last step however, the physical real-world process of connecting the gates, is highly volatile. Good arrangements with short nets lead to faster circuits, whereas poor arrangements with long nets lead to slower circuits. Besides, shorter nets are cheaper than long nets, so there is no doubt that a good arrangement of logical gates and short nets between them is of vital importance, both economically and performancewise.
@@ -12,7 +12,7 @@ To make things easier, we will consider the wiring problem only. The gates have 
 
 
 ## Example
-![](netlist1.gif) Netlist #1
+![](Netlist1.gif) Netlist #1
 ![](Cc1_subopt.gif) A suboptimal wiring for netlist #1.
 ![](Cc1_optim.gif) An optimal wiring for netlist #1.
 
@@ -21,10 +21,10 @@ This is an integrated circuit built up from five gates that need to be connected
 
 ## Assignment
 
-![](print1.gif)
-![](print2.gif)
+![](Print1.gif)
+![](Print2.gif)
 
-Print #1 and Print #2 are arrangements of gates on a base, and all it takes is to wire the appropriate gates together. There are three net lists (in [txt-format](http://heuristieken.nl/resources/CC_netlists2.txt)) for each print. Each net list needs to be implemented. Nets can only follow the grid, only one wire per segment, and one step costs 1 unit length. Nets that are aligned among the same grid line are said to be in _collision_. If there is one collision in one arrangement, the circuit cannot be used. Nets can also go up and down to lower and higher layers, also at the cost of 1 per level. The assignment is to implement all nets in all netlists at minimum cost.
+Print #1 and Print #2 are arrangements of gates on a base, and all it takes is to wire the appropriate gates together. There are three net lists (in [txt-format](CC_netlists2.txt)) for each print. Each net list needs to be implemented. Nets can only follow the grid, only one wire per segment, and one step costs 1 unit length. Nets that are aligned among the same grid line are said to be in _collision_. If there is one collision in one arrangement, the circuit cannot be used. Nets can also go up and down to lower and higher layers, also at the cost of 1 per level. The assignment is to implement all nets in all netlists at minimum cost.
 
 
 A few steps to pave the way towards a program:
@@ -49,7 +49,7 @@ A few steps to pave the way towards a program:
 * For each of the three arrangements, try to determine the relation between the number of wires and the required number of layers.
 
 
-==Questions & Answers ==
+## Questions & Answers
 
 **1) "only one wire per segment", does this means multiple nets can use a grid intersection?**
 

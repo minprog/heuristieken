@@ -1,4 +1,4 @@
-![Hup naar binnen.](roostering2.jpg)
+![Hup naar binnen.](Roostering2.jpg)
 
 
 ## Inleiding

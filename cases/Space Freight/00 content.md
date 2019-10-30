@@ -1,4 +1,4 @@
-![Wo bleiben die Botschaften?](spacefreight.jpg)
+![Wo bleiben die Botschaften?](Spacefreight.jpg)
 
 ## Inleiding
 

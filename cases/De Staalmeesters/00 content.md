@@ -1,4 +1,4 @@
-![](destaalmeesters.jpg)
+![](Destaalmeesters.jpg)
 
 ## Inleiding
 

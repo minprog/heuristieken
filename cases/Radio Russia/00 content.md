@@ -1,4 +1,4 @@
-![](radiorussia.jpg)
+![](Radiorussia.jpg)
 
 ## Inleiding
 
@@ -21,7 +21,7 @@ De russische overheid wil een goede verdeling van zendfrequenties. Er zijn preci
 
 | China | Russia |
 | --- | --- |
-| ![](Rr_china.gif) | ![](rr_russia.jpg) |
+| ![](Rr_china.gif) | ![](Rr_russia.jpg) |
 
 ## Opdracht 2
 

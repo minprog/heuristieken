@@ -1,4 +1,4 @@
-![](proteinpowder.jpg)
+![](Proteinpowder.jpg)
 
 ## Inleiding
 

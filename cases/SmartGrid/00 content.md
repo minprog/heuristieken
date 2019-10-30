@@ -1,8 +1,8 @@
-![](smartgrid.jpg)
+![](Smartgrid.jpg)
 
 ## Inleiding
 
-![](twogrids.gif)
+![](Twogrids.gif)
 **Links:** zeven huizen met zonnepanelen kunnen allemaal op één batterij worden aangesloten. Of is (**rechts**) een configuratie van twee batterijen, en minder kabels een goedkoper alternatief? 
 
 Groene energie is de energie van de toekomst, en zelf produceren is de mode van nu. Veel huizen hebben tegenwoordig zonnepanelen, windmolens of andere installaties om zelf energie mee te produceren. Fortuinlijk genoeg produceren die installaties vaak meer dan voor eigen consumptie nodig is. Het overschot zou kunnen worden terugverkocht aan de leverancier, maar de infrastructuur (het *grid*) is daar veelal niet op berekend. Om de pieken in consumptie en produktie te kunnen managen moeten er batterijen geplaatst worden.
@@ -10,9 +10,9 @@ Groene energie is de energie van de toekomst, en zelf produceren is de mode van 
 
 Voor een feasibility study zijn drie dummy-woonwijken opgesteld, met daarin vijf batterijen. De huizen hebben zonnepanelen met een maximale output, de batterijen hebben een maximale capaciteit. Exacte data kun je vinden in [deze bestanden](Huizen&Batterijen.zip).
 
-![](wijk1.png) Wijk #1
-![](wijk2.png) Wijk #2
-![](wijk3.png) Wijk #3
+![](Wijk1.png) Wijk #1
+![](Wijk2.png) Wijk #2
+![](Wijk3.png) Wijk #3
 
 ## Opdracht
 
