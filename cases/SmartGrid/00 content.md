@@ -48,7 +48,7 @@ Het bedrijf SmartBatteryCompany heeft recentelijk drie types batterijen ontwikke
 ## Output
 
 Om resultaten te kunnen verifiëren is het handig om in een uniform format je output te genereren. 
-Bekijk [het voorbeeld](example_output.csv) (3 huizen over 2 batterijen verdeeld) en zorg ervoor dat jouw programma een oplossing in hetzelfde format kan omzetten.
+Bekijk [het voorbeeld](example_output.json) (3 huizen over 2 batterijen verdeeld) en zorg ervoor dat jouw programma een oplossing in hetzelfde format kan omzetten.
 Let op dat 1 van de huizen is aangesloten op een reeds bestaande kabel van een ander huis.
 N.B. Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit enkel als laatste stap in het process te kunnen doen.
 
@@ -64,7 +64,7 @@ Nee, ook niet via een huis.
 
 **2) Mogen huizen aan elkaar verbonden zijn?**
 
-Ja. Huizen mogen worden aangesloten aan een batterij via een kabel waarmee al een of meerdere huizen zijn aangesloten aan die batterij. 
+Ja. Huizen mogen worden aangesloten aan een batterij via een kabel waarmee al één of meerdere huizen zijn aangesloten aan die batterij. 
 
 
 **3) Mag een huis aan meerdere batterijen verbonden zijn?** 

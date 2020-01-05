@@ -24,7 +24,7 @@ Omdat de Duivenderechtse polder ooit beschermd natuurgebied was, is de compromis
 In [wijken.zip](wijken.zip) tref je 3 verschillende csv's aan. Elke csv beschrijft de plaatsing van het oppervlaktewater in de bijbehorende wijk. Hiervan worden de plaatsing van het linkeronderpunt en rechterbovenpunt gegeven als x,y coordinaten.
 
 1. Lever allereerst voor wijk_1 een plattegrond af voor de kleinste huizenvariant van de nieuw te bouwen wijk Amstelhaege. De huizen mogen willekeurig, handmatig, of door een slim algoritme worden geplaatsd. 
-2. Visualiseer je plattegrond en kijk goed of de plaatsing wel aan de requirements voldoet (zijn alle huizen geplaatsd? voldoet de plaatsing aan de verplichte vrijstand?)
+2. Visualiseer je plattegrond en kijk goed of de plaatsing wel aan de requirements voldoet (zijn alle huizen geplaatst? voldoet de plaatsing aan de verplichte vrijstand?)
 3. Stel vervolgens een doelfunctie op, die de waarde van ieder huis kan bepalen aan de hand van de vrijstand om elk huis heen. Bereken hiermee de waarde van de plattegrond.
 
 2. Lever vervolgens voor alle wijken een plattegrond (2D of 3D) af voor ieder van de drie huizenvarianten voor de nieuw te bouwen wijk Amstelhaege. De score voor een plattegrond is de opgetelde waarde van alle huizen in de wijk.
