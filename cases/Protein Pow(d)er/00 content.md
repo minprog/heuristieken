@@ -39,13 +39,108 @@ Om de boel enigzins beheersbaar te houden gaan we uit van een 2D grid waarbij we
     * HCPHPHPHCHHHHPCCPPHPPPHPPPPCPPPHPPPHPHHHHCHPHPHPHH 
 
 
-
-4. Voeg een dimensie toe. Vouw de eiwitten zo goed mogelijk in 3D.
-
 ## Advanced
 
-{:start="5"}
-5. Genereer zelf een aantal random eiwitten, en probeer te bepalen welke eigenschappen ervoor zorgen dat een eiwit makkelijk moeilijk optimaal te vouwen is.
+{:start="4"}
+4. Voeg een dimensie toe. Vouw de eiwitten zo goed mogelijk in 3D.
+
+## Output
+
+Om resultaten te kunnen verifiëren is het handig om in een uniform format je output te genereren. 
+Bekijk [het voorbeeld](example_output.csv) en zorg ervoor dat jouw programma een oplossing in hetzelfde format kan omzetten.
+De 0 bij het laatste aminozuur geeft aan dat er geen buiging gedaan hoeft te worden.
+
+Deze output is gebaseerd op het format zoals bedacht door Bas Terwijn: 
+
+
+""
+Here:
+  "1" means a positive step in the first  dimension (X-axis direction).
+ "-1" means a negative step in the first  dimension (X-axis direction).
+  "2" means a positive step in the second dimension (Y-axis direction).
+ "-2" means a negative step in the second dimension (Y-axis direction).
+  "3" means a positive step in the third  dimension (Z-axis direction).
+  etc...
+Steps can go up to arbitrary dimensions.
+
+This example file will be interpreted as follows. We start with the
+first element of the protein 'H':
+
+               H
+
+The first step is 1, so we make a step in the positive X direction
+and place the next element 'H':
+
+               H-H
+
+The next step is 2, so we make a step in the positive Y direction
+and place the next element 'P':
+
+                 P
+                 |
+               H-H
+
+The next step is -1, so we make a step in the negative X direction
+and place the next element 'H':
+
+               H-P
+                 |
+               H-H
+
+The remaining steps result in:
+
+
+             P-H-P
+                 |
+               H-H
+
+             P
+             |
+             P-H-P
+                 |
+               H-H
+
+             P
+             |
+             P
+             |
+             P-H-P
+                 |
+               H-H
+
+             P-P
+             |
+             P
+             |
+             P-H-P
+                 |
+               H-H
+
+             P-P
+             | |
+             P H
+             |
+             P-H-P
+                 |
+               H-H
+
+
+The score is the number of pairs of neighboring 'H' elements that
+are not neighbors in the elements list in the first line of this
+file indicated here by the two '*' characters:
+
+             P-P
+             | |
+             P H
+             | *
+             P-H-P
+               * |
+               H-H
+
+Therefore the score of the folded protein described by this file is: 2  
+""
+
+N.B. Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit enkel als laatste stap in het process te kunnen doen.
 
 ## Links & Trivia
 

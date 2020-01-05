@@ -24,7 +24,7 @@ This is an integrated circuit built up from five gates that need to be connected
 ![](Print1.gif)
 ![](Print2.gif)
 
-Print #1 and Print #2 are arrangements of gates on a base, and all it takes is to wire the appropriate gates together. There are three net lists (in [txt-format](CC_netlists2.txt)) for each print. Each net list needs to be implemented. Nets can only follow the grid, only one wire per segment, and one step costs 1 unit length. Nets that are aligned among the same grid line are said to be in _collision_. If there is one collision in one arrangement, the circuit cannot be used. Nets can also go up and down to lower and higher layers, also at the cost of 1 per level. The assignment is to implement all nets in all netlists at minimum cost.
+Print #1 and Print #2 are arrangements of gates on a base, and all it takes is to wire the appropriate gates together. There are three net lists (in [csv-format](gates&netlists.zip)) for each print. Each net list needs to be implemented. Nets can only follow the grid, only one wire per segment, and one step costs 1 unit length. Nets that are aligned among the same grid line are said to be in _collision_. If there is one collision in one arrangement, the circuit cannot be used. Nets can also go up and down to lower and higher layers, also at the cost of 1 per level. The assignment is to implement all nets in all netlists at minimum cost.
 
 
 A few steps to pave the way towards a program:
@@ -47,6 +47,12 @@ A few steps to pave the way towards a program:
 * Randomly generate some new net lists. They should be of equal length to the original net lists. Which are solvable, which aren't? Which have good solutions, which haven't?
 
 * For each of the three arrangements, try to determine the relation between the number of wires and the required number of layers.
+
+## Output
+
+To be able to verify the results of your program it is useful to be able to generate output in a uniform format.
+Take a look at [the example](example.zip) and make sure your program can transform a solution into the same output.
+Note that your program does not have to use or rely on this output. This is solely a conversion of the representation of your solution as a final step.
 
 
 ## Questions & Answers
