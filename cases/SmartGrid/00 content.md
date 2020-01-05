@@ -21,7 +21,12 @@ Voor een feasibility study zijn drie dummy-woonwijken opgesteld, met daarin vijf
 De batterijen kosten 5000 per stuk. De kabels kosten 9 per grid-segment. De kabels liggen op de gridlijnen, mogen ook gridpunten met een huis passeren, en de afstand van een huis tot een batterij wordt berekend volgens de manhattan distance.
 
 {:start="2"}
+
 2. Bereken de kosten voor de in 1. geconfigureerde wijk. Probeer je SmartGrid te optimaliseren en vind een zo goed mogelijke configuratie van kabels.
+
+3. Optimaliseer het smartGrid voor de drie wijken.
+
+## Advanced  
 
 Nu is het zo, dat de batterijen misschien niet op de best mogelijke plaatsen staan. Het verplaatsen van batterijen vercompliceert de zaak enorm, maar de opdrachtgever wil het toch proberen, om inzicht in het probleem te krijgen.
 
@@ -36,21 +41,16 @@ Het bedrijf SmartBatteryCompany heeft recentelijk drie types batterijen ontwikke
 | Imerse-II | 900 | 1350 |
 | Imerse-III | 1800 | 1800 |
 
-
-Probeer een betere configuratie voor de wijk te vinden met deze batterijen, je mag er zoveel gebruiken als je wil en kunnen op ieder gridpunt zonder huis geplaatst worden.
-
 {:start="4"}
-4. Optimaliseer het smartGrid voor de drie wijken.
 
-## Advanced
+4. Probeer een betere configuratie voor de wijken te vinden met deze batterijen, je mag er zoveel gebruiken als je wil en kunnen op ieder gridpunt zonder huis geplaatst worden.
 
-Nieuwe wetgeving vereist dat waar kabels onder een huis doorgaan, de bewoners een compensatie van 5000 mogen ontvangen. Dit verandert het schema enorm. 
+## Output
 
-{:start="5"}
-5. Optimaliseer het smartGrid voor de drie wijken, met inachtneming van de nieuwe compensatieregeling.   
-
-6. Maak zelf een aantal batterij-schema's zoals in d), en kijk welke makkelijker en welke moeilijk op te lossen zijn.
-
+Om resultaten te kunnen verifiëren is het handig om in een uniform format je output te genereren. 
+Bekijk [het voorbeeld](example_output.json) (3 huizen over 2 batterijen verdeeld) en zorg ervoor dat jouw programma een oplossing in hetzelfde format kan omzetten.
+Let op dat 1 van de huizen is aangesloten op een reeds bestaande kabel van een ander huis.
+N.B. Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit enkel als laatste stap in het process te kunnen doen.
 
 ## Questions & Answers
 
@@ -64,7 +64,7 @@ Nee, ook niet via een huis.
 
 **2) Mogen huizen aan elkaar verbonden zijn?**
 
-Nee. Kabels van huizen mogen wel over/onder elkaar doorlopen. Je betaalt in dat geval nog steeds voor ieder kabelsegment. Er is dus geen kostenvermindering. 
+Ja. Huizen mogen worden aangesloten aan een batterij via een kabel waarmee al één of meerdere huizen zijn aangesloten aan die batterij. 
 
 
 **3) Mag een huis aan meerdere batterijen verbonden zijn?** 

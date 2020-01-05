@@ -25,7 +25,7 @@ Van deze 22 stations zijn er 7 door RailNL als *kritiek* bestempeld: Alkmaar, Am
 
 RailNL heeft recentelijk een doelfunctie opgesteld voor de kwaliteit van de lijnvoering. Als 100% van van de kritieke verbindingen bereden wordt, levert dat 10000 punten op je lijnvoering op, anders krijg je een een gedeelte daarvan. Maar hoe minder trajecten voor dezelfde service, hoe goedkoper. En in hoe minder tijd er in al die trajecten samen verbruikt wordt, hoe beter. Dus die factoren worden ook meegewogen in de doelfunctie:
 
-$$ K = p*10000 - (T*20 + Min/10) $$
+$$ K = p*1000 - (T*100 + Min) $$
 
 waarin K de kwaliteit van de lijnvoering is, *p* de fractie van de bereden kritieke verbindingen (dus tussen 0 en 1), *T* het aantal trajecten en *Min* het aantal minuten in alle trajecten samen.
 
@@ -52,6 +52,12 @@ Are you ready for something bigger? We gaan nu heel Nederland doen. Vind hier he
 
 
 9. Test voor uitval van andere stations hoe groot de impact is op je beste lijnvoering.
+
+## Output
+
+Om resultaten te kunnen verifiëren is het handig om in een uniform format je output te genereren. 
+Bekijk [het voorbeeld](example_output.csv) (3 treinen die door Noord-Holland rijden) en zorg ervoor dat jouw programma een oplossing in hetzelfde format kan omzetten.
+N.B. Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit enkel als laatste stap in het process te kunnen doen.
 
 ##  Links & Trivia
 
