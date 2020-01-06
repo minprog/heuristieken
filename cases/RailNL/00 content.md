@@ -17,7 +17,7 @@ Deze case gaat over het eerste deel, het maken van de lijnvoering. Meer specifie
 
 ## Opdracht deel 1: Noord- en Zuid-Holland==
 
-In de provincies Noord- en Zuid-Holland liggen in totaal 118 treinstations, waarvan de 22 belangrijkste intercitystations met de tussenliggende spoorverbindingen, in een [.csv-bestand}(ConnectiesHolland.csv) zijn opgeslagen. De getallen die achter een verbinding staan zijn de reistijden in minuten.
+In de provincies Noord- en Zuid-Holland liggen in totaal 118 treinstations, waarvan de 22 belangrijkste intercitystations met de tussenliggende spoorverbindingen, in een [.csv-bestand](ConnectiesHolland.csv) zijn opgeslagen. De getallen die achter een verbinding staan zijn de reistijden in minuten.
 
 
 1. Maak een lijnvoering voor Noord-Holland met maximaal zeven trajecten binnen een tijdsframe van twee uur, waarbij alle verbindingen bereden worden.
