@@ -7,27 +7,44 @@ Rush Hour is een ogenschijnlijk eenvoudig puzzeltje met een verrassend uitdagend
 
 1. Los [games 1, 2 en 3](gameboards.zip) op. Doe hoe je dat goed lijkt. Het is natuurlijk goed om daar een programma voor te schrijven, maar als je een ander idee hebt, of het met de hand kunt, mag dat ook.
 
+Game #1
 
-![](Rushhour6x6_1.jpg) Game #1
-![](Rushhour6x6_2.jpg) Game #2
-![](Rushhour6x6_3.jpg) Game #3
+![](Rushhour6x6_1.jpg) 
+
+Game #2
+
+![](Rushhour6x6_2.jpg) 
+
+Game #3
+
+![](Rushhour6x6_3.jpg) 
 
 {:start="2"}
 2. Verzin een implementatie voor het bord, en schrijf een algoritme dat series van zetten uitvoert. Laat het algoritme [games 4, 5 en 6](gameboards.zip) oplossen. Kortere series zijn betere series.
 
-![](Rushhour9x9_1.jpg) Game #4
-![](Rushhour9x9_2.jpg) Game #5
-![](Rushhour9x9_3.jpg) Game #6
+Game #4
+
+![](Rushhour9x9_1.jpg) 
+
+Game #5
+
+![](Rushhour9x9_2.jpg) 
+
+Game #6
+
+![](Rushhour9x9_3.jpg) 
 
 {:start="3"}
 3. Los [game 7](gameboards.zip) op. Pas je algoritme aan indien dat nodig is.
 
-![](Rushhour12x12_1.jpg) Game #7
+Game #7
+
+![](Rushhour12x12_1.jpg) 
 
 ## Advanced
 
 {:start="4"}
-4. Maak wat random Rush Hour borden en probeer ze op te lossen met je algoritmes.
+4. Maak random Rush Hour borden en probeer ze op te lossen met je algoritmes.
 
 5. Probeer te achterhalen wat het verschil is tussen een moeilijke rushhour-opgave en een even grote makkelijk rushhour opgave. Ook aantonen waar de moeilijkheid **niet** aan ligt is waardevol.
 

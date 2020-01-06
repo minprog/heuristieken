@@ -16,13 +16,24 @@ Voor een feasibility study zijn drie dummy-woonwijken opgesteld, met daarin vijf
 
 ## Opdracht
 
-1. Verbind alle huizen in de drie wijken aan een batterij. De maximumcapaciteit van de huizen mag die van de batterijen uiteraard niet overschrijden.
+Houdt tijdens de opdracht rekening met de volgende requirements:
+* Batterijen mogen niet aan elkaar verbondenden zijn. Ook niet via een huis.
+* Een huis mag niet aan meerdere batterijen verbonden zijn.
+* Elk huis heeft een eigen unieke kabel nodig naar de batterij.
+* Er mogen meerdere kabels over dezelfde gridsegmenten lopen. Het blijven echter wel unieke kabels en leveren geen kostenvermindering op.
+
+1. Verbind alle huizen in de eerste wijk aan een batterij. De maximumcapaciteit van de huizen mag die van de batterijen uiteraard niet overschrijden.
 
 De batterijen kosten 5000 per stuk. De kabels kosten 9 per grid-segment. De kabels liggen op de gridlijnen, mogen ook gridpunten met een huis passeren, en de afstand van een huis tot een batterij wordt berekend volgens de manhattan distance.
 
 {:start="2"}
+2. Bereken de kosten voor de in 1. geconfigureerde wijken. Probeer je SmartGrid te optimaliseren en vind een zo goed mogelijke configuratie van kabels.
 
-2. Bereken de kosten voor de in 1. geconfigureerde wijk. Probeer je SmartGrid te optimaliseren en vind een zo goed mogelijke configuratie van kabels.
+Een nieuwe ontwikkeling in het kabelnetwerk biedt de mogelijkheid om meerdere huizen via een kabel aan een baterij te verbinden. Vanaf nu geldt de volgende requirement:
+* Huizen mogen via eenzelfde kabel aan een batterij verbonden zijn. Ze mogen dus een kabel delen.
+
+{:start="3"}
+2. Verbind alle huizen in de drie wijken aan een batterij. De maximumcapaciteit van de huizen mag die van de batterijen uiteraard niet overschrijden.
 
 3. Optimaliseer het smartGrid voor de drie wijken.
 
@@ -30,7 +41,7 @@ De batterijen kosten 5000 per stuk. De kabels kosten 9 per grid-segment. De kabe
 
 Nu is het zo, dat de batterijen misschien niet op de best mogelijke plaatsen staan. Het verplaatsen van batterijen vercompliceert de zaak enorm, maar de opdrachtgever wil het toch proberen, om inzicht in het probleem te krijgen.
 
-{:start="3"}
+{:start="4"}
 3. Verplaats de batterijen, en probeer een beter resultaat te realiseren.
 
 Het bedrijf SmartBatteryCompany heeft recentelijk drie types batterijen ontwikkeld, met verschillende capaciteiten en verschillende prijzen.
@@ -52,34 +63,6 @@ Bekijk [het voorbeeld](example_output.json) (3 huizen over 2 batterijen verdeeld
 Let op dat 1 van de huizen is aangesloten op een reeds bestaande kabel van een ander huis.
 N.B. Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit enkel als laatste stap in het process te kunnen doen.
 
-## Questions & Answers
-
-Deze questions & answers dienen ter verduidelijking van de case.
-
-
-**1) Mogen batterijen aan elkaar verbonden zijn?** 
-
-Nee, ook niet via een huis.
-
-
-**2) Mogen huizen aan elkaar verbonden zijn?**
-
-Ja. Huizen mogen worden aangesloten aan een batterij via een kabel waarmee al één of meerdere huizen zijn aangesloten aan die batterij. 
-
-
-**3) Mag een huis aan meerdere batterijen verbonden zijn?** 
-
-Nee.
-
-
-**4) Mogen kabels van verschillende batterijen over het hetzelfde gridpunt of gridsegment lopen?**
-
-Ja. Functioneel blijven de kabels gescheiden en er is geen kostenvermindering. Dit voorkomt kortsluiting. Als je een visuele representatie maakt is het verstandig om ze uit elkaar te kunnen houden, bijvoorbeeld met kleuren, zodat je in geval van kruisende kabels goed kunt volgen welke kabel waarheen loopt.
-
-
-**5) Is er een huis dubbel genoteerd in één van de csv-bestanden?**
-
-Nee, sinds de update van 17 Oktober 2018 (hopelijk) niet meer.
 
 ## Links & Trivia
 
