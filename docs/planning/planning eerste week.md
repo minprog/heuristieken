@@ -1,4 +1,4 @@
-Dit zijn de planningen voor de eerste week. 
+Dit zijn de planningen voor de eerste week.
 Bij presentatiesessie 1 zullen de assistenten aangeven of er veranderingen zijn voor de volgende weken.
 Alle sessies vinden in principe plaats in A1.22.
 
@@ -25,7 +25,7 @@ Alle sessies vinden in principe plaats in A1.22.
 |----------------------------------------------------|------------------|----------------------|---------------------|-------------------|
 | Dplace                                             | Amstelhaege      | Woensdag 12-13       | Donderdag 11-12     | Woensdag 11:00    |
 | Team winnen                                        | Chips & Circuits | Woensdag 12-13       | Donderdag 11-12     | Woensdag 11:30    |
-| 1100                                               | Protein Pow(d)er | Woensdag 12-13       | Donderdag 11-12     | Woensdag 12:00    |
+| 1100                                               | Protein Pow(d)er | Woensdag 12-13       | Donderdag 11-12     | Woensdag 13:00    |
 | Team 1                                             | Protein Pow(d)er | Woensdag 12-13       | Donderdag 11-12     | Donderdag 12:00   |
 | BetaRail                                           | RailNL           | Woensdag 12-13       | Donderdag 11-12     | Donderdag 12:30   |
 | fast telecom services                              | Rush Hour        | Woensdag 12-13       | Donderdag 11-12     | Donderdag 13:00   |
