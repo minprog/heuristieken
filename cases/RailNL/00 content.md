@@ -1,4 +1,6 @@
-![A song by JaRule.](Railnl.jpg)
+# RailNL
+
+![A song by JaRule.](Railnl.jpg){:.inline}
 
 ## Inleiding
 
