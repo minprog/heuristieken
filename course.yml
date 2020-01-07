@@ -1,6 +1,6 @@
 language: nl
-name: Heuristieken
-short_name: ProgTheorieW20
+name: Programmeertheorie
+short_name: Programmeertheorie
 
 acknowledgements:
     - "Based on Daan van den Berg's awesome work at the Universities of Amsterdam."
