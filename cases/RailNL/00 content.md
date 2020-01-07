@@ -17,7 +17,7 @@ Deze case gaat over het eerste deel, het maken van de lijnvoering. Meer specifie
 
 **Voorbeeld**: Het traject [Castricum , Zaandam , Hoorn , Alkmaar] is een traject met een duur van 59 minuten, en zou dus binnen het tijdseframe van een uur passen.
 
-## Opdracht deel 1: Noord- en Zuid-Holland==
+## Opdracht deel 1: Noord- en Zuid-Holland
 
 In de provincies Noord- en Zuid-Holland liggen in totaal 118 treinstations, waarvan de 22 belangrijkste intercitystations met de tussenliggende spoorverbindingen, in een [.csv-bestand](ConnectiesHolland.csv) zijn opgeslagen. De getallen die achter een verbinding staan zijn de reistijden in minuten.
 
@@ -60,4 +60,4 @@ N.B. Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit e
 
 ##  Links & Trivia
 
-De eerste versie van deze case is in juni 2017 ontwikkeld door Rob Hesselink en Jens van der Pol in het kader van Advanced Heuristics. 
+De eerste versie van deze case is in juni 2017 ontwikkeld door Rob Hesselink en Jens van der Pol in het kader van Advanced Heuristics.
