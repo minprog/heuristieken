@@ -26,6 +26,7 @@ De russische overheid wil een goede verdeling van zendfrequenties. Er zijn preci
 ## Opdracht 2
 
 Er zijn vier mogelijke kostenschema's bekend geworden. Bekijk voor ieder land welk kostenschema de voordeligste inrichting oplevert.
+
 | Zendertype | Kosten 1 | Kosten 2 | Kosten 3 | Kosten 4 |
 | --- | --- | --- | --- | --- |
 | A | 12 | 19 | 16 | 3 |
@@ -39,7 +40,3 @@ Er zijn vier mogelijke kostenschema's bekend geworden. Bekijk voor ieder land we
 ## Advanced
 
 Omdat production in numbers goedkoper is, wordt iedere geplaatste zender van een type 10% goedkoper dan de vorige van hetzelfde type. Vind, met je algoritmes, opnieuw de beste oplossing voor de landen. Hoe vergelijken ze met de oplossingen van opgaven 1 en 2?
-
-## Links
-
-Dit is pas [links](https://www.mystiwot.nl/myst/upload/5493180427191120.jpg).
