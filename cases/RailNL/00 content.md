@@ -1,6 +1,6 @@
-![A song by JaRule.](Railnl.jpg)
+# Case: RailNL
 
-## Inleiding
+![A song by JaRule.](Railnl.jpg){:.inline}
 
 Een dienstregeling voor treinverkeer bestaat eigenlijk uit vier planningsonderdelen: 
 
@@ -15,7 +15,7 @@ Deze case gaat over het eerste deel, het maken van de lijnvoering. Meer specifie
 
 **Voorbeeld**: Het traject [Castricum , Zaandam , Hoorn , Alkmaar] is een traject met een duur van 59 minuten, en zou dus binnen het tijdseframe van een uur passen.
 
-## Opdracht deel 1: Noord- en Zuid-Holland==
+## Opdracht deel 1: Noord- en Zuid-Holland
 
 In de provincies Noord- en Zuid-Holland liggen in totaal 118 treinstations, waarvan de 22 belangrijkste intercitystations met de tussenliggende spoorverbindingen, in een [.csv-bestand](ConnectiesHolland.csv) zijn opgeslagen. De getallen die achter een verbinding staan zijn de reistijden in minuten.
 
@@ -26,17 +26,17 @@ RailNL heeft recentelijk een doelfunctie opgesteld voor de kwaliteit van de lijn
 
 $$ K = p*10000 - (T*100 + Min) $$
 
-waarin K de kwaliteit van de lijnvoering is, *p* de fractie van de bereden verbindingen (dus tussen 0 en 1), *T* het aantal trajecten en *Min* het aantal minuten in alle trajecten samen.
+waarin $K$ de kwaliteit van de lijnvoering is, $p$ de fractie van de bereden verbindingen (dus tussen 0 en 1), $T$ het aantal trajecten en $Min$ het aantal minuten in alle trajecten samen.
 
 {:start="2"}
-2. Maak wederom een lijnvoering voor Noord-Holland met maximaal zeven trajecten binnen een tijdsframe van twee uur, en probeer nu ''K'' zo hoog mogelijk te krijgen.
+2. Maak wederom een lijnvoering voor Noord-Holland met maximaal zeven trajecten binnen een tijdsframe van twee uur, en probeer nu $K$ zo hoog mogelijk te krijgen.
 
 ## Opdracht deel 2: Nederland
 
 Are you ready for something bigger? We gaan nu heel Nederland doen. Vind hier het [bestand met spoorverbindingen](ConnectiesNationaal.csv) en het [bestand met intercitystations voor heel Nederland](StationsNationaal.csv), wederom met hun x/y-coordinaten.
 
 {:start="4"}
-4. Maak wederom een lijnvoering voor heel Nederland met maximaal twintig trajecten binnen een tijdsframe van drie uur, en probeer nu K zo hoog mogelijk te krijgen. De doelfunctie blijft ongewijzigd.
+4. Maak wederom een lijnvoering voor heel Nederland met maximaal twintig trajecten binnen een tijdsframe van drie uur, en probeer nu $K$ zo hoog mogelijk te krijgen. De doelfunctie blijft ongewijzigd.
 6. Maak een aantrekkelijke visualisatie van je resultaten. Hoe je dat doet, mag je zelf bepalen.
 
 ## Advanced
@@ -58,4 +58,4 @@ N.B. Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit e
 
 ##  Links & Trivia
 
-De eerste versie van deze case is in juni 2017 ontwikkeld door Rob Hesselink en Jens van der Pol in het kader van Advanced Heuristics. 
+De eerste versie van deze case is in juni 2017 ontwikkeld door Rob Hesselink en Jens van der Pol in het kader van Advanced Heuristics.
