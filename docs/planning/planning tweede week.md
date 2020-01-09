@@ -14,7 +14,7 @@ Alle sessies vinden in principe plaats in A1.22.
 
 | Quinten & Edwin                                    |                  | Presentatiessessie 1 | Presentatiesessie 2 | Voortgangsgesprek |
 |----------------------------------------------------|------------------|----------------------|---------------------|-------------------|
-|  CH!PS IS BACK                                     | Chips & Circuits | Dinsdag 11-12        | Vrijdag 10-11       | Dinsdag 12:00     |
+| str(group_name)                                    | Chips & Circuits | Dinsdag 11-12        | Vrijdag 10-11       | Dinsdag 12:00     |
 | Shire Peasants 3                                   | Protein Pow(d)er | Dinsdag 11-12        | Vrijdag 10-11       | Dinsdag 12:30     |
 | Heuristic Heroes                                   | RailNL           | Dinsdag 11-12        | Vrijdag 10-11       | Dinsdag 13:00     |
 | non-beta bois                                      | Rush Hour        | Dinsdag 11-12        | Vrijdag 10-11       | Vrijdag 11:00     |
@@ -34,11 +34,12 @@ Alle sessies vinden in principe plaats in A1.22.
 | Marleen & Julien                                   |                  | Presentatiessessie 1 | Presentatiesessie 2 | Voortgangsgesprek |
 |----------------------------------------------------|------------------|----------------------|---------------------|-------------------|
 | Simcity                                            | Amstelhaege      | Dinsdag 10-11        | Donderdag 12-13     | Dinsdag 11:00     |
-| str(group_name)                                    | Chips & Circuits | Dinsdag 10-11        | Donderdag 12-13     | Dinsdag 11:30     |
+|  CH!PS IS BACK                                     | Chips & Circuits | Dinsdag 10-11        | Donderdag 12-13     | Dinsdag 11:30     |
 | x                                                  | Protein Pow(d)er | Dinsdag 10-11        | Donderdag 12-13     | Dinsdag 12:00     |
 | Ola                                                | RailNL           | Dinsdag 10-11        | Donderdag 12-13     | Dinsdag 12:30     |
 | Bigbrainz                                          | Rush Hour        | Dinsdag 10-11        | Donderdag 12-13     | Donderdag 11:30   |
 | Big batteries                                      | SmartGrid        | Dinsdag 10-11        | Donderdag 12-13     | Donderdag 12:00   |
+| m4st3r_h4ck3rz_4_l1f3.mp3                          | SmartGrid        | Dinsdag 10-11        | Donderdag 13-14     | Donderdag 11:00   |
 
 | Nigel & Reitze                                     |                  | Presentatiessessie 1 | Presentatiesessie 2 | Voortgangsgesprek |
 |----------------------------------------------------|------------------|----------------------|---------------------|-------------------|
