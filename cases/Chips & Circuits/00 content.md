@@ -1,6 +1,6 @@
-![](Chipsandcircuits2.jpg)
+# Case: Chips and Circuits
 
-## Introduction
+![een foto van een centrale computerprocessor van Intel uit 1982, genaamd Harris, met op de achtergrond een diagram van een electronische schakeling in de Commodore 64 homecomputer](Chipsandcircuits2.jpg)
 
 Chips (or more precisely: *integrated circuits*) are found in your PC, MacBook, Android Phone and microwave oven where they perform a diversity of functions, ranging from timekeeping and motor control to arithmetic and logic. Basically a small plate of silicon, chips are usually designed logically and subsequentially transformed to a list of connectable gates. This list, commonly known as a *netlist* is finally transformed into a 2-dimensional design on a silicon base.
 

@@ -1,7 +1,6 @@
-![](Amstelhaege_k.jpg)
+# Case: Amstelhaege
 
-
-## Inleiding
+![een luchtfoto van een doorsnee woonwijk waarin huizen staan met vrij puntige daken, met op de voorgrond een stukje van wat lijkt op een tennisbaan met mooi groen gras, en bovenin het opschrift Welkom in Amstelhaege](Amstelhaege_k.jpg){:.inline}
 
 Na jarenlang getouwtrek is de knoop eindelijk doorgehakt: er komt een nieuwe woonwijk in de Duivendrechtse polder, net ten noorden van Ouderkerk aan de Amstel. De huisjes zijn bedoeld voor het midden- en bovensegment van de markt, met name expats en hoogopgeleide werknemers actief op de Amsterdamse Zuidas.
 
