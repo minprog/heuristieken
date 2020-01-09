@@ -1,5 +1,4 @@
 Dit zijn de planningen voor de tweede week.
-Bij presentatiesessie 1 zullen de assistenten aangeven of er veranderingen zijn voor de volgende weken.
 Alle sessies vinden in principe plaats in A1.22.
 
 | Okke & Jasper                                      |                  | Presentatiessessie 1 | Presentatiesessie 2 | Voortgangsgesprek |
