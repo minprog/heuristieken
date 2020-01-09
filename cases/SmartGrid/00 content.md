@@ -1,11 +1,11 @@
-![](Smartgrid.jpg)
+# Case: Smart Grid
 
-## Inleiding
+![een fotomontage met als achtergrond een luchtfoto van een grote stad aan zee, waaroverheen in een soort lichtgevende blauwe inkt aanpassingen aan de infrastructuur zijn geprojecteerd, met een nadrukkelijke rol voor een aantal windmolens in zee, en bovenin het plaatje een tekst in niet-latijnse tekens en links nog een Nao humanoid robot die goed in de camera kijkt](Smartgrid.jpg){:.inline}
+
+Groene energie is de energie van de toekomst, en zelf produceren is de mode van nu. Veel huizen hebben tegenwoordig zonnepanelen, windmolens of andere installaties om zelf energie mee te produceren. Fortuinlijk genoeg produceren die installaties vaak meer dan voor eigen consumptie nodig is. Het overschot zou kunnen worden terugverkocht aan de leverancier, maar de infrastructuur (het *grid*) is daar veelal niet op berekend. Om de pieken in consumptie en produktie te kunnen managen moeten er batterijen geplaatst worden.
 
 ![](Twogrids.gif)
 **Links:** zeven huizen met zonnepanelen kunnen allemaal op één batterij worden aangesloten. Of is (**rechts**) een configuratie van twee batterijen, en minder kabels een goedkoper alternatief?
-
-Groene energie is de energie van de toekomst, en zelf produceren is de mode van nu. Veel huizen hebben tegenwoordig zonnepanelen, windmolens of andere installaties om zelf energie mee te produceren. Fortuinlijk genoeg produceren die installaties vaak meer dan voor eigen consumptie nodig is. Het overschot zou kunnen worden terugverkocht aan de leverancier, maar de infrastructuur (het *grid*) is daar veelal niet op berekend. Om de pieken in consumptie en produktie te kunnen managen moeten er batterijen geplaatst worden.
 
 
 Voor een feasibility study zijn drie dummy-woonwijken opgesteld, met daarin vijf batterijen. De huizen hebben zonnepanelen met een maximale output, de batterijen hebben een maximale capaciteit. Exacte data kun je vinden in [deze bestanden](Huizen&Batterijen.zip).

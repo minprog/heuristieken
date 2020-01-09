@@ -1,6 +1,6 @@
-![](Proteinpowder.jpg)
+# Case: Protein Pow(d)er
 
-## Inleiding
+![een fotomontage met vooraan kleurige spiraalvormige dingen, achter links een uitsnede van een pot weipoeder en rechts een stock foto van een stel medewerkers in een laboratorium, met op de voorgrond een persoon met een veiligheidsbril, mondkapje en een flinke pipet](Proteinpowder.jpg){:.inline}
 
 Eiwitten zijn lange strengen van aminozuren die veel belangrijke processen in het menselijk lichaam beregelen. Het is bekend dat eiwitten 'opgevouwen' in de lichaamscellen opgeborgen zitten, en dat de specifieke vouwing bepalend is voor het functioneren; verkeerd gevouwen eiwitten staan aan de basis van onder andere kanker, Alzheimer en taaislijmziekte. Het is daarom van groot belang voor zowel de farmaceutische industrie als de medische wetenschap om iets te kunnen zeggen over de exacte vorm van de vouwing.
 
