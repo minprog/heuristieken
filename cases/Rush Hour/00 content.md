@@ -1,6 +1,6 @@
 # Case: Rush Hour
 
-![een strak uitgesneden foto van de voorkant van een doos van het spel Rush hour, waarop een aantal cartoonfiguren in geparkeerde auto's heel boos en verrast kijkt naar een chauffeur in een rode auto die langsscheurt, met rechtsonder in beeld nog een lichte weerspiegeling van de flitser of ander licht](Rushhour.jpg)
+![een strak uitgesneden foto van de voorkant van een doos van het spel Rush hour, waarop een aantal cartoonfiguren in geparkeerde auto's heel boos en verrast kijkt naar een chauffeur in een rode auto die langsscheurt, met rechtsonder in beeld nog een lichte weerspiegeling van de flitser of ander licht](Rushhour.jpg){:.inline}
 
 ## Inleiding
 
