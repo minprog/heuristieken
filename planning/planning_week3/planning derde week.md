@@ -42,10 +42,10 @@ Alle sessies vinden in principe plaats in A1.22.
 
 | Nigel & Reitze                                     |                  | Presentatiessessie 1 | Presentatiesessie 2 | Voortgangsgesprek |
 |----------------------------------------------------|------------------|----------------------|---------------------|-------------------|
-| Utopia                                             | Amstelhaege      | Woensdag 10-11       | Donderdag 10-11     | Woensdag 11:00    |
-| Sjips                                              | Chips & Circuits | Woensdag 10-11       | Donderdag 10-11     | Woensdag 11:30    |
-| TamarMichielRosa                                   | Protein Pow(d)er | Woensdag 10-11       | Donderdag 10-11     | Woensdag 12:00    |
-| PGT Party                                          | RailNL           | Woensdag 10-11       | Donderdag 10-11     | Woensdag 12:30    |
-| Caffeine Rush                                      | Rush Hour        | Woensdag 10-11       | Donderdag 10-11     | Donderdag 11:00   |
-| Gangrush                                           | Rush Hour        | Woensdag 10-11       | Donderdag 10-11     | Donderdag 11:30   |
-| Grid Gud                                           | SmartGrid        | Woensdag 10-11       | Donderdag 10-11     | Donderdag 12:00   |
+| Utopia                                             | Amstelhaege      | Maandag 10-11       | Donderdag 10-11     | Maandag 11:00    |
+| Sjips                                              | Chips & Circuits | Maandag 10-11       | Donderdag 10-11     | Maandag 11:30    |
+| TamarMichielRosa                                   | Protein Pow(d)er | Maandag 10-11       | Donderdag 10-11     | Maandag 12:00    |
+| PGT Party                                          | RailNL           | Maandag 10-11       | Donderdag 10-11     | Maandag 12:30    |
+| Caffeine Rush                                      | Rush Hour        | Maandag 10-11       | Donderdag 10-11     | Donderdag 11:00   |
+| Gangrush                                           | Rush Hour        | Maandag 10-11       | Donderdag 10-11     | Donderdag 11:30   |
+| Grid Gud                                           | SmartGrid        | Maandag 10-11       | Donderdag 10-11     | Donderdag 12:00   |
