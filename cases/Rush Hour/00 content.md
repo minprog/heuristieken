@@ -1,5 +1,6 @@
-![](Rushhour.jpg)
-## Inleiding
+# Case: Rush Hour
+
+![een strak uitgesneden foto van de voorkant van een doos van het spel Rush hour, waarop een aantal cartoonfiguren in geparkeerde auto's heel boos en verrast kijkt naar een chauffeur in een rode auto die langsscheurt, met rechtsonder in beeld nog een lichte weerspiegeling van de flitser of ander licht](Rushhour.jpg){:.inline}
 
 Rush Hour is een ogenschijnlijk eenvoudig puzzeltje met een verrassend uitdagend karakter. In een veld van 6 hoog en 6 breed staat een rode auto, de jouwe, en die moet naar de uitgang. die recht voor je ligt. Maar andere voertuigen versperren de weg; auto's van twee eenheden lang en trucks van drie eenheden lang, die alleen in hun rijrichting bewogen mogen worden. Ze mogen niet draaien. De opdracht is simpel: beweeg je auto naar buiten, of beter: schrijf een computerprogramma om dat voor je te doen.
 
@@ -9,37 +10,37 @@ Rush Hour is een ogenschijnlijk eenvoudig puzzeltje met een verrassend uitdagend
 
 Game #1
 
-![](Rushhour6x6_1.jpg) 
+![](Rushhour6x6_1.jpg)
 
 Game #2
 
-![](Rushhour6x6_2.jpg) 
+![](Rushhour6x6_2.jpg)
 
 Game #3
 
-![](Rushhour6x6_3.jpg) 
+![](Rushhour6x6_3.jpg)
 
 {:start="2"}
 2. Verzin een implementatie voor het bord, en schrijf een algoritme dat series van zetten uitvoert. Laat het algoritme [games 4, 5 en 6](gameboards.zip) oplossen. Kortere series zijn betere series.
 
 Game #4
 
-![](Rushhour9x9_1.jpg) 
+![](Rushhour9x9_1.jpg)
 
 Game #5
 
-![](Rushhour9x9_2.jpg) 
+![](Rushhour9x9_2.jpg)
 
 Game #6
 
-![](Rushhour9x9_3.jpg) 
+![](Rushhour9x9_3.jpg)
 
 {:start="3"}
 3. Los [game 7](gameboards.zip) op. Pas je algoritme aan indien dat nodig is.
 
 Game #7
 
-![](Rushhour12x12_1.jpg) 
+![](Rushhour12x12_1.jpg)
 
 ## Advanced
 
@@ -50,7 +51,7 @@ Game #7
 
 ## Output
 
-Om resultaten te kunnen verifiëren is het handig om in een uniform format je output te genereren. 
+Om resultaten te kunnen verifiëren is het handig om in een uniform format je output te genereren.
 Bekijk [het voorbeeld](example_output.csv) (3 zetten op boord 1) en zorg ervoor dat jouw programma een oplossing in hetzelfde format kan omzetten.
 Bewegingen naar boven/rechts worden met een positief getal aangeduid en bewegingen 'de andere kant' op worden met een negatief getal aangeduid. Het getal geeft het aantal posities aan dat de auto opschuift.
 N.B. Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit enkel als laatste stap in het process te kunnen doen.

@@ -1,6 +1,6 @@
 # Case: RailNL
 
-![A song by JaRule.](Railnl.jpg){:.inline}
+![een fotomontage van de railkaart van Nederland met daarvoor een dubbeldekstrein (DD-IRM) aan een druk perron en mensen die wachten om te kunnen instappen, met daarvoor een olijk lachende conducteur die net langs de camera kijkt](Railnl.jpg){:.inline}
 
 Een dienstregeling voor treinverkeer bestaat eigenlijk uit vier planningsonderdelen: 
 

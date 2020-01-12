@@ -1,11 +1,11 @@
-![](Smartgrid.jpg)
+# Case: Smart Grid
 
-## Inleiding
-
-![](Twogrids.gif)
-**Links:** zeven huizen met zonnepanelen kunnen allemaal op één batterij worden aangesloten. Of is (**rechts**) een configuratie van twee batterijen, en minder kabels een goedkoper alternatief? 
+![een fotomontage met als achtergrond een luchtfoto van een grote stad aan zee, waaroverheen in een soort lichtgevende blauwe inkt aanpassingen aan de infrastructuur zijn geprojecteerd, met een nadrukkelijke rol voor een aantal windmolens in zee, en bovenin het plaatje een tekst in niet-latijnse tekens en links nog een Nao humanoid robot die goed in de camera kijkt](Smartgrid.jpg){:.inline}
 
 Groene energie is de energie van de toekomst, en zelf produceren is de mode van nu. Veel huizen hebben tegenwoordig zonnepanelen, windmolens of andere installaties om zelf energie mee te produceren. Fortuinlijk genoeg produceren die installaties vaak meer dan voor eigen consumptie nodig is. Het overschot zou kunnen worden terugverkocht aan de leverancier, maar de infrastructuur (het *grid*) is daar veelal niet op berekend. Om de pieken in consumptie en produktie te kunnen managen moeten er batterijen geplaatst worden.
+
+![](Twogrids.gif)
+**Links:** zeven huizen met zonnepanelen kunnen allemaal op één batterij worden aangesloten. Of is (**rechts**) een configuratie van twee batterijen, en minder kabels een goedkoper alternatief?
 
 
 Voor een feasibility study zijn drie dummy-woonwijken opgesteld, met daarin vijf batterijen. De huizen hebben zonnepanelen met een maximale output, de batterijen hebben een maximale capaciteit. Exacte data kun je vinden in [deze bestanden](Huizen&Batterijen.zip).
@@ -17,6 +17,7 @@ Voor een feasibility study zijn drie dummy-woonwijken opgesteld, met daarin vijf
 ## Opdracht
 
 Houdt tijdens de opdracht rekening met de volgende requirements:
+
 * Batterijen mogen niet aan elkaar verbondenden zijn. Ook niet via een huis.
 * Een huis mag niet aan meerdere batterijen verbonden zijn.
 * Elk huis heeft een eigen unieke kabel nodig naar de batterij.
@@ -30,6 +31,7 @@ De batterijen kosten 5000 per stuk. De kabels kosten 9 per grid-segment. De kabe
 2. Bereken de kosten voor de in 1. geconfigureerde wijken. Probeer je SmartGrid te optimaliseren en vind een zo goed mogelijke configuratie van kabels.
 
 Een nieuwe ontwikkeling in het kabelnetwerk biedt de mogelijkheid om meerdere huizen via een kabel aan een baterij te verbinden. Vanaf nu geldt de volgende requirement:
+
 * Huizen mogen via eenzelfde kabel aan een batterij verbonden zijn. Ze mogen dus een kabel delen.
 
 {:start="3"}
@@ -58,7 +60,7 @@ Het bedrijf SmartBatteryCompany heeft recentelijk drie types batterijen ontwikke
 
 ## Output
 
-Om resultaten te kunnen verifiëren is het handig om in een uniform format je output te genereren. 
+Om resultaten te kunnen verifiëren is het handig om in een uniform format je output te genereren.
 Bekijk [het voorbeeld](example_output.json) (3 huizen over 2 batterijen verdeeld) en zorg ervoor dat jouw programma een oplossing in hetzelfde format kan omzetten.
 Let op dat 1 van de huizen is aangesloten op een reeds bestaande kabel van een ander huis.
 N.B. Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit enkel als laatste stap in het process te kunnen doen.
