@@ -4,13 +4,13 @@ Alle sessies vinden in principe plaats in A1.22.
 
 | Okke & Jasper                                      |                  | Presentatiessessie 1 | Presentatiesessie 2 | Voortgangsgesprek |
 |----------------------------------------------------|------------------|----------------------|---------------------|-------------------|
-| Team Rocket                                        | Amstelhaege      | Maandag 11-12        | Woensdag 13-14      | Maandag 10:00     |
-| Teamnaam                                           | Chips & Circuits | Maandag 11-12        | Woensdag 13-14      | Maandag 10:30     |
-| Powder Rangers                                     | Protein Pow(d)er | Maandag 11-12        | Woensdag 13-14      | Maandag 12:00     |
-| Roadrage                                           | RailNL           | Maandag 11-12        | Woensdag 13-14      | Maandag 12:30     |
-| 0505 + Wouter                                      | RailNL           | Maandag 11-12        | Woensdag 13-14      | Maandag 13:00     |
-| commit4life                                        | Rush Hour        | Maandag 11-12        | Woensdag 13-14      | Maandag 13:30     |
-| The Group Formerly Known as 'The Prince Statement' | SmartGrid        | Maandag 11-12        | Woensdag 13-14      | Maandag 14:00     |
+| Team Rocket                                        | Amstelhaege      | Maandag 11-12        | Woensdag 10-11      | Maandag 10:00     |
+| Teamnaam                                           | Chips & Circuits | Maandag 11-12        | Woensdag 10-11      | Maandag 10:30     |
+| Powder Rangers                                     | Protein Pow(d)er | Maandag 11-12        | Woensdag 10-11      | Maandag 12:00     |
+| Roadrage                                           | RailNL           | Maandag 11-12        | Woensdag 10-11      | Maandag 12:30     |
+| 0505 + Wouter                                      | RailNL           | Maandag 11-12        | Woensdag 10-11      | Maandag 13:00     |
+| commit4life                                        | Rush Hour        | Maandag 11-12        | Woensdag 10-11      | Maandag 13:30     |
+| The Group Formerly Known as 'The Prince Statement' | SmartGrid        | Maandag 11-12        | Woensdag 10-11      | Maandag 14:00     |
 
 | Quinten & Edwin                                    |                  | Presentatiessessie 1 | Presentatiesessie 2 | Voortgangsgesprek |
 |----------------------------------------------------|------------------|----------------------|---------------------|-------------------|
