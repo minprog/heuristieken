@@ -24,7 +24,7 @@ Alle sessies vinden in principe plaats in A1.22.
 | ---------------------------- | ------------------ | ---------------------- | --------------------- | ------------------- |  
 | Dplace                       | Amstelhaege        | Maandag 12-13          | Donderdag 11-12       | Maandag 11:00       |  
 | Team winnen                  | Chips & Circuits   | Maandag 12-13          | Donderdag 11-12       | Maandag 11:30       |  
-| 1100                         | Protein Pow(d)er   | Maandag 12-13          | Donderdag 11-12       | Maandag 13:00       |  
+| 1100                         | Protein Pow(d)er   | Maandag 12-13          | Donderdag 11-12       | Donderdag 14:00     |  
 | Team 1                       | Protein Pow(d)er   | Maandag 12-13          | Donderdag 11-12       | Donderdag 12:00     |  
 | BetaRail                     | RailNL             | Maandag 12-13          | Donderdag 11-12       | Donderdag 12:30     |  
 | fast telecom services        | Rush Hour          | Maandag 12-13          | Donderdag 11-12       | Donderdag 13:00     |  
