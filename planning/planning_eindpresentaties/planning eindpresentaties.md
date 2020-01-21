@@ -59,6 +59,7 @@
 | fast telecom services                                                           | Rush Hour        |
 | Big batteries                                                                   | SmartGrid        |
 
+
 #### Vrijdag 31 januari 10:00-12:00 in A1.22 met Bas Terwijn en Quinten van der Post
 
 | Team                                                                            | Case             |
@@ -68,7 +69,9 @@
 | Utopia                                                                          | Amstelhaege      |
 | Gangrush                                                                        | Rush Hour        |
 
+
 #### Vrijdag 31 januari 13:00-15:00 in A1.22 met Bas Terwijn en Quinten van der Post
+
 | Team                                                                            | Case             |
 |---------------------------------------------------------------------------------|------------------|
 | Roadrage                                                                        | RailNL           |
