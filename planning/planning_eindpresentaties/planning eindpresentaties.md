@@ -16,7 +16,6 @@
 | De mandarijntjes                                                                  | Chips & Circuits |
 | BetaRail                                                                          | RailNL           |
 | Heureka                                                                           | Smartgrid        |
-|                                                                                   |                  |
 
 
 #### Donderdag 30 januari 10:00-12:00 in A1.22 met Bas Terwijn en Quinten van der Post
