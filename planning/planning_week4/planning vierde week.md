@@ -25,10 +25,10 @@ Alle sessies vinden in principe plaats in A1.22.
 | Dplace                       | Amstelhaege        | Maandag 12-13          | Maandag 11:00       |  
 | Team winnen                  | Chips & Circuits   | Maandag 12-13          | Maandag 11:30       |  
 | 1100                         | Protein Pow(d)er   | Maandag 12-13          | Maandag 13:00       |  
-| Team 1                       | Protein Pow(d)er   | Maandag 12-13          | Donderdag 12:00     |  
-| BetaRail                     | RailNL             | Maandag 12-13          | Donderdag 12:30     |  
-| fast telecom services        | Rush Hour          | Maandag 12-13          | Donderdag 13:00     |  
-| Heureka                      | Smartgrid          | Maandag 12-13          | Donderdag 13:30     |  
+| Team 1                       | Protein Pow(d)er   | Maandag 12-13          | Dinsdag 15:00       |  
+| BetaRail                     | RailNL             | Maandag 12-13          | Dinsdag 15:30       |  
+| fast telecom services        | Rush Hour          | Maandag 12-13          | Dinsdag 16:00       |  
+| Heureka                      | Smartgrid          | Maandag 12-13          | Dinsdag 16:30       |  
 
 | Marleen & Julien                                   |                  | Presentatiessessie 1 | Voortgangsgesprek |
 |----------------------------------------------------|------------------|----------------------|-------------------|
