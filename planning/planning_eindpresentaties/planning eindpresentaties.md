@@ -38,7 +38,7 @@
 | Caffeine Rush                                                                     | Rush Hour        |
 
 
-#### Vrijdag 31 januari 10:00-12:00 in A1.18 met Wouter Vrielink en Angelo Groot
+#### Vrijdag 31 januari 10:00-12:00 in A1.18 met Wouter Vrielink en Okke van Eck
 
 | Team                                                                            | Case             |
 |---------------------------------------------------------------------------------|------------------|
@@ -48,8 +48,7 @@
 | m4st3r_h4ck3rz_4_l1f3.mp3                                                       | SmartGrid        |
 
 
-#### Vrijdag 31 januari 13:00-15:00 in A1.18 met Wouter Vrielink en Okke van Eck
-
+#### Vrijdag 31 januari 13:00-15:00 in A1.18 met Wouter Vrielink en Angelo Groot
 | Team                                                                            | Case             |
 |---------------------------------------------------------------------------------|------------------|
 | Heuristic Heroes                                                                | RailNL           |
