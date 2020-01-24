@@ -16,9 +16,9 @@ Alle sessies vinden in principe plaats in A1.22.
 | str(group_name)              | Chips & Circuits   | Dinsdag 11-12          | Dinsdag 12:00       |  
 | Shire Peasants 3             | Protein Pow(d)er   | Dinsdag 11-12          | Dinsdag 12:30       |  
 | Heuristic Heroes             | RailNL             | Dinsdag 11-12          | Dinsdag 13:00       |  
-| non-beta bois                | Rush Hour          | Dinsdag 11-12          | Vrijdag 11:00       |  
-| GTA                          | Smart Grid         | Dinsdag 11-12          | Vrijdag 11:30       |  
-| De mandarijntjes             | Chips & Circuits   | Dinsdag 11-12          | Vrijdag 12:00       |  
+| non-beta bois                | Rush Hour          | Dinsdag 11-12          | Dinsdag 14:00       |  
+| GTA                          | Smart Grid         | Dinsdag 11-12          | Dinsdag 14:30       |  
+| De mandarijntjes             | Chips & Circuits   | Dinsdag 11-12          | Dinsdag 15:00       |  
 
 | Bas & Angelo                 |                    | Presentatiessessie 1   | Voortgangsgesprek   |  
 | ---------------------------- | ------------------ | ---------------------- | ------------------- |  

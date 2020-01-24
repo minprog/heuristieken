@@ -38,7 +38,7 @@
 | Caffeine Rush                                                                     | Rush Hour        |
 
 
-#### Vrijdag 31 januari 10:00-12:00 in A1.18 met Wouter Vrielink en Angelo Groot
+#### Vrijdag 31 januari 10:00-12:00 in A1.18 met Wouter Vrielink en Edwin Steffens
 
 | Team                                                                            | Case             |
 |---------------------------------------------------------------------------------|------------------|
