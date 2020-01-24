@@ -16,6 +16,7 @@
 ### README
 
 Voor de README kijken we o.a. naar:
+
 - De case waar de studenten mee bezig geweest zijn is duidelijk geïntroduceerd.
 - De aanpak van de verschillende algoritmen is duidelijk beschreven.
 - Het is duidelijk hoe de resultaten te reproduceren zijn, via een interface (command line), argumenten die meegegeven kunnen worden voor de verschillende functionaliteiten/algoritmen, of bijvoorbeeld een duidelijke uitleg welke file te runnen om welk resultaat te krijgen.
@@ -23,6 +24,7 @@ Voor de README kijken we o.a. naar:
 ### Repository
 
 Voor de repository kijken we o.a. naar:
+
 - Zit geen rommel in de repository (pycache, .DS_Store, algoritmeA, algoritmeA2, algoritmeA2Final, etc.)
 - De repository heeft een duidelijke en overzichtelijke indeling die ervoor zorgt dat files makkelijk te vinden zijn.
 - Er is een nette hoeveelheid commits.
@@ -30,6 +32,7 @@ Voor de repository kijken we o.a. naar:
 ### Code:
 
 Voor de kwaliteit van de code kijken we o.a. naar:
+
 - Stijl van de code is consistent.
 - De code is modulair geschreven, met korte functies, duidelijk ordening van files, en geen duplicate code.
 - Abstractie is aangebracht waar nodig; alleen relevante data over een object is beschikbaar om complexiteit laag te houden en onderhoud aan code simpel te maken.
