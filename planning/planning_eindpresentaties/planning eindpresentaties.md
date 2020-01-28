@@ -76,5 +76,5 @@
 | Roadrage                                                                        | RailNL           |
 | Bigbrainz                                                                       | Rush Hour        |
 | Simcity                                                                         | Amstelhaege      |
-| TamarMichielRosa                                                                | Protein Pow(d)er |
+| DanoontjePower                                                                  | Protein Pow(d)er |
 | Grid Gud                                                                        | SmartGrid        |

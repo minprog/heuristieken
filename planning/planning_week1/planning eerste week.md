@@ -45,7 +45,7 @@ Alle sessies vinden in principe plaats in A1.22.
 | ---------------------------- | ------------------ | ---------------------- | --------------------- | ------------------- |  
 | Utopia                       | Amstelhaege        | Woensdag 10-11         | Donderdag 10-11       | Woensdag 11:00      |  
 | cysteïne1110                 | Chips & Circuits   | Woensdag 10-11         | Donderdag 10-11       | Woensdag 11:30      |  
-| TamarMichielRosa             | Protein Pow(d)er   | Woensdag 10-11         | Donderdag 10-11       | Woensdag 12:00      |  
+| DanoontjePower               | Protein Pow(d)er   | Woensdag 10-11         | Donderdag 10-11       | Woensdag 12:00      |  
 | PGT Party                    | RailNL             | Woensdag 10-11         | Donderdag 10-11       | Woensdag 12:30      |  
 | Caffeine Rush                | Rush Hour          | Woensdag 10-11         | Donderdag 10-11       | Donderdag 11:00     |  
 | Gangrush                     | Rush Hour          | Woensdag 10-11         | Donderdag 10-11       | Donderdag 11:30     |  
