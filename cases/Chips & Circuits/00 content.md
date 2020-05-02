@@ -36,7 +36,7 @@ A few steps to pave the way towards a program:
 2) Expand your program by making a data structure for a netlist. Make sure it holds a few nets, and that the program has a cost function to calculate the total wire length.
 
 
-3) Add 7 more layers by stacking them on top of the base layer. Try to get all the nets in. You can either build up wire-by-wire, or remove collisions one by one. 
+3) Add 7 more layers by stacking them on top of the base layer. Try to get as many as possible of the nets in. You can either build up wire-by-wire, or remove collisions one by one. Do not worry if you can not fit all of them initially; it is still possible to measure performance by the percentage of nets that you have been able to fit in with a specific algorithm.
 
 
 4) Try to get all the nets in with minimal costs. Record all your results, so you can present them later.
