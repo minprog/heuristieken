@@ -2,54 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc8a80a0-3804-4cfe-a46b-2dc25c99ecee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/cases/AmstelHaege/00 content.md" beforeDir="false" afterPath="$PROJECT_DIR$/cases/AmstelHaege/00 content.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/AmstelHaege/example_output.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/AmstelHaege/example_output.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/AmstelHaege/wijken.zip" beforeDir="false" afterPath="$PROJECT_DIR$/cases/AmstelHaege/wijken.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/AmstelHaege/wijken/wijk_1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/AmstelHaege/wijken/wijk_1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/AmstelHaege/wijken/wijk_2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/AmstelHaege/wijken/wijk_2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/AmstelHaege/wijken/wijk_3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/AmstelHaege/wijken/wijk_3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Chips &amp; Circuits/00 content.md" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Chips &amp; Circuits/00 content.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Chips &amp; Circuits/example.zip" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Chips &amp; Circuits/example.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Chips &amp; Circuits/example/example_netlist.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Chips &amp; Circuits/example/example_netlist.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Chips &amp; Circuits/example/example_output.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Chips &amp; Circuits/example/example_output.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Chips &amp; Circuits/example/example_print.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Chips &amp; Circuits/example/example_print.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Chips &amp; Circuits/gates&amp;netlists.zip" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Chips &amp; Circuits/gates&amp;netlists.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Chips &amp; Circuits/gates&amp;netlists/chip_1/netlist_1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Chips &amp; Circuits/gates&amp;netlists/chip_1/netlist_1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Chips &amp; Circuits/gates&amp;netlists/chip_1/netlist_2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Chips &amp; Circuits/gates&amp;netlists/chip_1/netlist_2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Chips &amp; Circuits/gates&amp;netlists/chip_1/netlist_3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Chips &amp; Circuits/gates&amp;netlists/chip_1/netlist_3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Chips &amp; Circuits/gates&amp;netlists/chip_1/print_1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Chips &amp; Circuits/gates&amp;netlists/chip_1/print_1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Chips &amp; Circuits/gates&amp;netlists/chip_2/netlist_4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Chips &amp; Circuits/gates&amp;netlists/chip_2/netlist_4.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Chips &amp; Circuits/gates&amp;netlists/chip_2/netlist_5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Chips &amp; Circuits/gates&amp;netlists/chip_2/netlist_5.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Chips &amp; Circuits/gates&amp;netlists/chip_2/netlist_6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Chips &amp; Circuits/gates&amp;netlists/chip_2/netlist_6.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Chips &amp; Circuits/gates&amp;netlists/chip_2/print_2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Chips &amp; Circuits/gates&amp;netlists/chip_2/print_2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Protein Pow(d)er/00 content.md" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Protein Pow(d)er/00 content.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Protein Pow(d)er/example_output.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Protein Pow(d)er/example_output.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Radio Russia/00 content.md" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Radio Russia/00 content.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/RailNL/00 content.md" beforeDir="false" afterPath="$PROJECT_DIR$/cases/RailNL/00 content.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/RailNL/ConnectiesHolland.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/RailNL/ConnectiesNationaal.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/RailNL/StationsHolland.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/RailNL/StationsNationaal.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/RailNL/example_output.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/RailNL/example_output.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Rush Hour/00 content.md" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Rush Hour/00 content.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Rush Hour/example_output.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Rush Hour/example_output.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Rush Hour/gameboards.zip" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Rush Hour/gameboards.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Rush Hour/gameboards/Rushhour12x12_7.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Rush Hour/gameboards/Rushhour12x12_7.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Rush Hour/gameboards/Rushhour6x6_1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Rush Hour/gameboards/Rushhour6x6_1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Rush Hour/gameboards/Rushhour6x6_2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Rush Hour/gameboards/Rushhour6x6_2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Rush Hour/gameboards/Rushhour6x6_3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Rush Hour/gameboards/Rushhour6x6_3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Rush Hour/gameboards/Rushhour9x9_4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Rush Hour/gameboards/Rushhour9x9_4.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Rush Hour/gameboards/Rushhour9x9_5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Rush Hour/gameboards/Rushhour9x9_5.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/Rush Hour/gameboards/Rushhour9x9_6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases/Rush Hour/gameboards/Rushhour9x9_6.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/SmartGrid/00 content.md" beforeDir="false" afterPath="$PROJECT_DIR$/cases/SmartGrid/00 content.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/SmartGrid/Huizen&amp;Batterijen.zip" beforeDir="false" afterPath="$PROJECT_DIR$/cases/SmartGrid/Huizen&amp;Batterijen.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/SmartGrid/Huizen&amp;Batterijen/wijk1_batterijen.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/SmartGrid/Huizen&amp;Batterijen/wijk1_huizen.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/SmartGrid/Huizen&amp;Batterijen/wijk2_batterijen.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/SmartGrid/Huizen&amp;Batterijen/wijk2_huizen.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/SmartGrid/Huizen&amp;Batterijen/wijk3_batterijen.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/SmartGrid/Huizen&amp;Batterijen/wijk3_huizen.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/SmartGrid/example_output.json" beforeDir="false" afterPath="$PROJECT_DIR$/cases/SmartGrid/example_output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +49,7 @@
       <updated>1588428724918</updated>
       <workItem from="1588428726196" duration="702000" />
       <workItem from="1588843210229" duration="5258000" />
-      <workItem from="1588854584817" duration="5953000" />
+      <workItem from="1588854584817" duration="6145000" />
     </task>
     <servers />
   </component>
