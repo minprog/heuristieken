@@ -46,6 +46,7 @@ Bekijk [het voorbeeld](example_output.csv) en zorg ervoor dat jouw programma een
 De 0 bij het laatste aminozuur geeft aan dat er geen buiging gedaan hoeft te worden.
 Een vereiste aan de output zijn de header-regel (regel 1) en de footer-regel (regel 11). 
 Deze moeten in jouw output ook voorkomen, waarbij alleen het getal voor de score zal verschillen.
+
 N.B. Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit enkel als laatste stap in het process te kunnen doen.
 
 #### Opbouw output

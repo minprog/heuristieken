@@ -19,13 +19,14 @@ Omdat de Duivenderechtse polder ooit beschermd natuurgebied was, is de compromis
 
 
 ## Opdracht
-In [wijken.zip](wijken.zip) tref je 3 verschillende csv's aan. Elke csv beschrijft de plaatsing van het oppervlaktewater in de bijbehorende wijk. Hiervan worden de plaatsing van het linkeronderpunt en rechterbovenpunt gegeven als x,y coordinaten.
+In [wijken.zip](wijken.zip) tref je 3 verschillende csv's aan. 
+Elke csv beschrijft de plaatsing van het oppervlaktewater in de bijbehorende wijk. 
+Hiervan worden de plaatsing van het linkeronderpunt en rechterbovenpunt gegeven als x,y coordinaten.
 
 1. Lever allereerst voor wijk_1 een plattegrond af voor de kleinste huizenvariant van de nieuw te bouwen wijk Amstelhaege. De huizen mogen willekeurig, handmatig, of door een slim algoritme worden geplaatst.
 2. Visualiseer je plattegrond en kijk goed of de plaatsing wel aan de requirements voldoet (zijn alle huizen geplaatst? voldoet de plaatsing aan de verplichte vrijstand?)
 3. Stel vervolgens een doelfunctie op, die de waarde van ieder huis kan bepalen aan de hand van de vrijstand om elk huis heen. Bereken hiermee de waarde van de plattegrond.
-
-2. Lever vervolgens voor alle wijken een plattegrond (2D of 3D) af voor ieder van de drie huizenvarianten voor de nieuw te bouwen wijk Amstelhaege. De score voor een plattegrond is de opgetelde waarde van alle huizen in de wijk.
+4. Lever vervolgens voor alle wijken een plattegrond (2D of 3D) af voor ieder van de drie huizenvarianten voor de nieuw te bouwen wijk Amstelhaege. De score voor een plattegrond is de opgetelde waarde van alle huizen in de wijk.
 
 
 ## Advanced
@@ -39,7 +40,8 @@ Om resultaten te kunnen verifiëren is het handig om in een uniform format je ou
 Bekijk [het voorbeeld](example_output.csv) en zorg ervoor dat jouw programma een oplossing in hetzelfde format kan omzetten.
 Een vereiste aan de output zijn de header-regel (regel 1) en de footer-regel (regel 23). 
 Deze moeten in jouw output ook voorkomen, waarbij alleen het getal voor de networth zal verschillen.
-Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit enkel als laatste stap in het process te kunnen doen.
+
+N.B. Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit enkel als laatste stap in het process te kunnen doen.
 
 
 ## Check50
@@ -47,6 +49,10 @@ Je kan je programma's testen door de output mee te geven aan de check50. Dit kan
 1. Genereer een antwoord en sla deze met het bovenstaande formaat op in een nieuw bestand met de naam `output.csv`
 2. Open een terminal in de folder waar je `output.csv` hebt opgeslagen
 3. Run het commando `check50 okkevaneck/check50_heuristieken/master/amstelhaege`
+
+De check50 is zo geschreven dat je de huizen vrij kan draaien en plaatsen.
+Dit betekent dat er niet wordt gecheckt of je de plaatsing volgens het grid heb gedaan, met daarbij alleen draaïngen van 90 graden.
+Hierdoor heb je meer vrijheid in het vinden van oplossingen, maar tevens zal je algoritme ook een stuk trager worden.
 
 
 ## Links

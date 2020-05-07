@@ -57,7 +57,8 @@ Bekijk [het voorbeeld](example_output.csv) en zorg ervoor dat jouw programma een
 Een vereiste aan de output zijn de header-regel (regel 1) en de footer-regel (regel 29). 
 Deze moeten in jouw output ook voorkomen, waarbij alleen de footer-regel andere waardes kan bevatten.
 De footer-regel is opgesteld als `<land>,<kostenschema>` waarbij het land `china`, `russia`, `ukraine` of `usa` kan zijn en het kostenschema `1`, `2`, `3` of `4` kan zijn.
-Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit enkel als laatste stap in het process te kunnen doen.
+
+N.B. Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit enkel als laatste stap in het process te kunnen doen.
 
 
 ## Check50

@@ -56,6 +56,7 @@ Bekijk [het voorbeeld](example_output.csv) en zorg ervoor dat jouw programma een
 De enige vereiste aan de output is de header-regel (regel 1), die identiek moet zijn.
 Bewegingen naar boven/rechts worden met een positief getal aangeduid en bewegingen 'de andere kant' op worden met een negatief getal aangeduid. 
 Het getal geeft het aantal posities aan dat de auto opschuift.
+
 N.B. Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit enkel als laatste stap in het process te kunnen doen.
 
 

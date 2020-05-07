@@ -43,6 +43,9 @@ To be able to verify the results of your program it is useful to be able to gene
 Take a look at [the example](example.zip) and make sure your program can transform a solution into the same output.
 The header-row (row 1) is required to be identical and the footer row needs to be adjusted to the problem you have solved.
 The footer-row (row 7) is composed as `chip_<chip_id>_net_<net_id>,<total_cost>`, where all variables are integers.
+You can define the height in the coordinates as a third integer, i.e. `(1,5,1)`. 
+The standard height will be 0 and is optional to specify.
+
 Note that your program does not have to use or rely on this output. This is solely a conversion of the representation of your solution as a final step.
 
 

@@ -30,7 +30,7 @@ $$ K = p*10000 - (T*100 + Min) $$
 waarin $K$ de kwaliteit van de lijnvoering is, $p$ de fractie van de bereden verbindingen (dus tussen 0 en 1), $T$ het aantal trajecten en $Min$ het aantal minuten in alle trajecten samen.
 
 {:start="2"}
-2. Maak wederom een lijnvoering voor Noord-Holland met maximaal zeven trajecten binnen een tijdsframe van twee uur, en probeer nu $K$ zo hoog mogelijk te krijgen.
+2. Maak wederom een lijnvoering voor Noord- en Zuid-Holland met maximaal zeven trajecten binnen een tijdsframe van twee uur, en probeer nu $K$ zo hoog mogelijk te krijgen.
 
 
 ## Opdracht deel 2: Nederland
@@ -53,6 +53,7 @@ Om resultaten te kunnen verifiëren is het handig om in een uniform format je ou
 Bekijk [het voorbeeld](example_output.csv) (3 treinen die door Noord-Holland rijden) en zorg ervoor dat jouw programma een oplossing in hetzelfde format kan omzetten.
 Een vereiste aan de output zijn de header-regel (regel 1) en de footer-regel (regel 5). 
 Deze moeten in jouw output ook voorkomen, waarbij alleen het getal voor de score zal verschillen.
+
 N.B. Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit enkel als laatste stap in het process te kunnen doen.
 
 

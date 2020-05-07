@@ -78,12 +78,15 @@ Het bedrijf SmartBatteryCompany heeft recentelijk drie types batterijen ontwikke
 ## Output
 Om resultaten te kunnen verifiëren is het handig om in een uniform format je output te genereren.
 Bekijk [het voorbeeld](example_output.json) (3 huizen over 2 batterijen verdeeld) en zorg ervoor dat jouw programma een oplossing in hetzelfde format kan omzetten.
-Let op dat 1 van de huizen is aangesloten op een reeds bestaande kabel van een ander huis.
-Zie ook dat het eerste object in de lijst aangeeft voor welke wijk het een oplossing is, en hoe de kosten berekend moeten worden. 
-Zorg dat het eerste object in jouw output ook in dezelfde format is. 
-De waarde van `district` moet `1`, `2` of `3` zijn. 
-Het tweede item is `own-costs` of `shared-costs`, afhankelijk van of de kabels _niet_ of _wel_ gedeeld worden.
-Deze is gevolgd door de totale kosten van je oplossing.
+Hierbij moet er op een paar punten gelet worden:
+
+1. Let op dat 1 van de huizen is aangesloten op een reeds bestaande kabel van een ander huis.
+2. Er moeten ook kabels gelegd worden op de huizen zelf, om aan te geven dat het huis verbonden is met de rest.
+3. Zie dat het eerste object in de lijst aangeeft voor welke wijk het een oplossing is, en hoe de kosten berekend moeten worden. 
+    1. Zorg dat het eerste object in jouw output ook in dezelfde format is. 
+    2. De waarde van `district` moet `1`, `2` of `3` zijn. 
+    3. Het tweede item is `own-costs` of `shared-costs`, afhankelijk van of de kabels _niet_ of _wel_ gedeeld worden. Deze is gevolgd door de totale kosten van je oplossing.
+    
 N.B. Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit enkel als laatste stap in het process te kunnen doen.
 
 
