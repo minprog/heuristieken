@@ -5,7 +5,9 @@ Rush Hour is een ogenschijnlijk eenvoudig puzzeltje met een verrassend uitdagend
 
 
 ## Opdracht
-1. Los [games 1, 2 en 3](gameboards.zip) op. Doe hoe je dat goed lijkt. Het is natuurlijk goed om daar een programma voor te schrijven, maar als je een ander idee hebt, of het met de hand kunt, mag dat ook.
+1. Los [games 1, 2 en 3](gameboards.zip) op. Doe hoe je dat goed lijkt. 
+Het is natuurlijk goed om daar een programma voor te schrijven, maar als je een ander idee hebt, of het met de hand kunt, mag dat ook.
+Let er op dat de _row_ en _column_ waarden beginnen vanaf 1 en niet vanaf 0!
 
 Game #1
 
