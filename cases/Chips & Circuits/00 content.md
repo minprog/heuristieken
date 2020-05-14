@@ -20,22 +20,19 @@ This is an integrated circuit built up from five gates that need to be connected
 ![](Print1.gif)
 ![](Print2.gif)
 
-Print #1 and Print #2 are arrangements of gates on a base, and all it takes is to wire the appropriate gates together. There are three netlists (in [csv-format](gates&netlists.zip)) for each print. Each netlist needs to be implemented. Nets can only follow the grid, as well as the edges of the grid, and one step costs 1 unit length. Wires may neither run along the same grid segment, nor can they cross at an intersection (they're not allowed to touch!). Nets that are aligned along the same grid line are said to be in _collision_. If there is one collision in one arrangement, the circuit cannot be used. Nets can also go up and down to lower and higher layers, also at the cost of 1 per level. The assignment is to implement all nets in all netlists at minimum cost.
-
+Print #1 and Print #2 are arrangements of gates on a base, and all it takes is to wire the appropriate gates together. There are three netlists (in [csv-format](gates&netlists.zip)) for each print. Each netlist needs to be implemented. Nets can only follow the grid, as well as the edges of the grid, and one step costs 1 unit length. Wires may neither run along the same grid segment, nor can they cross at an intersection (they're not allowed to touch!). Nets that are aligned along the same grid line are said to be in _collision_. If there is one collision in one arrangement, the circuit cannot be used. Nets can also go up and down to lower and higher layers, also at the cost of 1 per level. The assignment is to implement all nets in all netlists at minimum cost.  
 A few steps to pave the way towards a program:
-1) Build a computer program that holds a data structure for a grid with fixed gates. 
 
-2) Expand your program by making a data structure for a netlist. Make sure it holds a few nets, and that the program has a cost function to calculate the total wire length.
-
-3) Add 7 more layers by stacking them on top of the base layer. Try to get as many as possible of the nets in. You can either build up wire-by-wire, or remove collisions one by one. Do not worry if you can not fit all of them initially; it is still possible to measure performance by the percentage of nets that you have been able to fit in with a specific algorithm.
-
-4) Try to get all the nets in with minimal costs. Record all your results, so you can present them later.
+1. Build a computer program that holds a data structure for a grid with fixed gates. 
+2. Expand your program by making a data structure for a netlist. Make sure it holds a few nets, and that the program has a cost function to calculate the total wire length.
+3. Add 7 more layers by stacking them on top of the base layer. Try to get as many as possible of the nets in. You can either build up wire-by-wire, or remove collisions one by one. Do not worry if you can not fit all of them initially; it is still possible to measure performance by the percentage of nets that you have been able to fit in with a specific algorithm.
+4. Try to get all the nets in with minimal costs. Record all your results, so you can present them later.
 
 
 ## Advanced
-* Randomly generate some new netlists. They should be of equal length to the original netlists. Which are solvable, which aren't? Which have good solutions, which haven't?
-
-* For each of the three arrangements, try to determine the relation between the number of wires and the required number of layers.
+{:start="5"}
+5. Randomly generate some new netlists. They should be of equal length to the original netlists. Which are solvable, which aren't? Which have good solutions, which haven't?  
+6. For each of the three arrangements, try to determine the relation between the number of wires and the required number of layers.  
 
 
 ## Output
@@ -51,6 +48,7 @@ Note that your program does not have to use or rely on this output. This is sole
 
 ## Check50
 You can verify your programs by passing an output file to the check50. This can be done in three easy steps:
+
 1. Generate an answer and save it with the format above in a new file named `output.csv`
 2. Open a terminal in the folder you saved `output.csv`
 3. Run the command `check50 okkevaneck/check50_heuristieken/master/chips_and_circuits`

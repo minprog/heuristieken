@@ -16,21 +16,19 @@ Voor een feasibility study zijn drie dummy-woonwijken opgesteld, met daarin vijf
 De huizen hebben zonnepanelen met een maximale output, de batterijen hebben een maximale capaciteit. 
 Exacte data kun je vinden in [deze bestanden](Huizen&Batterijen.zip).
 
-Wijk #1:
-
+Wijk #1:  
 ![](Wijk1.png)
 
-Wijk #2:
-
+Wijk #2:  
 ![](Wijk2.png)
 
-Wijk #3:
-
+Wijk #3:  
 ![](Wijk3.png)
 
 
 ## Opdracht
 Houdt tijdens de opdracht rekening met de volgende requirements:
+
 * Batterijen mogen niet aan elkaar verbondenden zijn. Ook niet via een huis.
 * Een huis mag niet aan meerdere batterijen verbonden zijn.
 * Elk huis heeft een eigen unieke kabel nodig naar de batterij.
@@ -50,17 +48,16 @@ Vanaf nu geldt de volgende requirement:
 * Huizen mogen via eenzelfde kabel aan een batterij verbonden zijn. Ze mogen dus een kabel delen.
 
 {:start="3"}
-2. Verbind alle huizen in de drie wijken aan een batterij. De maximumcapaciteit van de huizen mag die van de batterijen uiteraard niet overschrijden.
-
-3. Optimaliseer het smartGrid voor de drie wijken.
+3. Verbind alle huizen in de drie wijken aan een batterij. De maximumcapaciteit van de huizen mag die van de batterijen uiteraard niet overschrijden.
+4. Optimaliseer het smartGrid voor de drie wijken.
 
 
 ## Advanced  
 Nu is het zo, dat de batterijen misschien niet op de best mogelijke plaatsen staan. 
 Het verplaatsen van batterijen vercompliceert de zaak enorm, maar de opdrachtgever wil het toch proberen, om inzicht in het probleem te krijgen.
 
-{:start="4"}
-3. Verplaats de batterijen, en probeer een beter resultaat te realiseren.
+{:start="5"}
+5. Verplaats de batterijen, en probeer een beter resultaat te realiseren.
 
 Het bedrijf SmartBatteryCompany heeft recentelijk drie types batterijen ontwikkeld, met verschillende capaciteiten en verschillende prijzen.
 
@@ -70,9 +67,8 @@ Het bedrijf SmartBatteryCompany heeft recentelijk drie types batterijen ontwikke
 | Imerse-II | 900 | 1350 |
 | Imerse-III | 1800 | 1800 |
 
-{:start="4"}
-
-4. Probeer een betere configuratie voor de wijken te vinden met deze batterijen. Je mag er zoveel gebruiken als je wil en kunnen op ieder gridpunt zonder huis geplaatst worden.
+{:start="6"}
+6. Probeer een betere configuratie voor de wijken te vinden met deze batterijen. Je mag er zoveel gebruiken als je wil en kunnen op ieder gridpunt zonder huis geplaatst worden.
 
 
 ## Output
@@ -92,6 +88,7 @@ N.B. Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit e
 
 ## Check50
 Je kan je programma's testen door de output mee te geven aan de check50. Dit kan in drie eenvoudige stappen:
+
 1. Genereer een antwoord en sla deze met het bovenstaande formaat op in een nieuw bestand met de naam `output.json`
 2. Open een terminal in de folder waar je `output.json` hebt opgeslagen
 3. Run het commando `check50 okkevaneck/check50_heuristieken/master/smartgrid`

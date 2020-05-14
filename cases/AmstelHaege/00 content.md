@@ -32,7 +32,8 @@ Hiervan worden de plaatsing van het linkeronderpunt en rechterbovenpunt gegeven 
 ## Advanced
 Een groter budget staat nu toe om zelf oppervlaktewater aan te leggen. De wijk moet voor 20% uit oppervlaktewater bestaan, opgedeeld in niet meer dan vier lichamen die rechthoekig of ovaal van vorm zijn. Om de wijk aantrekkelijk te houden, moeten de lichamen een hoogte-breedteverhoudingen tussen de 1 en de 4 liggen. Geen lange dunne slootjes dus! Huizen mogen niet op het water worden geplaatst, maar hun vrijstand wel.
 
-* Wat is de maximale waarde die je kunt bereiken met een zelfgekozen verdeling en plaatsing van het water?
+{:start="5"}
+5. Wat is de maximale waarde die je kunt bereiken met een zelfgekozen verdeling en plaatsing van het water?
 
 
 ## Output
@@ -46,6 +47,7 @@ N.B. Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit e
 
 ## Check50
 Je kan je programma's testen door de output mee te geven aan de check50. Dit kan in drie eenvoudige stappen:
+
 1. Genereer een antwoord en sla deze met het bovenstaande formaat op in een nieuw bestand met de naam `output.csv`
 2. Open een terminal in de folder waar je `output.csv` hebt opgeslagen
 3. Run het commando `check50 okkevaneck/check50_heuristieken/master/amstelhaege`
