@@ -20,7 +20,21 @@ This is an integrated circuit built up from five gates that need to be connected
 ![](Print1.gif)
 ![](Print2.gif)
 
-Print #1 and Print #2 are arrangements of gates on a base, and all it takes is to wire the appropriate gates together. There are three netlists (in [csv-format](gates&netlists.zip)) for each print. Each netlist needs to be implemented. Nets can only follow the grid, as well as the edges of the grid, and one step costs 1 unit length. Wires may neither run along the same grid segment, nor can they cross at an intersection (they're not allowed to touch!). Nets that are aligned along the same grid line are said to be in _collision_. If there is one collision in one arrangement, the circuit cannot be used. Nets can also go up and down to lower and higher layers, also at the cost of 1 per level. The assignment is to implement all nets in all netlists at minimum cost.  
+Print #1 and Print #2 are arrangements of gates on a base, and all it takes is to wire the appropriate gates together. 
+There are three netlists (in [csv-format](gates&netlists.zip)) for each print. Each netlist needs to be implemented. 
+Nets can only follow the grid, as well as the edges of the grid, and one step costs 1 unit length. 
+
+Wires cannot run along the same grid segment, since a segment can only hold one wire. 
+Nets that are aligned along the same grid line are said to be in _collision_. 
+If there is one collision in one arrangement, the circuit cannot be used. 
+Nets can also go up and down to lower and higher layers, also at the cost of 1 unit length per level. 
+Wires may cross at an intersection, but that will cause the chip to short-circuit and thus increase the total costs. 
+The total costs placing the wires can be computed by:
+
+$$ C = n + 300 * k $$ 
+
+where $C$ is the total costs, $n$ the number of unit length wires that are used and $k$ the number of intersections. 
+The assignment is to implement all nets in all netlists at minimum cost.  
 A few steps to pave the way towards a program:
 
 1. Build a computer program that holds a data structure for a grid with fixed gates. 
