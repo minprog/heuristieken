@@ -63,6 +63,7 @@ N.B. Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit e
 
 ## Check50
 Je kan je programma's testen door de output mee te geven aan de check50. Dit kan in drie eenvoudige stappen:
+
 1. Genereer een antwoord en sla deze met het bovenstaande formaat op in een nieuw bestand met de naam `output.csv`
 2. Open een terminal in de folder waar je `output.csv` hebt opgeslagen
 3. Run het commando `check50 okkevaneck/check50_heuristieken/master/radio_russia`

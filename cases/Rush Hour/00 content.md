@@ -9,38 +9,31 @@ Rush Hour is een ogenschijnlijk eenvoudig puzzeltje met een verrassend uitdagend
 Het is natuurlijk goed om daar een programma voor te schrijven, maar als je een ander idee hebt, of het met de hand kunt, mag dat ook.
 Let er op dat de _row_ en _column_ waarden beginnen vanaf 1 en niet vanaf 0!
 
-Game #1
-
+Game #1  
 ![](Rushhour6x6_1.jpg)
 
-Game #2
-
+Game #2  
 ![](Rushhour6x6_2.jpg)
 
-Game #3
-
+Game #3  
 ![](Rushhour6x6_3.jpg)
 
 {:start="2"}
 2. Verzin een implementatie voor het bord, en schrijf een algoritme dat series van zetten uitvoert. Laat het algoritme [games 4, 5 en 6](gameboards.zip) oplossen. Kortere series zijn betere series.
 
-Game #4
-
+Game #4  
 ![](Rushhour9x9_1.jpg)
 
-Game #5
-
+Game #5  
 ![](Rushhour9x9_2.jpg)
 
-Game #6
-
+Game #6  
 ![](Rushhour9x9_3.jpg)
 
 {:start="3"}
 3. Los [game 7](gameboards.zip) op. Pas je algoritme aan indien dat nodig is.
 
-Game #7
-
+Game #7  
 ![](Rushhour12x12_1.jpg)
 
 
@@ -62,6 +55,7 @@ N.B. Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit e
 
 ## Check50
 Je kan je programma's testen door de output mee te geven aan de check50. Dit kan in drie eenvoudige stappen:
+
 1. Genereer een antwoord en sla deze met het bovenstaande formaat op in een nieuw bestand met de naam `output.csv`
 2. Open een terminal in de folder waar je `output.csv` hebt opgeslagen
 3. Run het commando van het betreffende probleem:
