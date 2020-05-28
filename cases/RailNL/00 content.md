@@ -66,8 +66,8 @@ Je kan je programma's testen door de output mee te geven aan de check50. Dit kan
 1. Genereer een antwoord en sla deze met het bovenstaande formaat op in een nieuw bestand met de naam `output.csv`
 2. Open een terminal in de folder waar je `output.csv` hebt opgeslagen
 3. Run het commando van het betreffende probleem:
-    1. Voor Holland `check50 okkevaneck/check50_heuristieken/master/railnl/holland`
-    2. Voor Nederland `check50 okkevaneck/check50_heuristieken/master/railnl/national`
+    1. Voor Holland `check50 minprog/theorie-check50/master/railnl/holland`
+    2. Voor Nederland `minprog/theorie-check50/master/railnl/national`
 
 
 ##  Links & Trivia

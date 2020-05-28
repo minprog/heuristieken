@@ -65,12 +65,12 @@ Je kan je programma's testen door de output mee te geven aan de check50. Dit kan
 2. Open een terminal in de folder waar je `output.csv` hebt opgeslagen
 3. Run het commando van het betreffende probleem:
     1. Voor de 6x6 borden: 
-        1. `check50 okkevaneck/check50_heuristieken/master/rush_hour/board6x6_1`
-        2. `check50 okkevaneck/check50_heuristieken/master/rush_hour/board6x6_2`
-        3. `check50 okkevaneck/check50_heuristieken/master/rush_hour/board6x6_3`
+        1. `check50 minprog/theorie-check50/master/rush_hour/board6x6_1`
+        2. `check50 minprog/theorie-check50/master/rush_hour/board6x6_2`
+        3. `check50 minprog/theorie-check50/master/rush_hour/board6x6_3`
     2. Voor de 9x9 borden: 
-        1. `check50 okkevaneck/check50_heuristieken/master/rush_hour/board9x9_4`
-        2. `check50 okkevaneck/check50_heuristieken/master/rush_hour/board9x9_5`
-        3. `check50 okkevaneck/check50_heuristieken/master/rush_hour/board9x9_6`
+        1. `check50 minprog/theorie-check50/master/rush_hour/board9x9_4`
+        2. `check50 minprog/theorie-check50/master/rush_hour/board9x9_5`
+        3. `check50 minprog/theorie-check50/master/rush_hour/board9x9_6`
     3. Voor het 12x12 bord: 
-        1. `check50 okkevaneck/check50_heuristieken/master/rush_hour/board12x12_7`
+        1. `check50 minprog/theorie-check50/master/rush_hour//board12x12_7`
