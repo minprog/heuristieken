@@ -45,6 +45,7 @@ A few steps to pave the way towards a program:
 
 
 ## Advanced
+
 {:start="5"}
 5. Randomly generate some new netlists. They should be of equal length to the original netlists. Which are solvable, which aren't? Which have good solutions, which haven't?  
 6. For each of the three arrangements, try to determine the relation between the number of wires and the required number of layers.  
@@ -72,4 +73,4 @@ You can verify your programs by passing an output file to the check50. This can 
 
 1. Generate an answer and save it with the format above in a new file named `output.csv`
 2. Open a terminal in the folder you saved `output.csv`
-3. Run the command `check50 okkevaneck/check50_heuristieken/master/chips_and_circuits`
+3. Run the command `check50 minprog/theorie-check50/master/chips_and_circuits`

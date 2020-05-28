@@ -34,13 +34,15 @@ Houdt tijdens de opdracht rekening met de volgende requirements:
 * Elk huis heeft een eigen unieke kabel nodig naar de batterij.
 * Er mogen meerdere kabels over dezelfde gridsegmenten lopen. Het blijven echter wel unieke kabels en leveren geen kostenvermindering op.
 
-1. Verbind alle huizen in de eerste wijk aan een batterij. De maximumcapaciteit van de huizen mag die van de batterijen uiteraard niet overschrijden.
+1. Verbind alle huizen in de eerste wijk aan een batterij.
+De maximumcapaciteit van de huizen mag die van de batterijen uiteraard niet overschrijden.
 
 De batterijen kosten 5000 per stuk. De kabels kosten 9 per grid-segment. 
 De kabels liggen op de gridlijnen, mogen ook gridpunten met een huis passeren, en de afstand van een huis tot een batterij wordt berekend volgens de Manhattan distance.
 
 {:start="2"}
-2. Bereken de kosten voor de in 1. geconfigureerde wijken. Probeer je SmartGrid te optimaliseren en vind een zo goed mogelijke configuratie van kabels.
+2. Bereken de kosten voor de in 1. geconfigureerde wijken.
+Probeer je SmartGrid te optimaliseren en vind een zo goed mogelijke configuratie van kabels.
 
 Een nieuwe ontwikkeling in het kabelnetwerk biedt de mogelijkheid om meerdere huizen via een kabel aan een baterij te verbinden. 
 Vanaf nu geldt de volgende requirement:
@@ -48,7 +50,8 @@ Vanaf nu geldt de volgende requirement:
 * Huizen mogen via eenzelfde kabel aan een batterij verbonden zijn. Ze mogen dus een kabel delen.
 
 {:start="3"}
-3. Verbind alle huizen in de drie wijken aan een batterij. De maximumcapaciteit van de huizen mag die van de batterijen uiteraard niet overschrijden.
+3. Verbind alle huizen in de drie wijken aan een batterij.
+De maximumcapaciteit van de huizen mag die van de batterijen uiteraard niet overschrijden.
 4. Optimaliseer het smartGrid voor de drie wijken.
 
 
@@ -91,7 +94,7 @@ Je kan je programma's testen door de output mee te geven aan de check50. Dit kan
 
 1. Genereer een antwoord en sla deze met het bovenstaande formaat op in een nieuw bestand met de naam `output.json`
 2. Open een terminal in de folder waar je `output.json` hebt opgeslagen
-3. Run het commando `check50 okkevaneck/check50_heuristieken/master/smartgrid`
+3. Run het commando `check50 minprog/theorie-check50/master/smartgrid`
 
 
 ## Links & Trivia

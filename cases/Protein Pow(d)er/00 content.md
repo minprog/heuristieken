@@ -36,6 +36,7 @@ Tussen C's en H's is de score -1, en met P's is er geen bindingseffect, dus scor
 
 
 ## Advanced
+
 {:start="4"}
 4. Voeg een dimensie toe. Vouw de eiwitten zo goed mogelijk in 3D.
 
@@ -146,7 +147,7 @@ Je kan je programma's testen door de output mee te geven aan de check50. Dit kan
 
 1. Genereer een antwoord en sla deze met het bovenstaande formaat op in een nieuw bestand met de naam `output.csv`
 2. Open een terminal in de folder waar je `output.csv` hebt opgeslagen
-3. Run het commando `check50 okkevaneck/check50_heuristieken/master/protein_powder`
+3. Run het commando `check50 minprog/theorie-check50/master/protein_powder`
 
 
 ## Links & Trivia

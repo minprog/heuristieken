@@ -50,7 +50,7 @@ Je kan je programma's testen door de output mee te geven aan de check50. Dit kan
 
 1. Genereer een antwoord en sla deze met het bovenstaande formaat op in een nieuw bestand met de naam `output.csv`
 2. Open een terminal in de folder waar je `output.csv` hebt opgeslagen
-3. Run het commando `check50 okkevaneck/check50_heuristieken/master/amstelhaege`
+3. Run het commando `check50 minprog/theorie-check50/master/amstelhaege`
 
 De check50 is zo geschreven dat je de huizen vrij kan draaien en plaatsen.
 Dit betekent dat er niet wordt gecheckt of je de plaatsing volgens het grid heb gedaan, met daarbij alleen draaïngen van 90 graden.

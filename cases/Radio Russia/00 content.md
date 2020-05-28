@@ -20,6 +20,7 @@ Hiermee willen ze later de landen als een ingekleurde kaart weergeven en voorleg
 
 
 ## Opdracht 1
+
 1. Verzin een zenderinrichting voor de Oekraïne. Iedere provincie moet een zendertype hebben, geen enkele twee aangrenzende provincies mogen hetzelfde zendertype hebben. Verzin een zenderinrichting voor het hele land, en hoe minder zendertypes je gebruikt, hoe beter.
 2. Doe hetzelfde voor China, de USA en uiteindelijk voor moedertje Rusland. Hoe minder zenderypes, hoe beter.
 3. De produktie van zenders wordt in Rusland uiteraard ook door de overheid beregeld. Het is het goedkoper om minder zendertypes te hebben, maar ook om van alle zendertypes ongeveer evenveel te hebben. Probeer voor ieder land met ieder minimumaantal zendertypes te bepalen hoe een evenwichtige verdeling eruit zou zien, en kijk of een inrichting mogelijk is met zo'n verdeling.
@@ -66,7 +67,7 @@ Je kan je programma's testen door de output mee te geven aan de check50. Dit kan
 
 1. Genereer een antwoord en sla deze met het bovenstaande formaat op in een nieuw bestand met de naam `output.csv`
 2. Open een terminal in de folder waar je `output.csv` hebt opgeslagen
-3. Run het commando `check50 okkevaneck/check50_heuristieken/master/radio_russia`
+3. Run het commando `check50 minprog/theorie-check50/master/radio_russia`
 
 
 ## Trivia

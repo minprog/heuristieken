@@ -2,6 +2,7 @@
 ![een fotomontage van de railkaart van Nederland met daarvoor een dubbeldekstrein (DD-IRM) aan een druk perron en mensen die wachten om te kunnen instappen, met daarvoor een olijk lachende conducteur die net langs de camera kijkt](Railnl.jpg){:.inline}
 
 Een dienstregeling voor treinverkeer bestaat eigenlijk uit vier planningsonderdelen: 
+
 1. De lijnvoering: Wat zijn de trajecten waarover de treinen gedurende de dag heen en weer rijden?
 2. De dienstregeling: hoe laat vertrekken de treinen van de stations over de trajecten?
 3. Het materieelrooster: welk treinstel en welke wagons zijn op welk moment op welke plaats?
@@ -43,6 +44,7 @@ Are you ready for something bigger? We gaan nu heel Nederland doen. Vind hier he
 
 
 ## Advanced
+
 {:start="5"}
 5. Verleg drie random sporen en run je algoritmes nog een keer. Vind je nu betere of slechtere waarden voor de doelfunctie? Doe dit een paar keer, en probeer erachter te komen welke sporen de grootste invloed hebben op de doelfunctie.
 6. Utrecht Centraal gaat op de schop, en alle treinverbindingen van en naar Utrecht komen tijdelijk te vervallen omdat ze vervangen worden door bussen. Alle verbindingen ''tussen de stations die verbonden zijn met Utrecht'' zijn komen te vervallen. Maak wederom een lijnvoering.
@@ -64,8 +66,8 @@ Je kan je programma's testen door de output mee te geven aan de check50. Dit kan
 1. Genereer een antwoord en sla deze met het bovenstaande formaat op in een nieuw bestand met de naam `output.csv`
 2. Open een terminal in de folder waar je `output.csv` hebt opgeslagen
 3. Run het commando van het betreffende probleem:
-    1. Voor Holland `check50 okkevaneck/check50_heuristieken/master/railnl/holland`
-    2. Voor Nederland `check50 okkevaneck/check50_heuristieken/master/railnl/national`
+    1. Voor Holland `check50 minprog/theorie-check50/master/railnl/holland`
+    2. Voor Nederland `minprog/theorie-check50/master/railnl/national`
 
 
 ##  Links & Trivia
