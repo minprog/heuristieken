@@ -1,7 +1,10 @@
 # Case: Rush Hour
 ![een strak uitgesneden foto van de voorkant van een doos van het spel Rush hour, waarop een aantal cartoonfiguren in geparkeerde auto's heel boos en verrast kijkt naar een chauffeur in een rode auto die langsscheurt, met rechtsonder in beeld nog een lichte weerspiegeling van de flitser of ander licht](Rushhour.jpg){:.inline}
 
-Rush Hour is een ogenschijnlijk eenvoudig puzzeltje met een verrassend uitdagend karakter. In een veld van 6 hoog en 6 breed staat een rode auto, de jouwe, en die moet naar de uitgang. die recht voor je ligt. Maar andere voertuigen versperren de weg; auto's van twee eenheden lang en trucks van drie eenheden lang, die alleen in hun rijrichting bewogen mogen worden. Ze mogen niet draaien. De opdracht is simpel: beweeg je auto naar buiten, of beter: schrijf een computerprogramma om dat voor je te doen.
+Rush Hour is een ogenschijnlijk eenvoudig puzzeltje met een verrassend uitdagend karakter. 
+In een veld van 6 hoog en 6 breed staat een rode auto, de jouwe, en die moet naar de uitgang. die recht voor je ligt. 
+Maar andere voertuigen versperren de weg; auto's van twee eenheden lang en trucks van drie eenheden lang, die alleen in hun rijrichting bewogen mogen worden. 
+Ze mogen niet draaien. De opdracht is simpel: beweeg je auto naar buiten, of beter: schrijf een computerprogramma om dat voor je te doen.
 
 
 ## Opdracht
@@ -19,7 +22,8 @@ Game #3
 ![](Rushhour6x6_3.jpg)
 
 {:start="2"}
-2. Verzin een implementatie voor het bord, en schrijf een algoritme dat series van zetten uitvoert. Laat het algoritme [games 4, 5 en 6](gameboards.zip) oplossen. Kortere series zijn betere series.
+2. Verzin een implementatie voor het bord, en schrijf een algoritme dat series van zetten uitvoert. 
+Laat het algoritme [games 4, 5 en 6](gameboards.zip) oplossen. Kortere series zijn betere series.
 
 Game #4  
 ![](Rushhour9x9_1.jpg)
@@ -40,7 +44,8 @@ Game #7
 ## Advanced
 {:start="4"}
 4. Maak random Rush Hour borden en probeer ze op te lossen met je algoritmes.
-5. Probeer te achterhalen wat het verschil is tussen een moeilijke rushhour-opgave en een even grote makkelijk rushhour opgave. Ook aantonen waar de moeilijkheid **niet** aan ligt is waardevol.
+5. Probeer te achterhalen wat het verschil is tussen een moeilijke rushhour-opgave en een even grote makkelijk rushhour opgave.
+Ook aantonen waar de moeilijkheid **niet** aan ligt is waardevol.
 
 
 ## Output

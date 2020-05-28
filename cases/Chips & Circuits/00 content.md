@@ -45,6 +45,7 @@ A few steps to pave the way towards a program:
 
 
 ## Advanced
+
 {:start="5"}
 5. Randomly generate some new netlists. They should be of equal length to the original netlists. Which are solvable, which aren't? Which have good solutions, which haven't?  
 6. For each of the three arrangements, try to determine the relation between the number of wires and the required number of layers.  

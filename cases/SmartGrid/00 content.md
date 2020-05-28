@@ -34,13 +34,15 @@ Houdt tijdens de opdracht rekening met de volgende requirements:
 * Elk huis heeft een eigen unieke kabel nodig naar de batterij.
 * Er mogen meerdere kabels over dezelfde gridsegmenten lopen. Het blijven echter wel unieke kabels en leveren geen kostenvermindering op.
 
-1. Verbind alle huizen in de eerste wijk aan een batterij. De maximumcapaciteit van de huizen mag die van de batterijen uiteraard niet overschrijden.
+1. Verbind alle huizen in de eerste wijk aan een batterij.
+De maximumcapaciteit van de huizen mag die van de batterijen uiteraard niet overschrijden.
 
 De batterijen kosten 5000 per stuk. De kabels kosten 9 per grid-segment. 
 De kabels liggen op de gridlijnen, mogen ook gridpunten met een huis passeren, en de afstand van een huis tot een batterij wordt berekend volgens de Manhattan distance.
 
 {:start="2"}
-2. Bereken de kosten voor de in 1. geconfigureerde wijken. Probeer je SmartGrid te optimaliseren en vind een zo goed mogelijke configuratie van kabels.
+2. Bereken de kosten voor de in 1. geconfigureerde wijken.
+Probeer je SmartGrid te optimaliseren en vind een zo goed mogelijke configuratie van kabels.
 
 Een nieuwe ontwikkeling in het kabelnetwerk biedt de mogelijkheid om meerdere huizen via een kabel aan een baterij te verbinden. 
 Vanaf nu geldt de volgende requirement:
@@ -48,7 +50,8 @@ Vanaf nu geldt de volgende requirement:
 * Huizen mogen via eenzelfde kabel aan een batterij verbonden zijn. Ze mogen dus een kabel delen.
 
 {:start="3"}
-3. Verbind alle huizen in de drie wijken aan een batterij. De maximumcapaciteit van de huizen mag die van de batterijen uiteraard niet overschrijden.
+3. Verbind alle huizen in de drie wijken aan een batterij.
+De maximumcapaciteit van de huizen mag die van de batterijen uiteraard niet overschrijden.
 4. Optimaliseer het smartGrid voor de drie wijken.
 
 
