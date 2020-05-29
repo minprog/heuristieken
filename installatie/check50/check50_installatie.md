@@ -6,6 +6,10 @@ Hieronder staat hoe je check50 moet installeren om zo gebruik te maken van de sc
 Afhankelijk van je bestuuringssysteem zullen er andere stappen gemaakt moeten worden.
 Daarom hebben alle besturingssystemen hun eigen sectie.
 
+Check50 is een Python pakket.
+Daarom zal de handleiding eerst Python en Pip installeren, waarna vervolgens check50 geïnstalleerd wordt.
+Als je al een werkende Python en Pip installatie hebt kan je via Pip check50 installeren met het aangegeven commando.
+
 
 ## Windows
 Voor Windows moet eerst Windows Subsystem for Linux (WSL 1) geïnstalleerd worden.
@@ -16,9 +20,9 @@ Windows Subsystem for Linux kan geactiveerd en geïnstalleerd worden met een paa
 
 1. Activeer de optie met een terminal.
     1. Open PowerShell als administrator en run:
-        ```powershell
+        ~~~ powershell
         dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
-        ```
+        ~~~
         ![Commando in PowerShell om WSL te activeren.](powershell_wsl_enable.png) 
     
     {: start="2"}
@@ -35,9 +39,9 @@ Windows Subsystem for Linux kan geactiveerd en geïnstalleerd worden met een paa
 4. Geef een gebruikersnaam en wachtwoord op die je gaat gebruiken voor het Ubuntu besturingssysteem.
 Dit account zal alle administrator rechten krijgen binnen Ubuntu.
 5. Update Ubuntu door de volgende regel uit te voeren in de terminal:
-```bash
+~~~ bash
 sudo apt update && sudo apt upgrade
-```
+~~~
  
 #### Installeer Python, Pip & check50
 Met de volgende stappen installeren we check50. 
@@ -45,13 +49,13 @@ Dit gebeurd allemaal binnen het Ubuntu besturingssysteem waar je in komt door de
 
 {: start="6"}
 6. Installeer Python en Pip voor het Ubuntu besturingssyteem met: 
-    ```bash
+    ~~~ bash
     sudo apt install python3 python3-pip
-    ```  
+    ~~~  
 7. Open een terminal en installeer check50 met:
-    ```bash
+    ~~~ bash
     pip3 install check50
-    ```    
+    ~~~    
 
 Vervolgens kan je de check50 scripts uitvoeren zoals aangegeven bij de door jou gekozen case.
 
@@ -64,30 +68,30 @@ Deze kan je met Spotlight openen door `⌘CMD + spatie` in te drukken en vervolg
 De eerste stappen zijn het installeren van de Command Line Tools en Homebrew, die je nodig gaat hebben voor het installeren van de software.
 
 1. Installeer Command Line Tools met:
-    ```bash
+    ~~~ bash
     xcode-select --install
-    ```
+    ~~~
 2. Ga naar de [Homebrew](https://brew.sh/) website en copy-paste het "Install Homebrew" commando in de terminal.
 Voer het commando uit door op enter te drukken, waarna Homebrew geïnstalleerd is.
 
 #### Installeer Python & Pip
 
-{: start="4"}
-4. Vervolgens moeten we Python Pip installeren met:
-    ```bash
+{: start="3"}
+3. Vervolgens moeten we Python Pip installeren met:
+    ~~~ bash
     brew install python
-    ```
+    ~~~
 
 Vervolgens kan je python gebruiken voor het runnen van code met het `python3` commando.
 Als je extra python packages wilt installeren kan dat met het `pip3` commando.
 
 #### Installeer check50
 
-{: start="5"}
-5. check50 is een python package en kan geïnstalleer worden met:
-    ```bash
+{: start="4"}
+4. check50 is een python package en kan geïnstalleer worden met:
+    ~~~ bash
     pip3 install check50
-    ```
+    ~~~
 
 Vervolgens kan je de check50 scripts uitvoeren zoals aangegeven bij de door jou gekozen case.
 
@@ -97,12 +101,12 @@ Alle installaties worden in de terminal gedaan.
 Deze kan je met Spotlight openen met de toetsencombinatie `ctrl + alt + t`.
 
 1. Als eerste moeten Python en Pip geïnstalleerd worden met:
-    ```bash
+    ~~~ bash
     sudo apt install python3 python3-pip
-    ```
+    ~~~
 2. Nu kunnen we met pip het check50 pakket installeren:
-    ```bash
+    ~~~ bash
     pip3 install check50
-    ```
+    ~~~
 
 Vervolgens kan je de check50 scripts uitvoeren zoals aangegeven bij de door jou gekozen case.
