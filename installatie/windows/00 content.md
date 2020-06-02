@@ -10,11 +10,11 @@ Windows Subsystem for Linux kan geactiveerd en geïnstalleerd worden met een paa
         ```
         dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
         ```
-        ![Commando in PowerShell om WSL te activeren.](../windows/powershell_wsl_enable.png) 
-    
+        ![Commando in PowerShell om WSL te activeren.](../windows/powershell_wsl_enable.png)
+
     {: start="2"}
     2. Start vervolgens de computer opnieuw op.
-    
+
 #### Installeer Ubuntu
 
 {: start="2"}
@@ -29,7 +29,7 @@ Dit account zal alle administrator rechten krijgen binnen Ubuntu.
 ```
 sudo apt update && sudo apt upgrade
 ```
- 
+
 #### Installeer Python, Pip & check50
 De Ubuntu installatie komt met Git, dus alleen Python en Pip moeten geïnstalleerd worden voordat we check50 kunnen installeren.
 De installatiestappen gebeuren allemaal binnen het Ubuntu besturingssysteem waar je in komt door de Ubuntu applicatie op te starten.
@@ -38,10 +38,10 @@ De installatiestappen gebeuren allemaal binnen het Ubuntu besturingssysteem waar
 6. Installeer Python en Pip voor het Ubuntu besturingssyteem met:  
     ```
     sudo apt install python3 python3-pip
-    ``` 
+    ```
 7. Open een terminal en installeer check50 met:  
     ```
-    pip3 install check50
+    sudo pip3 install check50
     ```   
 
 Vervolgens kan je de check50 scripts uitvoeren zoals aangegeven bij de door jou gekozen case.

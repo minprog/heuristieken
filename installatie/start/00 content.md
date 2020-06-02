@@ -5,7 +5,7 @@ Daarom zijn de installatie pagina's opgedeeld per besturingssysteem.
 Klik op de link hieronder om naar de juiste pagina te gaan:
 
 - [Windows](/installatie/windows)
-- [macOS](/installatie/macOS)
+- [macOS](/installatie/macos)
 - [Linux](/installatie/linux)
 
 Voor het volgen van dit vak is een installatie van Git nodig om samen te werken aan de code.
