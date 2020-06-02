@@ -19,8 +19,8 @@ Omdat de Duivenderechtse polder ooit beschermd natuurgebied was, is de compromis
 
 
 ## Opdracht
-In [wijken.zip](wijken.zip) tref je 3 verschillende csv's aan. 
-Elke csv beschrijft de plaatsing van het oppervlaktewater in de bijbehorende wijk. 
+In [wijken.zip](wijken.zip) tref je 3 verschillende csv's aan.
+Elke csv beschrijft de plaatsing van het oppervlaktewater in de bijbehorende wijk.
 Hiervan worden de plaatsing van het linkeronderpunt en rechterbovenpunt gegeven als x,y coordinaten.
 
 1. Lever allereerst voor wijk_1 een plattegrond af voor de kleinste huizenvariant van de nieuw te bouwen wijk Amstelhaege. De huizen mogen willekeurig, handmatig, of door een slim algoritme worden geplaatst.
@@ -39,7 +39,7 @@ Een groter budget staat nu toe om zelf oppervlaktewater aan te leggen. De wijk m
 ## Output
 Om resultaten te kunnen verifiëren is het handig om in een uniform format je output te genereren.
 Bekijk [het voorbeeld](example_output.csv) en zorg ervoor dat jouw programma een oplossing in hetzelfde format kan omzetten.
-Een vereiste aan de output zijn de header-regel (regel 1) en de footer-regel (regel 23). 
+Een vereiste aan de output zijn de header-regel (regel 1) en de footer-regel (regel 23).
 Deze moeten in jouw output ook voorkomen, waarbij alleen het getal voor de networth zal verschillen.
 
 N.B. Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit enkel als laatste stap in het process te kunnen doen.
