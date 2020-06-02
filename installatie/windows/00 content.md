@@ -41,7 +41,7 @@ De installatiestappen gebeuren allemaal binnen het Ubuntu besturingssysteem waar
     ```
 7. Open een terminal en installeer check50 met:  
     ```
-    pip3 install check50
+    sudo pip3 install check50
     ```   
 
 Vervolgens kan je de check50 scripts uitvoeren zoals aangegeven bij de door jou gekozen case.

@@ -11,7 +11,7 @@ Deze kan je openen met de toetsencombinatie `ctrl + alt + t`.
     ```
 2. Nu kunnen we met pip het check50 pakket installeren:  
     ```
-    pip3 install check50
+    sudo pip3 install check50
     ```
 
 Vervolgens kan je de check50 scripts uitvoeren zoals aangegeven bij de door jou gekozen case.
