@@ -6,7 +6,7 @@ Deze kan je met Spotlight openen door `⌘CMD + spatie` in te drukken en vervolg
 De eerste stappen zijn het installeren van de Command Line Tools en Homebrew, die je nodig gaat hebben voor het installeren van de software.
 Door de Command Line Tools te installeren krijg je meteen toegang tot Git.
 
-1. Installeer Command Line Tools met:
+1. Installeer Command Line Tools met:  
     ```
     xcode-select --install
     ```
@@ -16,7 +16,7 @@ Voer het commando uit door op enter te drukken, waarna Homebrew geïnstalleerd i
 #### Installeer Python & Pip
 
 {: start="3"}
-3. Vervolgens moeten we Python en Pip installeren met:
+3. Vervolgens moeten we Python en Pip installeren met:  
     ```
     brew install python
     ```
@@ -27,7 +27,7 @@ Als je extra python packages wilt installeren kan dat met het `pip3` commando.
 #### Installeer check50
 
 {: start="4"}
-4. check50 is een python package en kan geïnstalleer worden met:
+4. check50 is een python package en kan geïnstalleer worden met:  
     ```
     pip3 install check50
     ```
