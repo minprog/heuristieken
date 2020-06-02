@@ -22,7 +22,7 @@ In de tabel hieronder kan je zien welke TAs je de komende weken zullen begeleide
 |                   | Shibayama                        | RailNL           |
 |                   | Bonsai                           | RailNL           |
 
-Iedere TA duo heeft iedere week een vast moment voor de presentatiesessies.
+Ieder TA duo heeft iedere week een vast moment voor de presentatiesessies.
 Deze kan je in de tabel hieronder terugvinden.
 
 | Wie               | Wanneer         |
