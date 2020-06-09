@@ -34,4 +34,5 @@ Deze kan je in de tabel hieronder terugvinden.
 |                   | Vrijdag 13-15   |
 
 Hiernaast krijg je ook iedere week een techassistentie met je TA duo.
-Voor de eerste week krijg je van een TA te horen wanneer de sessie zal plaatsvinden.
+Voor de techassistentieplanning van Okke en Jasper, klik [hier](/Indeling%20&%20Planning/okke_jasper).  
+Voor de techassistentieplanning van Quinten en Julien, klik [hier](/Indeling%20&%20Planning/quinten_julien). 
