@@ -1,6 +1,7 @@
 # Planning Quinten & Julien
 
 #### Week 1
+
 | Groepje                          | Case             | TechAssistentie |  
 | -------------------------------- | ---------------- | --------------- |
 | Spitsuur                         | Rush Hour        | Donderdag 13:00             |
@@ -14,6 +15,7 @@
 
 
 #### Week 2
+
 | Groepje                          | Case             | TechAssistentie |  
 | -------------------------------- | ---------------- | --------------- |
 | Spitsuur                         | Rush Hour        | Donderdag 13:00             |
@@ -27,6 +29,7 @@
 
 
 #### Week 3
+
 | Groepje                          | Case             | TechAssistentie |  
 | -------------------------------- | ---------------- | --------------- |
 | Spitsuur                         | Rush Hour        | Donderdag 13:00             |
@@ -40,6 +43,8 @@
 
 
 #### Week 4
+###### NOTE: Laatste week kan nog naar voren geschoven worden i.v.m. de deadlines!
+
 | Groepje                          | Case             | TechAssistentie |  
 | -------------------------------- | ---------------- | --------------- |
 | Spitsuur                         | Rush Hour        | Maandag 10:00             |
