@@ -1,30 +1,30 @@
 # Case: RailNL
 ![een fotomontage van de railkaart van Nederland met daarvoor een dubbeldekstrein (DD-IRM) aan een druk perron en mensen die wachten om te kunnen instappen, met daarvoor een olijk lachende conducteur die net langs de camera kijkt](Railnl.jpg){:.inline}
 
-Een dienstregeling voor treinverkeer bestaat eigenlijk uit vier planningsonderdelen: 
+Een dienstregeling voor treinverkeer bestaat eigenlijk uit vier planningsonderdelen:
 
 1. De lijnvoering: Wat zijn de trajecten waarover de treinen gedurende de dag heen en weer rijden?
 2. De dienstregeling: hoe laat vertrekken de treinen van de stations over de trajecten?
 3. Het materieelrooster: welk treinstel en welke wagons zijn op welk moment op welke plaats?
 4. Het personeelsrooster: zijn alle treinen bemand door tenminste één bestuurder en twee conducteurs?
 
-Deze case gaat over het eerste deel, het maken van de lijnvoering. Meer specifiek: over de lijnvoering van intercitytreinen. Dat betekent dat je binnen een gegeven tijdsframe een aantal trajecten uitzet. 
+Deze case gaat over het eerste deel, het maken van de lijnvoering. Meer specifiek: over de lijnvoering van intercitytreinen. Dat betekent dat je binnen een gegeven tijdsframe een aantal trajecten uitzet.
 Een traject is een route van sporen en stations waarover treinen heen en weer rijden. Een traject mag niet langer zijn dan het opgegeven tijdsframe.
 
 **Voorbeeld**: Het traject [Castricum , Zaandam , Hoorn , Alkmaar] is een traject met een duur van 59 minuten, en zou dus binnen het tijdseframe van een uur passen.
 
 
 ## Opdracht deel 1: Noord- en Zuid-Holland
-In de provincies Noord- en Zuid-Holland liggen in totaal 118 treinstations, waarvan de 22 belangrijkste intercitystations met de tussenliggende spoorverbindingen, in een [.csv-bestand](ConnectiesHolland.csv) zijn opgeslagen. 
+In de provincies Noord- en Zuid-Holland liggen in totaal 118 treinstations, waarvan de 22 belangrijkste intercitystations met de tussenliggende spoorverbindingen, in een [.csv-bestand](ConnectiesHolland.csv) zijn opgeslagen.
 De getallen die achter een verbinding staan zijn de reistijden in minuten.
 De lijst met de locaties van de 22 treinstations zijn ook in een [.csv-bestand](StationsHolland.csv) opgeslagen.
 
-1. Maak een lijnvoering voor Noord-Holland met maximaal zeven trajecten binnen een tijdsframe van twee uur, waarbij alle verbindingen bereden worden.
+1. Maak een lijnvoering voor Noord- en Zuid-Holland met maximaal zeven trajecten binnen een tijdsframe van twee uur, waarbij alle verbindingen bereden worden.
 
 RailNL heeft recentelijk een doelfunctie opgesteld voor de kwaliteit van de lijnvoering. 
-Als 100% van van de verbindingen bereden wordt, levert dat 10000 punten op je lijnvoering op, anders krijg je een een gedeelte daarvan. 
-Maar hoe minder trajecten voor dezelfde service, hoe goedkoper. 
-En in hoe minder tijd er in al die trajecten samen verbruikt wordt, hoe beter. 
+Als 100% van van de verbindingen bereden wordt, levert dat 10000 punten op je lijnvoering op, anders krijg je een een gedeelte daarvan.
+Maar hoe minder trajecten voor dezelfde service, hoe goedkoper.
+En in hoe minder tijd er in al die trajecten samen verbruikt wordt, hoe beter.
 Dus die factoren worden ook meegewogen in de doelfunctie:
 
 $$ K = p*10000 - (T*100 + Min) $$
@@ -52,9 +52,9 @@ Are you ready for something bigger? We gaan nu heel Nederland doen. Vind hier he
 
 
 ## Output
-Om resultaten te kunnen verifiëren is het handig om in een uniform format je output te genereren. 
+Om resultaten te kunnen verifiëren is het handig om in een uniform format je output te genereren.
 Bekijk [het voorbeeld](example_output.csv) (3 treinen die door Noord-Holland rijden) en zorg ervoor dat jouw programma een oplossing in hetzelfde format kan omzetten.
-Een vereiste aan de output zijn de header-regel (regel 1) en de footer-regel (regel 5). 
+Een vereiste aan de output zijn de header-regel (regel 1) en de footer-regel (regel 5).
 Deze moeten in jouw output ook voorkomen, waarbij alleen het getal voor de score zal verschillen.
 
 N.B. Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit enkel als laatste stap in het process te kunnen doen.

@@ -22,7 +22,7 @@ In de tabel hieronder kan je zien welke TAs je de komende weken zullen begeleide
 |                   | Shibayama                        | RailNL           |
 |                   | Bonsai                           | RailNL           |
 
-Iedere TA duo heeft iedere week een vast moment voor de presentatiesessies.
+Ieder TA duo heeft iedere week een vast moment voor de presentatiesessies.
 Deze kan je in de tabel hieronder terugvinden.
 
 | Wie               | Wanneer         |
@@ -35,7 +35,3 @@ Deze kan je in de tabel hieronder terugvinden.
 
 Hiernaast krijg je ook iedere week een techassistentie met je TA duo.
 Voor de eerste week krijg je van een TA te horen wanneer de sessie zal plaatsvinden.
-Daarna is het op de pagina van het duo terug te vinden, waarvan de links hieronder staan.
-
-Voor de techassistentieplanning van Okke en Jasper, klik [hier](/Indeling%20&%20Planning/okke_jasper).  
-Voor de techassistentieplanning van Quinten en Julien, klik [hier](/Indeling%20&%20Planning/quinten_julien).  
