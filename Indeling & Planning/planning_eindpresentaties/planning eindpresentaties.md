@@ -35,5 +35,5 @@
 |-----------------------------------------------------------------------------------|------------------|
 | Beckstraat Boys                                                                   | Amstelhaege      |
 | Optimum Prime                                                                     | SmartGrid        |
-| The Trifoce of Pow(d)er                                                           | Protein Pow(d)er |
+| The Triforce of Pow(d)er                                                           | Protein Pow(d)er |
 | Spitsuur                                                                          | Rush Hour        |
