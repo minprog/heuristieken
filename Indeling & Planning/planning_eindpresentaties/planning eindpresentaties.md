@@ -8,7 +8,7 @@
 | The Pythons                                                                       | RailNL           |
 
 
-#### Donderdag 25 juni 14:00-16:00 in Discord "TA - Quinten"
+#### Donderdag 25 juni 14:00-16:00 in Discord "TA - Okke"
 
 | Team                                                                              | Case             |
 |-----------------------------------------------------------------------------------|------------------|
@@ -18,7 +18,7 @@
 | Duo Penotti                                                                       | Rush Hour        |
 
 
-#### Vrijdag 26 juni 14:00-16:00 in Discord "TA - Okke"
+#### Vrijdag 26 juni 14:00-16:00 in Discord "TA - Quinten"
 
 | Team                                                                              | Case             |
 |-----------------------------------------------------------------------------------|------------------|
