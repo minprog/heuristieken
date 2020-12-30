@@ -2,6 +2,9 @@ language: nl
 long_name: Programmeertheorie
 short_name: Programmeertheorie
 
+links:
+    '[book] Ed': https://us.edstem.org
+
 acknowledgements:
     - "Based on Daan van den Berg's awesome work at the Universities of Amsterdam."
 
