@@ -1,23 +1,29 @@
 # Programmeertheorie<br><small>a.k.a. Heuristieken</small>
 
-## Studiewijzer, winter 2021
+## Studiewijzer, winter 2021 (niet finaal)
 
 Deze cursus is de afsluiting van de Minor Programmeren.
 Na vele maanden ervaring opdoen met programmeren in Python, met object-oriëntatie en met problem solving, komt hier alles samen.
-Gegeven is een "onoplosbaar" probleem, waarvoor met behulp van klassieke AI-technieken toch nog heel goede oplossingen berekend kunnen worden.
-De problemen, "cases", komen uit allerlei vakgebieden en zijn vaak zeer realistische benaderingen van problemen uit de echte wereld.
+Bij dit vak ga je jouw programmeervaardigheid inzetten om met AI-technieken een onoplosbaar probleem op te lossen.
+Gaandeweg leer je over verschillende soorten problemen, wat de limitaties zijn van je computer en het belang van datastructuren.
 
 
 ## Docenten
-Je docenten zijn Wouter Vrielink, Bas Terwijn, en Martijn Stegeman (coördinator).
-De assistenten zijn Jasper den Duijf, Julien Fer, Okke van Eck en Quinten van der Post.
+Je docenten zijn Jelle van Assema, Anuj Pathania, Bas Terwijn en Wouter Vrielink.
+De assistenten zijn Okke van Eck, Kiara Evers, Marleen de Jonge, Charlotte Lafage, Daan Moll, Quinten van der Post en Karim Semin.
+
+
+## Contact
+Tijdens het vak heb je contact met twee mentoren die je gedurende het vak begeleiden. Voor kleine vragen over de opzet van het vak of de regels kan je bij hen terecht.
+
+Voor uitzonderingen of speciale gevallen moet je altijd contact opnemen met de docenten van het vak. Dat doe je via een mail naar help@mprog.nl. 
 
 
 ## Voorkennis
 Programmeren 1 en Programmeren 2 moet je helemaal gehaald hebben vóór je deze cursus start.
 Daarnaast moet je één of meerdere programmeercursussen van de Minor Programmeren of daarbuiten hebben gehaald.
 Eventuele alternatieven worden per geval beoordeeld door de docent.
-Neem contact op als je niet aan bovenstaande basiseisen voldoet.
+Weet je het niet helemaal zeker, neem dan contact op via een mail naar help@mprog.nl.
 
 
 ## Verwachtingen
@@ -25,13 +31,12 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
 1. alle onderdelen van de cursus afrondt in samenwerking met twee andere teamleden,
 2. een case "oplost" met behulp van de in de cursus behandelde heuristische algoritmen,
-3. met je teamgenoten samenwerkt aan de oplossingen via git,
+3. zichtbaar met je teamgenoten samenwerkt aan de oplossingen via git,
 4. de voortgang en inzichten uitlegt bij twee tussentijdse presentaties,
 5. advies inwint bij je assistent tijdens de vier tussentijdse update-sessies,
 6. regelmatig vragen stelt aan de assistenten en docenten,
-7. actief deelneemt aan onderlinge code reviews bij de eindbeoordeling,
-8. een zorgvuldig opgebouwd eindproduct inlevert, en
-9. een eindpresentatie geeft in de week van 22 t/m 26 januari en alle andere eindpresentaties bijwoont.
+7. een zorgvuldig opgebouwd eindproduct inlevert, en
+8. een eindpresentatie geeft in de laatste week en andere eindpresentaties bijwoont.
 
 
 ## Cases
@@ -44,33 +49,21 @@ Voor deze editie van het vak kun je kiezen uit de volgende cases:
 - [Rush Hour](/cases/rush-hour)
 - [SmartGrid](/cases/smartgrid)
 
-Het kiezen van een case zal na het introductiecollege gebeuren via een formulier. Hier krijgen jullie via een mededeling informatie over.
+Het kiezen van een case zal na het introductiecollege gebeuren via een formulier. Hier krijg je via een mededeling informatie over.
 
 
 ## Eindcijfer
-Het eindcijfer voor het vak Programmeertheorie bestaat uit drie onderdelen; exploratie van de case, uitleg van inzicht, en het eindproduct.
-De drie cijfers worden gelijk gewogen, dus wegen ieder voor één derde mee.
-Alle onderdelen worden becijferd op de schaal 0 tot en met 5.
-Er kunnen ook halve punten toegewezen worden.
+Het cijfer is opgebouwd uit twee delen. Je krijgt één punt op het eindcijfer voor ieder van de volgende behaalde milestones:
 
-Let op dat je aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen.
+* State space
+* Representatie
+* Baseline
+* Eerste algoritme
+* Tweede algoritme
 
+Behaal je ieder van deze milestones, dan heb je opgeteld een 5 als eindcijfer. De rest van het eindcijfer komt van de beoordeling van het project. Het project wordt bereoordeeld op de onderdelen: uitleg van inzicht en het eindproduct. Het cijfer voor het project is de optelling van de punten voor de verschillende onderdelen. De omschrijvingen hiervoor vind je hieronder.
 
-#### Exploratie van de case
-*Leer de belangrijke concepten uit het vakgebied kennen en programmeer ze uit.*
-
-5. Creatieve exploratie en toepassing van aangeboden en niet aangeboden principes uit het vakgebied
-4. Uitgebreide exploratie en toepassing op de case van de aangeboden principes uit het vakgebied
-3. Exploratie en toepassing op de case van diverse principes uit het vakgebied
-2. Toepassing op de case van enkele principes uit het vakgebied
-1. Implementatie van een algoritme dat een oplossing zou kunnen genereren
-{: start="5" reversed="reversed"}
-
-Tijdens het vak zal je wekelijks een verplichte afspraak hebben met je eigen assistent (TA).
-Deze TA zal je niet alleen helpen met technische aspecten van het vak, maar zal ook iedere week notities maken over de vooruitgang van jouw team binnen het vak.
-Aan de hand van de gemaakte aantekeningen zal de TA samen met jouw team aan het einde van het vak een korte motivatie schrijven voor een cijfer.
-Deze motivatie en het cijfer worden vervolgens onafhankelijk beoordeeld en geverifieerd tijdens de eindpresentaties.  
-**Je hoeft hiervoor niets extra's te doen of in te leveren.**
+> Let op dat je aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen.
 
 
 #### Uitleg van inzicht
@@ -83,14 +76,8 @@ Deze motivatie en het cijfer worden vervolgens onafhankelijk beoordeeld en gever
 1. Opsomming van het gedane werk zonder duidelijke uitleg
 {: start="5" reversed="reversed"}
 
-Aan het einde van het vak presenteer je met je hele groepje over de case waar je aan gewerkt hebt.
-Deze presentatie duurt hooguit 10 minuten.
-Dit is erg krap, dus oefen de presentatie vooral een paar keer!
-Na de presentatie is er ruimte voor vragen (+/- 5 min).
-
-Het is de bedoeling dat de presentatie een inleiding, uitleg over de oplossingsruimte, een beschrijving van gebruikte methoden, resultaten en de vergelijking hiervan, en uiteindelijk een discussie bevat.
-De slides zouden een bijdrage moeten leveren aan het verhaal van de sprekers.
-Gebruik van terminologie moet correct zijn en kijk ook uit voor het uitspreken van onwaarheden; maak goed onderscheid tussen wat een feit is en wat een vermoeden is; probeer altijd je claims te onderbouwen.
+Voor dit onderdeel presenteer je aan het einde van het vak met je hele groepje over de case waar je aan gewerkt hebt.
+Het is de bedoeling dat de presentatie een alle milestones van het project tot één geheel brengt. Concreet moet de presentatie daarom bestaan uit een inleiding, uitleg over de oplossingsruimte, een beschrijving van gebruikte methoden, resultaten en de vergelijking hiervan, en tot slot een discussie.
 
 
 #### Eindproduct
@@ -106,50 +93,28 @@ Gebruik van terminologie moet correct zijn en kijk ook uit voor het uitspreken v
 Gedurende het vak zal je als groep één GitHub repository gebruiken.
 Deze repository moet tenminste je eindproduct, een README, een equivalent aan een requirements.txt, en je presentatie bevatten.
 De link naar deze repository geef je aan het begin van het vak aan je TA.
-Voor een voorbeeldje van hoe je je GitHub repository op zou kunnen zetten vind je [hier](https://github.com/minprog/voorbeeld-repo).
+Een voorbeeld van hoe je je GitHub repository op zou kunnen zetten vind je [hier](https://github.com/minprog/voorbeeld-repo).
 
-Het is belangrijk dat de resultaten die je presenteert in je presentatie reproduceerbaar en correct zijn.
-De scripts moeten niet crashen en bug-vrij zijn.
-Het moet aan de hand van je README en/of voorbeeldcode duidelijk zijn hoe alles gereproduceerd zou kunnen worden.
-Lees ook even via [deze link](http://www.furnaceai.com/python/generating-a-requirements-txt-file-with-pip/) hoe je een requirements.txt maakt.
-Test de code ook even op een andere machine.
-
-Let bij het schrijven van de code ook op dingen als modulariteit, abstractie, duplicate code, onnodige code, het gebruiken van een consistente stijl, en commentaar.
-Code zou makkelijk herbruikbaar moeten zijn voor soortgelijke projecten.
-Een gemakkelijke manier van het aanpakken van veel van deze punten is door gebruik te maken van het principe van [Object Oriented Programming](https://realpython.com/python3-object-oriented-programming/).
-
-Voor net iets meer informatie, zie [deze pagina op de website](https://theorie.mprog.nl/beoordeling/beoordeling-eindproduct).
+Voor alle informatie, zie de [eindproduct beoordeling](https://theorie.mprog.nl/beoordeling/beoordeling-eindproduct).
 
 ## Kalender
-In de tabel hieronder kan je zien wanneer de colleges zijn en de grote lijnen van de planning.
+In de tabel hieronder kan je zien wanneer de colleges zijn en de grote lijnen van de planning. Deze kan je ook terugvinden in de kantlijn op deze website.
 
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
 | Week |                                            | Onderdeel                                                      |
 | ---: | ------------------------------------------ | -------------------------------------------------------------- |
-|    1 | Interpretatie van de case                  | Dinsdag   10 uur: Kick Off college                             |
-|      |                                            | Woensdag  10 uur: Git college                                  |
-|      |                                            | Donderdag 10 uur: Live coding college                          |
+|    1 | Interpretatie van de case                  | Maandag   15 uur: Openingscollege                              |
+|      |                                            | Dinsdag   11 uur: College over problemen                       |
+|      |                                            | Woensdag  15 uur: Live coding college                          |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
-|    2 | Eerste resultaten van het programmeren     | Dinsdag   10 uur: Q&A college over de videocolleges            |
-|      |                                            | Woensdag  10 uur: Live coding college                          |
+|    2 | Een baseline zetten                        | Maandag   15 uur: College over zoekalgoritmes                  |
+|      |                                            | Dinsdag   11 uur: College over optimalisatie-algoritmes        |
+|      |                                            | Woensdag  15 uur: Live coding college                          |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
-|    3 | Exploratie van de resultaten en verfijning |                                                                |
+|    3 | Algoritmes & resultaten                    | Maandag & Dinsdag: Midterm presentaties                        |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
-|    4 | Feedback en presentaties                   | Dinsdag:  **deadline** Repository, documentatie en code        |
-|      |                                            | Woensdag: **deadline** Online zetten presentatie als naslag    |
-|      |                                            | Donderdag - Vrijdag: Eindpresentaties                          |
+|    4 | Vergelijken & presenteren                  | Donderdag & Vrijdag: Eindpresentaties                          |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
-
-Er komen drie collegevideo's online gedurende de eerste week.
-Het wordt *ten zeerste* aangeraden om de colleges voor de gestelde deadlines gekeken te hebben.
-Op donderdag 4 juni zal er een live coding college komen waarin de kennis over verschillende soorten problem zal helpen.
-Op dinsdag 9 juni zal er een Q&A college komen waarin vragen gesteld kunnen worden over de twee videocolleges over algoritmen.
-
-| Wanneer online   | Wat                                         | Gekeken hebben vóór    |
-| ---------------- | ------------------------------------------- | ---------------------- |
-| Dinsdag 2 juni   | Heuristieken I en II door Daan van den Berg | Woensdag 3 juni 10 uur |
-| Vrijdag 5 juni   | Constructieve algoritmen door Bas Terwijn   | Dinsdag 9 juni 10 uur  |
-| Vrijdag 5 juni   | Iteratieve algoritmen door Bas Terwijn      | Dinsdag 9 juni 10 uur  |
 
 
 ## Regels voor samenwerken
@@ -166,13 +131,13 @@ Zie ook de [fraude- en plagiaatwebsite](http://www.uva.nl/plagiaat) van de unive
 
 
 ## Herkansing
-Als je het vak niet kunt afmaken in samenwerking met je team, dan zul je het vak bij de eerstvolgende mogelijkheid volledig opnieuw moeten doen (juni 2020).
-Je mag dan niet aan dezelfde case werken.
-Het is ook bij herkansing niet mogelijk om dit vak individueel te volgen.
+Als je het vak niet kunt afmaken in samenwerking met je team, dan zul je het vak bij de eerstvolgende mogelijkheid volledig opnieuw moeten doen.
+Je kan in dat geval niet aan dezelfde case werken.
+Het blijft ook bij herkansing niet mogelijk om dit vak individueel te volgen.
 
 
 ## Dankbetuiging
 Allergrootste dank gaat naar Daan van den Berg, die de cursus en veel van de cases tot wasdom heeft gebracht bij zijn versies van de cursus bij de Universiteit van Amsterdam.
-Daarnaast hebben vele assistenten, beoordelaars en studenten bijgedragen aan het bijschaven van de verschillende cases.
+Daarnaast hebben vele assistenten, beoordelaars en studenten bijgedragen aan het ontwikkelen van nieuwe cases en het bijschaven van de vele verschillende bestaande cases.
 
-Heb je een toevoeging aan de cursus? Maak een issue aan op onze [GitHub-repository](https://github.com/minprog/heuristieken), of stuur een pull request.
+Deze cursus is altijd in ontwikkeling en we staan geheel open voor bijdrages. Voel je vrij om een issue aan te maken bij deze [GitHub-repository](https://github.com/minprog/heuristieken), of stuur een pull request.
