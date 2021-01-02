@@ -10,6 +10,11 @@ Hoewel je elk programmeerparadigma kan gebruiken voor alle cases, vragen je om z
 
 Pak de omschrijving van de case en haal uit de tekst de belangrijke componenten. Grote kans dat je dit al hebt gedaan voor de state-space berekening. Maak voor ieder component een Python `class`. Schrijf vervolgens een functie die een instantie van het probleem inleest en op basis daarvan instanties (objecten) van de verschillende classes aanmaakt. Schrijf dan nog één functie, die de objecten van de verschillende classes inneemt en output in het voorgeschreven format genereerd. Deze output hoeft geen geldige oplossing te zijn.
 
+### Visualisatie
+
+Voor de cases is het handig om een simpele visualisatie te maken zodat je zelf goed kan zien waar de huizen staan in Amstelhaege, of hoe de eiwitten gebogen zijn in Protein Pow(d)er. Hoe dit eruit ziet hangt natuurlijk af van de case. Zo is het voor de één voldoende om een beetje ASCII-art te creëren, maar is het bij andere cases logischer om een plaatje te tekenen. Dit is ook zeker de week om aan een visualisatie te beginnen en vormt het ook een belangrijk onderwerp in het eerste voortgangsgesprek. Voor het tekenen van plaatjes, raden we het gebruik van `matplotlib` aan (https://matplotlib.org/). Een bekende Python library voor het plotten van grafieken, maar waar je ook zeker mee kan tekenen en animaties mee kan maken. Natuurlijk sta je vrij om iets anders te gebruiken.
+
+
 ## Inleveren
 
 Lever hieronder een link naar de GitHub repo van je project in.
