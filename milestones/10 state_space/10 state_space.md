@@ -1,6 +1,6 @@
 # State-space
 
-Om je case beter te begrijpen en een idee te hebben hoe “groot” uw probleem is, is het goed om een schatting te hebben van de grootte van de state-space van je case. Daarmee bedoelen we het aantal mogelijke geldige staten die mogelijk zijn in de case, of het aantal mogelijke geldige oplossingen van de case.
+Om je case beter te begrijpen en een idee te hebben hoe “groot” het probleem is, is het goed om een schatting te hebben van de grootte van de state-space van je case. Daarmee bedoelen we het aantal mogelijke geldige staten die mogelijk zijn in de case, of het aantal mogelijke geldige oplossingen van de case.
 
 Bijvoorbeeld, in een case waar we de beste rij moeten vinden zijn dit de mogelijkheden waarop Anna, Bert en Carlijn in een rij kunnen staan:
 (ABC, ACB, BAC, CAB, BCA, CBA). Zo zie je dat er zes mogelijkheden zijn. Ook kan je dit berekenen, want Anna kan op drie verschillende plekken staan, na die keuze gemaakt te hebben kan vervolgens Bert op de overige twee plekken staan en tot slot Carlijn op de laatste plek. Vermeningvuldig je dit met elkaar, dus `3 x 2 x 1` dan krijg je het aantal mogelijkheden: `6` ofwel `3!`
@@ -80,7 +80,7 @@ Opnieuw moeten 50 dozen met flesjes water, 50 dozen fruit, en 30 dozen boordjes 
 
 ### Opdracht 7
 
-Geef (de bovengrens van) de grootte van de state-space van de door u gekozen case.
+Geef (de bovengrens van) de grootte van de state-space van de gekozen case.
 
 Welke case heb je gekozen?
 
