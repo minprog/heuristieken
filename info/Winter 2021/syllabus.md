@@ -95,7 +95,7 @@ Deze repository moet tenminste je eindproduct, een README, een equivalent aan ee
 De link naar deze repository geef je aan het begin van het vak aan je TA.
 Een voorbeeld van hoe je je GitHub repository op zou kunnen zetten vind je [hier](https://github.com/minprog/voorbeeld-repo).
 
-Voor alle informatie, zie de [eindproduct beoordeling](https://theorie.mprog.nl/beoordeling/beoordeling-eindproduct).
+Voor alle informatie, zie de [oplevering van het eindproduct](https://theorie.mprog.nl/milestones/oplevering).
 
 ## Kalender
 In de tabel hieronder kan je zien wanneer de colleges zijn en de grote lijnen van de planning. Deze kan je ook terugvinden in de kantlijn op deze website.
