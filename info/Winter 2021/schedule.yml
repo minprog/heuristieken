@@ -1,5 +1,13 @@
 Start:
-    "Lees allereerst even rustig de studiewijzer door": /syllabus
+    Studiewijzer:
+        "Lees allereerst even rustig de studiewijzer door": /syllabus
+    Cases:
+        "Amstelhaege": /cases/amstelhaege
+        "Chips & Circuits": /cases/chips-circuits
+        "Protein Pow(d)er": /cases/protein-pow-d-er
+        "RailNL": /cases/railnl
+        "Rush Hour": /cases/rush-hour
+        "SmartGrid": /cases/smartgrid
 Week 1:
     Live colleges:
         "Opening (maandag 15:00 - 16:00)": /lectures/opening
