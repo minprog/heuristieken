@@ -1,0 +1,5 @@
+name: second_algorithm
+url: true
+files:
+  required:
+    - second_algorithm.pdf

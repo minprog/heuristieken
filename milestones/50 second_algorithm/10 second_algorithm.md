@@ -1,0 +1,7 @@
+# Tweede algoritme
+
+Voor deze milestone moet je een tweede algoritme implementeren dat significant anders is dan het eerste algoritme. Dit doe je om een aantal redenen. Allereerst weet je nu een stuk meer van de case af en ben je waarschijnlijk verschillende grenzen tegenkomen. Dat maakt het zo dat je op een creatieve manier over een andere oplossing kan nadenken. Dit willen we zoveel mogelijk activeren. Daarnaast weten we dat verschillende aanpakken verassend kunnen uitpakken, en zowel goede als minder resultaten kunnen opleveren. Die ervaring willen we je ook meegeven.
+
+Lever hier daarom een tweede algoritme in dat ook resultaten produceert. Dit algoritme moet significant verschillen van het eerste algoritme. Dat betekent dat het natuurlijk niet de bedoeling is om de parameters van het eerste algoritme te tweaken en opnieuw in te leveren. Concreter dan een significant verschil kunnen we het ook niet maken, want op dit punt in het vak valt het niet te voorspellen waar je bent met de case. Dus twijfel je over een tweede algoritme, bespreek het even met de staff!
+
+Naast de code vragen we je om op één kantje met maximaal 400 woorden de resultaten te laten zien, toe te lichten wat de resultaten betekenen en hoe je voor de parameters van het algoritme hebt gekozen.
