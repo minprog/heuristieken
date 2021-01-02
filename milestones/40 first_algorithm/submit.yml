@@ -1,0 +1,5 @@
+name: first_algorithm
+url: true
+files:
+  required:
+    - first_algorithm.pdf
