@@ -22,7 +22,7 @@ Op basis van deze twee aspecten vind je hieronder een kleine cheatsheet voor de 
 
 ![state-space cheatsheet](state_space_cheatsheet.png)
 
-Vaak helpt het om een probleem eerst te verkleinen en het dus eerst voor zeer kleine waarden voor ‘n’ en ’r’ op te lossen waarbij je nog kunt natellen of het antwoord klopt.
+Vaak helpt het om een probleem eerst te verkleinen en het dus eerst voor zeer kleine waarden voor `n` en `r` op te lossen waarbij je nog kunt natellen of het antwoord klopt.
 
 
 ## Opdrachten
