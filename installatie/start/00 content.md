@@ -16,4 +16,4 @@ Hoe je dit doet verschilt per besturingssysteem en daarvoor moet je even doorkli
 - [macOS](/installatie/macos)
 - [Linux](/installatie/linux)
 
-> let op, de installatie van check50 is optioneel. check50 kan je ook altijd nog gebruiken via [de CS50 IDE](https://ide.cs50.io) of eventueel met [een CS50 Sandbox](https://sandbox.cs50.io/)
+> Let op, de installatie van check50 is optioneel. check50 kan je ook altijd nog gebruiken via [de CS50 IDE](https://ide.cs50.io) of eventueel met [een CS50 Sandbox](https://sandbox.cs50.io/)
