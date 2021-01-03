@@ -1,6 +1,6 @@
 # Programmeertheorie<br><small>a.k.a. Heuristieken</small>
 
-## Studiewijzer, winter 2021 (niet finaal)
+## Studiewijzer, winter 2021
 
 Deze cursus is de afsluiting van de Minor Programmeren.
 Na vele maanden ervaring opdoen met programmeren in Python, met object-oriëntatie en met problem solving, komt hier alles samen.
@@ -31,13 +31,14 @@ Weet je het niet helemaal zeker, neem dan contact op via een mail naar help@mpro
 Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
 1. alle onderdelen van de cursus afrondt in samenwerking met twee andere teamleden,
-2. een case "oplost" met behulp van de in de cursus behandelde heuristische algoritmen,
-3. zichtbaar met je teamgenoten samenwerkt aan de oplossingen via git,
-4. de voortgang en inzichten uitlegt bij twee tussentijdse presentaties,
-5. advies inwint bij je assistent tijdens de vier tussentijdse update-sessies,
-6. regelmatig vragen stelt aan de assistenten en docenten,
-7. een zorgvuldig opgebouwd eindproduct inlevert, en
-8. een eindpresentatie geeft in de laatste week en andere eindpresentaties bijwoont.
+1. dagelijks met je team bijeenkomt voor een korte standup
+1. een case "oplost" met behulp van de in de cursus behandelde heuristische algoritmen,
+1. zichtbaar met je teamgenoten samenwerkt aan de oplossingen via git,
+1. de voortgang en inzichten uitlegt bij een tussentijdse presentatie,
+1. advies inwint bij je assistent tijdens de vier tussentijdse voortgangsgesprekken,
+1. regelmatig vragen stelt aan de assistenten en docenten,
+1. een zorgvuldig opgebouwd eindproduct inlevert, en
+1. een eindpresentatie geeft in de laatste week en andere eindpresentaties bijwoont.
 
 
 ## Cases
@@ -112,7 +113,7 @@ In de tabel hieronder kan je zien wanneer de colleges zijn en de grote lijnen va
 |      |                                            | Dinsdag   11 uur: College over optimalisatie-algoritmes        |
 |      |                                            | Woensdag  15 uur: Live coding college                          |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
-|    3 | Algoritmes & resultaten                    | Maandag & Dinsdag: Midterm presentaties                        |
+|    3 | Algoritmes & resultaten                    | Woensdag: Midterm presentaties                        |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
 |    4 | Vergelijken & presenteren                  | Donderdag & Vrijdag: Eindpresentaties                          |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
