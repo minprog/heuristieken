@@ -27,9 +27,12 @@ Als je extra python packages wilt installeren kan dat met het `pip3` commando.
 #### Installeer check50
 
 {: start="4"}
-4. check50 is een python package en kan geïnstalleer worden met:  
+4. check50 is een python package en kan geïnstalleerd worden met:  
     ```
     pip3 install check50
     ```
 
 Vervolgens kan je de check50 scripts uitvoeren zoals aangegeven bij de door jou gekozen case.
+
+#### Installeer visual studio code
+Ga hiervoor simpelweg naar [de volgende link](https://code.visualstudio.com/) en volg de instructies.

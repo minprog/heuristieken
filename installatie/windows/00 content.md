@@ -1,9 +1,9 @@
-# Windows installatie
-Voor Windows moet eerst Windows Subsystem for Linux (WSL 1) geïnstalleerd worden.
-Vervolgens kunnen we Ubuntu installeren en met een terminal check50 installeren.
+## Windows installatie
+Hoewel je prima op Windows kan programmeren, zijn dingen toch net altijd even anders dan op Unix gebaseerde besturingssystemen. Daarom vragen we je voor dit vak gebruik te maken van het Windows Subsystem for Linux (WSL). Dit systeem zorgt ervoor dat je toegang krijgt tot een Linux distributie onder Windows. Zo kan je linux programma's installeren en draaien en tegelijkertijd gewoon bij je Windows bestanden. Dat maakt het samenwerken met je teamgenoten op bijvoorbeeld een Mac net even iets makkelijker!
+
 
 #### Windows Subsystem for Linux
-Windows Subsystem for Linux kan geactiveerd en geïnstalleerd worden met een paar simpele commando's.
+Allereerst moet je WSL activeren en installeren worden met een paar commando's.
 
 1. Activeer de optie met een terminal.
     1. Open PowerShell als administrator en run:  
@@ -16,6 +16,7 @@ Windows Subsystem for Linux kan geactiveerd en geïnstalleerd worden met een paa
     2. Start vervolgens de computer opnieuw op.
 
 #### Installeer Ubuntu
+Nu WSL geactiveerd is op je computer, moet je een Linux distributie installeren. Hier raden we Ubuntu aan, de populairste Linux distributie.
 
 {: start="2"}
 2. Installeer Ubuntu via de Microsoft Store.
@@ -45,3 +46,7 @@ De installatiestappen gebeuren allemaal binnen het Ubuntu besturingssysteem waar
     ```   
 
 Vervolgens kan je de check50 scripts uitvoeren zoals aangegeven bij de door jou gekozen case.
+
+
+#### Installeer visual studio code
+Ga hiervoor simpelweg naar [de volgende link](https://code.visualstudio.com/) en volg de instructies.
