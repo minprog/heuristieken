@@ -1,4 +1,4 @@
-# Installatie instructies
+# Installatie-instructies
 
 Voor dit vak ga je samen programmeren en dan loont het om ervoor te zorgen dat iedereen dezelfde programma's gebruikt en kan gebruiken. Daarom vind je op deze pagina's instructies voor het opzetten van een werkomgeving voor dit vak.
 
