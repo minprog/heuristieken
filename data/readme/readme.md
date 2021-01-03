@@ -34,6 +34,6 @@ Om stippen op de horizon te zetten zijn er zes milestones met een deadline. Deze
 
 ### Verslavingshulp
 
-De cases zijn allemaal onmogelijk en ze zijn zo geworden doordat vele enthousiaste studenten en docenten ze zo hebben gemaakt. Er zit een ongelooflijke uitdaging in het oplossen en het maken van de cases, en je zult zien dat je steeds meer kan verbeteren. Mocht je nou veel plezier halen uit dit vak, kom met ons praten! Niet alleen zijn er andere interessante vakken binnen AI en Informatica die je zou kunnen volgen, maar ook zijn sommigen staff-leden bezig met onderzoek. 
+De cases zijn allemaal onmogelijk en ze zijn zo geworden doordat vele enthousiaste studenten en docenten ze zo hebben gemaakt. Er zit een ongelooflijke uitdaging in het oplossen en het maken van de cases, en je zult zien dat je steeds meer kan verbeteren. Mocht je nou veel plezier halen uit dit vak, kom met ons praten! Niet alleen zijn er andere interessante vakken binnen AI en Informatica die je zou kunnen volgen, maar ook zijn verschillende staff-leden bezig met onderzoek. 
 
 
