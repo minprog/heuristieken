@@ -51,7 +51,7 @@ Voor deze editie van het vak kun je kiezen uit de volgende cases:
 - [Rush Hour](/cases/rush-hour)
 - [SmartGrid](/cases/smartgrid)
 
-Het kiezen van een case zal na het introductiecollege gebeuren via een formulier. Hier krijg je via een mededeling informatie over.
+Je kiest samen met je team voor een case via [deze pagina](/milestones/case).
 
 
 ## Eindcijfer
@@ -97,7 +97,7 @@ Deze repository moet tenminste je eindproduct, een README, een equivalent aan ee
 De link naar deze repository geef je aan het begin van het vak aan je TA.
 Een voorbeeld van hoe je je GitHub repository op zou kunnen zetten vind je [hier](https://github.com/minprog/voorbeeld-repo).
 
-Voor alle informatie, zie de [oplevering van het eindproduct](https://theorie.mprog.nl/milestones/oplevering).
+Voor alle informatie, zie de [oplevering van het eindproduct](https://theorie.mprog.nl/milestones/deliverable).
 
 ## Kalender
 In de tabel hieronder kan je zien wanneer de colleges zijn en de grote lijnen van de planning. Deze kan je ook terugvinden in de kantlijn op deze website.
