@@ -7,7 +7,7 @@ Om deze redenen gaan we een nieuwe videodienst proberen: [wonder.me](https://www
 
 ### Gebruik
 
-De intentie is dan ook dat we Wonder gaan gebruiken als een klaslokaal. Zodat assistenten en docenten makkelijker te benaderen zijn en zodat jij als student makkelijker medestudenten kan zien en vinden. Om dit goed te doen vragen je om Wonder te gebruiken als videochatdienst gedurende dit vak. Gebruik het dus wanneer je samen met je team afspreekt. Ook gaan we Wonder inzetten voor contact met de staff. Dus de vragen via de Hands op de website zijn nu bij Wonder en contact met de docenten ook.
+De intentie is dan ook dat we Wonder gaan gebruiken als een klaslokaal. Zodat assistenten en docenten makkelijker te benaderen zijn en zodat jij als student makkelijker medestudenten kan zien en vinden. Om dit goed te doen vragen je om Wonder te gebruiken als klaslokaal gedurende dit vak. Ga erin zitten wanneer je bezig bent met het vak en gebruik wonder wanneer je samen met je team afspreekt. Ook gaan we Wonder inzetten voor contact met de staff. Dus de vragen via de Hands op de website zijn nu bij Wonder en contact met de docenten ook.
 
 Wonder heeft zelf ook een paar limitaties. Zo is het niet mogelijk berichten te sturen naar offline members, wat enerzijds heel gezond is, maar soms toch wel noodzakelijk. Om deze reden blijven we ook Slack gebruiken. Ook staat Wonder videochats toe met maximaal 15 deelnemers, en dat is natuurlijk te weinig voor werkgroepen en hoorcolleges. Daarom gebruiken we daar nog steeds Zoom.
 
