@@ -60,7 +60,7 @@
 20.	Hanan Almoustafa
 	Tim Alessie
 	Tijmen Kuin
-21	Samson van der Sande
+21.	Samson van der Sande
 	Anouk Hooijschuur
 	Stein Overtoom
 22.	Shu Yan Ng
