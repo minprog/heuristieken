@@ -11,6 +11,7 @@ Start:
         "Rush Hour": /cases/rush-hour
         "SmartGrid": /cases/smartgrid
 Week 1:
+    "Leesmij": "/data/readme"
     Live colleges:
         "Opening (maandag 15:00 - 16:00)": /lectures/opening
         "Problemen (dinsdag 11:00 - 13:00)":  /lectures/problemen
@@ -19,7 +20,6 @@ Week 1:
         "Git Lecture": "/lectures/git"
         "Git naslag": "/naslag/git"
     Milestones:
-        "Leesmij": "/milestones/readme"
         "State space": /milestones/state_space
         "Representatie": /milestones/representation
 Week 2:

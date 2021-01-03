@@ -11,9 +11,11 @@ Het idee is simpel, je kiest een case met z'n drieën en je kan beginnen. Aan he
 
 De cases zijn zo ontworpen dat je allerlei hordes gaat tegenkomen en zo je eigen leermomenten vindt. Je stoot als het ware je teen en leert vervolgens dit anders te doen, in plaats van andersom. Dat maakt het leermoment een stuk krachtiger, maar ook spannender. Wij weten namelijk ook niet wanneer je tegen iets aan gaat lopen.
 
+## Hulp
+
 Daarom is er veel hulp. Het allerbelangrijkste zijn je twee mentoren die je tijdens het hele vak gaan ondersteunen. Deze mentoren zijn zeer ervaren met de verschillende cases en kunnen sommige ook wel dromen. Toch gaan ze niks voorzeggen en zeker niet sturen. Je moet zelf ontdekken wat je case lastig maakt en wat tot een goede oplossing leidt. De mentoren gaan goed met je meedenken op iedere stap van de weg, en je natuurlijk fantastisch ondersteunen met het programmeren in de onzekere situatie van je case. 
 
-Dan is er de hulp op aanvraag, net zoals alle andere vakken van de minor gaat dit via de hands op deze website. Hier kan je elke middag van 13:00 tot 17:00 terecht. Probeer als je een vraag hebt, met je hele groepje een vraag via de hands te stellen.
+Dan is er de hulp op aanvraag, net zoals alle andere vakken van de minor gaat dit via de hands op deze website. Alleen gebruiken we dit keer [Wonder.me](https://www.wonder.me/r?id=6b17ee34-dcb5-4059-b88d-6db8004ef61e) in plaats van Slack. Zie ook de [wonder uitleg](/data/wonder). Hier kan je elke middag van 13:00 tot 17:00 terecht. Probeer als je een vraag hebt, met je hele groepje een vraag via de hands te stellen.
 
 Naast dit zijn er natuurlijk colleges die je de nodige theorie bijspijkeren en live coding colleges om die theorie in praktijk te brengen. Deze zijn allemaal ingepland in de eerste twee weken, zodat je snel zicht hebt op wat je kan proberen. Het is aan jou en je team om de theorie aan je case te koppelen en in te zetten.
 
