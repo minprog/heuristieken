@@ -27,9 +27,9 @@ Maar hoe minder trajecten voor dezelfde service, hoe goedkoper.
 En in hoe minder tijd er in al die trajecten samen verbruikt wordt, hoe beter.
 Dus die factoren worden ook meegewogen in de doelfunctie:
 
-$$ K = p*10000 - (T*100 + Min) $$
+        K = p*10000 - (T*100 + Min)
 
-waarin $K$ de kwaliteit van de lijnvoering is, $p$ de fractie van de bereden verbindingen (dus tussen 0 en 1), $T$ het aantal trajecten en $Min$ het aantal minuten in alle trajecten samen.
+waarin `K` de kwaliteit van de lijnvoering is, `p` de fractie van de bereden verbindingen (dus tussen 0 en 1), `T` het aantal trajecten en `Min` het aantal minuten in alle trajecten samen.
 
 {:start="2"}
 2. Maak wederom een lijnvoering voor Noord- en Zuid-Holland met maximaal zeven trajecten binnen een tijdsframe van twee uur, en probeer nu $K$ zo hoog mogelijk te krijgen.
