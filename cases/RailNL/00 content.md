@@ -32,14 +32,14 @@ Dus die factoren worden ook meegewogen in de doelfunctie:
 waarin `K` de kwaliteit van de lijnvoering is, `p` de fractie van de bereden verbindingen (dus tussen 0 en 1), `T` het aantal trajecten en `Min` het aantal minuten in alle trajecten samen.
 
 {:start="2"}
-2. Maak wederom een lijnvoering voor Noord- en Zuid-Holland met maximaal zeven trajecten binnen een tijdsframe van twee uur, en probeer nu $K$ zo hoog mogelijk te krijgen.
+2. Maak wederom een lijnvoering voor Noord- en Zuid-Holland met maximaal zeven trajecten binnen een tijdsframe van twee uur, en probeer nu `K` zo hoog mogelijk te krijgen.
 
 
 ## Opdracht deel 2: Nederland
 Are you ready for something bigger? We gaan nu heel Nederland doen. Vind hier het [bestand met spoorverbindingen](ConnectiesNationaal.csv) en het [bestand met intercitystations voor heel Nederland](StationsNationaal.csv), wederom met hun x/y-coordinaten.
 
 {:start="3"}
-3. Maak wederom een lijnvoering voor heel Nederland met maximaal twintig trajecten binnen een tijdsframe van drie uur, en probeer nu $K$ zo hoog mogelijk te krijgen. De doelfunctie blijft ongewijzigd.
+3. Maak wederom een lijnvoering voor heel Nederland met maximaal twintig trajecten binnen een tijdsframe van drie uur, en probeer nu `K` zo hoog mogelijk te krijgen. De doelfunctie blijft ongewijzigd.
 4. Maak een aantrekkelijke visualisatie van je resultaten. Hoe je dat doet, mag je zelf bepalen.
 
 
