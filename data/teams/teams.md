@@ -88,10 +88,9 @@
 	Jan-Joost Raedts
 29.	Jim Li,
 	Storm Hartkamp,
-	Miro Zwering
-30.	David Valero Martinez,
-	Stef Grijpma	
-31.	Melody Kaagman,
+	David Valero Martinez,
+30.	Stef Grijpma	
+	Melody Kaagman,
 	Mylène van der Maas	
 
 > Sta je er niet tussen? Neem dan zo snel mogelijk contact op via help@mprog.nl
