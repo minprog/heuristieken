@@ -88,8 +88,8 @@
 	Jan-Joost Raedts
 29.	Jim Li,
 	Storm Hartkamp,
-	David Valero Martinez,
-30.	Stef Grijpma	
+	David Valero Martinez
+30.	Stef Grijpma,
 	Melody Kaagman,
 	Mylène van der Maas	
 
