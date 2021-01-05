@@ -9,8 +9,7 @@
 	Guido de Bruin,
 	Allan Duah
 3.	Charif Ghammane,
-	Paulien Tideman,
-	lars zwaan
+	Paulien Tideman
 4.	Britt van Buuren,
 	Luuk Engele,
 	Diederik Schiet
@@ -91,6 +90,8 @@
 	David Valero Martinez
 30.	Stef Grijpma,
 	Melody Kaagman,
-	Mylène van der Maas	
+	Mylène van der Maas
+31. Toer van Holstein,
+	Niels Bout
 
 > Sta je er niet tussen? Neem dan zo snel mogelijk contact op via help@mprog.nl
