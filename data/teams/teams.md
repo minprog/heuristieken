@@ -40,8 +40,7 @@
 13.	bowie brewster,
 	Irini Kiestra,
 	Emmelien Schiet
-14.	Reinout mensinf,
-	Felix Blom,
+14.	Reinout Mensing,
 	Denniz Goren
 15.	Jari Hoffmann,
 	Pauline van Lieshout,
