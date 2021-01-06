@@ -17,8 +17,7 @@
 	Hattum Smit,
 	Miro Zwering
 6.	Jet Eliens,
-	Mouad El Mehdi El Baghdadi,
-	Paul Molenaar
+	Mouad El Mehdi El Baghdadi
 7.	Tünde de Vries,
 	Hanne Brouwer,
 	Jeroen van der Borgh
