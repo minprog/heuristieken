@@ -1,6 +1,6 @@
 # College over problemen
 
-De slides van dit college vind je [hier](Heuristic Lecture.pptx)
+De slides van dit college vind je [hier](/course/lectures/20%20problemen/Heuristic%20Lecture.pptx)
 
 Dinsdag 5 januari om 11:00 via [https://uva-live.zoom.us/j/84487703463](https://uva-live.zoom.us/j/84487703463), gegeven door Anuj Pathania.
 
