@@ -1,5 +1,5 @@
 # Eerste live coding sessie
 
-Woensdag 6 januari om 15:00 via [https://uva-live.zoom.us/j/83725971345](https://uva-live.zoom.us/j/83725971345)
+Woensdag 6 januari om 15:00 via [https://uva-live.zoom.us/j/83725971345](https://uva-live.zoom.us/j/83725971345), gegeven door Wouter Vrielink & Quinten van der Post.
 
 Heb je ondertussen VS code geïnstalleerd, dan kan je met het volgende pakket live meekijken en scrollen in de code, zonder dat je gebonden bent aan welk scherm in Zoom te zien is: [VS live share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
