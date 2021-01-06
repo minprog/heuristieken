@@ -2,7 +2,7 @@
 
 > Let op, omdat dit een publieke pagina is staan de emailadressen er natuurlijk niet bij. Gedurende de eerste dag van het vak krijg je een uitnodiging voor Slack, waarmee je vervolgens het eerste contact kan maken met je teamgenoten.
 
-1.	(**Gridmeisters** - SmartGrid)
+1.	(**Gridmeisters** - SmartGrid) <br/>
 	Sofie van Haasteren,
 	Anouar Bousraou,
 	Dirk Span
