@@ -32,9 +32,9 @@ Nets can also go up and down to lower and higher layers, also at the cost of 1 u
 Wires may cross at an intersection, but that will cause the chip to short-circuit and thus increase the total costs. 
 The total costs placing the wires can be computed by:
 
-$$ C = n + 300 * k $$ 
+        C = n + 300 * k
 
-where $C$ is the total costs, $n$ the number of unit length wires that are used and $k$ the number of intersections. 
+where `C` is the total costs, `n` the number of unit length wires that are used and `k` the number of intersections. 
 The assignment is to implement all nets in all netlists at minimum cost.  
 A few steps to pave the way towards a program:
 
