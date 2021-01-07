@@ -6,4 +6,10 @@ Heb je ondertussen VS code geïnstalleerd, dan kan je met het volgende pakket li
 
 
 ## Voorbeeld case
+
 In dit college wordt de [Radio Russia case](/cases/radio-russia) gebruikt als voorbeeld.
+
+
+## Code
+
+In de volgende GitHub repository vind je de code van dit college: [github.com/minprog/radio_russia_demo](https://github.com/minprog/radio_russia_demo/tree/college_1)
