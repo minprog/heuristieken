@@ -19,9 +19,9 @@ Week 1:
         "Problemen (dinsdag 11:00 - 13:00)":  /lectures/problemen
         "Live coding (woensdag 15:00 - 17:00)": /lectures/live_coding_1
     Milestones:
-        "Case & Teamnaam kiezen (Dinsdag 11:00)": /milestones/case
-        "State space (Woensdag 15:00)": /milestones/state_space
-        "Representatie (Vrijdag 18:00)": /milestones/representation
+        "Case & Teamnaam kiezen (dinsdag 11:00)": /milestones/case
+        "State space (woensdag 15:00)": /milestones/state_space
+        "Representatie (vrijdag 18:00)": /milestones/representation
     Naslag:
         "Git Lecture": "/lectures/git"
         "Git naslag": "/naslag/git"
@@ -31,11 +31,11 @@ Week 2:
         "Optimalisatie-algoritmes (dinsdag 11:00 - 13:00)":  /lectures/optimalisatie_algoritmes
         "Live coding (woensdag 15:00 - 17:00)": /lectures/live_coding_2
     Milestones:
-        "Baseline (Woensdag 15:00)": "/milestones/baseline"
+        "Baseline (woensdag 15:00)": "/milestones/baseline"
 Week 3:
     Milestones:
-        "Eerste algoritme (Dinsdag 18:00)": "/milestones/first_algorithm"
+        "Eerste algoritme (dinsdag 18:00)": "/milestones/first_algorithm"
 Week 4:
     Milestones:
-        "Tweede algoritme (Maandag 18:00)": "/milestones/second_algorithm"
-        "Oplevering (Woensdag 23:59)": "/milestones/deliverable"
+        "Tweede algoritme (maandag 18:00)": "/milestones/second_algorithm"
+        "Oplevering (woensdag 23:59)": "/milestones/deliverable"
