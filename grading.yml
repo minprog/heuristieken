@@ -1,0 +1,40 @@
+templates:
+    1: &check_off
+        type: pass
+        subgrades:
+            done: boolean
+        calculation: done
+        hide_calculated: true
+    2: &manual
+        type: float
+        subgrades:
+            presentation: integer
+            code: integer
+        calculation: ((presentation + code) / 10.0 * 9 + 1).round(1)
+        hide_calculated: true
+
+
+grades:
+    case: *check_off
+    state_space: *check_off
+    representation: *check_off
+    baseline: *check_off
+    first_algorithm: *check_off
+    second_algorithm: *check_off
+    deliverable: *manual
+
+
+calculation:
+    eindcijfer:
+        mods: 100
+
+
+mods:
+    show_progress: true
+    submits:
+        state_space: 1
+        representation: 1
+        baseline: 1
+        first_algorithm: 1
+        second_algorithm: 1
+        deliverable: 5
