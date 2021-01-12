@@ -10,4 +10,4 @@ De verschillende onderwerpen uit het college zijn ook terug te kijken op [YouTub
 
 ### Slides
 
-Zijn [hier](/course/lectures/40%20zoekalgoritmes/Construtief.pptx) te downloaden.
+Zijn [hier](/course/lectures/40%20zoekalgoritmes/Constructief.pptx) te downloaden.
