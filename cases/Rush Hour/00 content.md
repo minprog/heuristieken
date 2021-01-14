@@ -53,25 +53,24 @@ Ook aantonen waar de moeilijkheid **niet** aan ligt is waardevol.
 Om resultaten te kunnen verifiëren is het handig om in een uniform format je output te genereren.
 Bekijk [het voorbeeld](example_output.csv) en zorg ervoor dat jouw programma een oplossing in hetzelfde format kan omzetten.
 De enige vereiste aan de output is de header-regel (regel 1), die identiek moet zijn.
-Bewegingen naar boven/rechts worden met een positief getal aangeduid en bewegingen 'de andere kant' op worden met een negatief getal aangeduid. 
-Het getal geeft het aantal posities aan dat de auto opschuift.
+Het getal naast het voertuig geeft afhankelijk van de orientatie van het voertuig het aantal kolommen of rijen aan dat deze opschuift.
 
 N.B. Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit enkel als laatste stap in het process te kunnen doen.
 
 
 ## Check50
-Je kan je programma's testen door de output mee te geven aan de check50. Dit kan in drie eenvoudige stappen:
+Je kan je programma's testen door de output mee te geven aan de check50. Dit doe je als volgt:
 
 1. Genereer een antwoord en sla deze met het bovenstaande formaat op in een nieuw bestand met de naam `output.csv`
 2. Open een terminal in de folder waar je `output.csv` hebt opgeslagen
 3. Run het commando van het betreffende probleem:
     1. Voor de 6x6 borden: 
-        1. `check50 minprog/theorie-check50/master/rush_hour/board6x6_1`
-        2. `check50 minprog/theorie-check50/master/rush_hour/board6x6_2`
-        3. `check50 minprog/theorie-check50/master/rush_hour/board6x6_3`
+        1. `check50 minprog/theorie-check50/2021/rush_hour/board1`
+        2. `check50 minprog/theorie-check50/2021/rush_hour/board2`
+        3. `check50 minprog/theorie-check50/2021/rush_hour/board3`
     2. Voor de 9x9 borden: 
-        1. `check50 minprog/theorie-check50/master/rush_hour/board9x9_4`
-        2. `check50 minprog/theorie-check50/master/rush_hour/board9x9_5`
-        3. `check50 minprog/theorie-check50/master/rush_hour/board9x9_6`
+        1. `check50 minprog/theorie-check50/2021/rush_hour/board4`
+        2. `check50 minprog/theorie-check50/2021/rush_hour/board5`
+        3. `check50 minprog/theorie-check50/2021/rush_hour/board6`
     3. Voor het 12x12 bord: 
-        1. `check50 minprog/theorie-check50/master/rush_hour//board12x12_7`
+        1. `check50 minprog/theorie-check50/2021/rush_hour/board7`
