@@ -35,6 +35,9 @@ The total costs placing the wires can be computed by:
         C = n + 300 * k
 
 where `C` is the total costs, `n` the number of unit length wires that are used and `k` the number of intersections. 
+
+> Do note that if more than two wires cross at an intersection, each additional wire will increase the cost by `300`. For example, if wires A, B & C cross at the same intersection, there is an increase of `600` to the total costs. 
+
 The assignment is to implement all nets in all netlists at minimum cost.  
 A few steps to pave the way towards a program:
 
