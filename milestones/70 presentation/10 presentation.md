@@ -15,7 +15,7 @@ Concreet ga je een presentatie geven in de volgende vorm:
 
 Hier komt het lastige, dit ga je doen in **10 minuten** aan een publiek dat niks van je case weet. De setting is alsof je op een wetenschappelijke conferentie presenteert. Het publiek heeft daar wel ervaring met programmeren, maar niet zozeer met het domein van het probleem en de verschillende oplossingstechnieken. 
 
-De tijdsdruk maakt het zo dat je goed moet kiezen wat je vertelt en hoe. Dat betekent ook snijden en kiezen wat je juist niet verteld. Het is een zekere kunst om deze hoeveelheid informatie in een korte presentatie over te krijgen, maar als het lukt wordt de presentatie er juist door de tijdsdruk velen malen beter op. Ook deze uitdaging is wat je bij wetenschappelijke conferenties tegenkomt en wat je daarom bij dit vak gaat meemaken.
+De tijdsdruk maakt het zo dat je goed moet kiezen wat je vertelt en hoe. Dat betekent ook snijden en kiezen wat je juist niet verteld. Het is een zekere kunst om deze hoeveelheid informatie in een korte presentatie te krijgen, maar als het lukt wordt de presentatie er juist door de tijdsdruk velen malen beter op. Ook deze uitdaging is wat je bij wetenschappelijke conferenties tegenkomt en wat je daarom bij dit vak gaat meemaken.
 
 Na de presentatie krijg je van ons en het publiek lastige vragen die je zo goed mogelijk beantwoord. Waarbij het belangrijkste is om beleefd en eerlijk te blijven.
 
@@ -44,22 +44,22 @@ Nu de case is uitgelegd en de terminologie ook, kan het probleem geframed worden
 Dit is ook het punt in het verhaal waarin je kort toelicht wat de case lastig maakt. Hier kan je eventueel de grootte van de state space aanhalen.
 
 
-### Methode sectie
+### Methode
 
 Leg eerst uit hoe de methode, het algoritme, werkt op de case. Afhankelijk van de opzet kan je ervoor kiezen om de methode en resultaten sectie om-en-om te doen per algoritme.
 
 
-### Resultaten sectie
+### Resultaten
 
 Laat hier de behaalde resultaten zien. 
 
 
-### Discussie sectie
+### Discussie
 
 Leg hier de verschillende resultaten van de algoritmes naast elkaar en bediscusieer ze. Let hierbij vooral op hoe de resultaten geïnterpreteerd worden, en in welke maten ze wel of niet met elkaar vergeleken kunnen worden. 
 
 
-### Conclusie sectie
+### Conclusie
 
 Hier vertel je de oplossing van de case. Een hogere score is beter, maar belangrijker is wat je kan vertellen over de behaalde resultaten.
 
