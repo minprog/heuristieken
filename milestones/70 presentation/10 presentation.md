@@ -7,9 +7,9 @@ Concreet ga je een presentatie geven in de volgende vorm:
 - Een introductie waarin je elkaar kort introduceert.
 - Een scherpe en korte uitleg van de case, waarin je ook de terminologie introduceert.
 - Een introductie in het op te lossen probleem en waar de uitdaging zit.
-- Een methode sectie waarin de verschillende algoritmes worden uitgelegd.
-- Een resultaten sectie met de verschillende behaalde resultaten.
-- Een vergelijking sectie waarin de resultaten worden besproken en vergeleken.
+- Een methode-sectie waarin de verschillende algoritmes worden uitgelegd.
+- Een resultatensectie met de verschillende behaalde resultaten.
+- Een vergelijkingssectie waarin de resultaten worden besproken en vergeleken.
 - Een conclusie waarin de oplossing van de case duidelijk naar voren komt.
 - Eventueel een future work sectie waarin je onderbouwde ideeën geeft voor vervolgonderzoek.
 
