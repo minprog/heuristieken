@@ -1,4 +1,4 @@
-## Presentatie
+# Presentatie
 
 In de laatste week zijn er eindpresentaties. Dat is het moment van het vak dat je laat zien hoe je de case hebt opgelost en welke resultaten er zijn geboekt. Dat is makkelijker gezegd dan gedaan, zoals je wellicht nu ook al merkt in de communicatie naar elkaar en naar ons!
 
@@ -9,7 +9,7 @@ Concreet ga je een presentatie geven in de volgende vorm:
 - Een introductie in het op te lossen probleem en waar de uitdaging zit.
 - Een methode sectie waarin de verschillende algoritmes worden uitgelegd.
 - Een resultaten sectie met de verschillende behaalde resultaten.
-- Een discussie sectie waarin de resultaten worden besproken.
+- Een discussie sectie waarin de resultaten worden besproken en vergeleken.
 - Een conclusie waarin de oplossing van de case duidelijk naar voren komt.
 - Eventueel een future work sectie waarin je onderbouwde ideeën geeft voor vervolgonderzoek.
 
@@ -41,7 +41,7 @@ Het belangrijkste van dit onderdeel is om de terminologie recht te krijgen. Wat 
 
 Nu de case is uitgelegd en de terminologie ook, kan het probleem geframed worden. Daarmee leg je in dit stuk de focus op wat de mogelijke keuzes zijn, wat een oplossing is, en wat de oplossing is.
 
-Dit is ook het punt in het verhaal waarin je kort toelicht wat de case lastig maakt. Hier kan je eventueel de grootte van de state space aanhalen.
+Dit is ook het punt in het verhaal waarin je kort toelicht wat de case lastig maakt en hier leg je ook de inschatting van de state space uit.
 
 
 ### Methode
@@ -54,14 +54,14 @@ Leg eerst uit hoe de methode, het algoritme, werkt op de case. Afhankelijk van d
 Laat hier de behaalde resultaten zien. 
 
 
-### Discussie
+### Discussie/Vergelijking
 
 Leg hier de verschillende resultaten van de algoritmes naast elkaar en bediscusieer ze. Let hierbij vooral op hoe de resultaten geïnterpreteerd worden, en in welke maten ze wel of niet met elkaar vergeleken kunnen worden. 
 
 
 ### Conclusie
 
-Hier vertel je de oplossing van de case. Een hogere score is beter, maar belangrijker is wat je kan vertellen over de behaalde resultaten.
+Hier vertel je de oplossing van de case. Een hogere score is beter, maar belangrijker is wat je kan vertellen over de behaalde resultaten. Wat is de kwaliteit van de oplossing? In hoeverre is de methode om dit resultaat te behalen toepasbaar op andere situaties? 
 
 
 ### Future work
