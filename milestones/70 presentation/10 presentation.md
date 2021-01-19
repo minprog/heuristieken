@@ -34,7 +34,7 @@ Wij kennen je nu, maar tijdens de presentatie niet meer. Stel jezelf en het team
 
 Van de case hebben we nog niet gehoord. Dat betekent dat je in een razend tempo het idee over moet brengen. Gebruik hierbij vooral plaatjes, dat zorgt ervoor dat je minder hoeft te praten en tijd wint.
 
-Het belangrijkste van dit onderdeel is om de terminologie recht te krijgen. Wat zijn batterijen, wat is capiciteit, wat is een configuratie, wat is lijnlengte? Alles wat belangrijk is voor het begrip van de case moet hier een duidelijke naam krijgen die je vervolgens consequent gebruikt gedurende de presentatie. Dit is moeilijker dan het klinkt, want jullie zijn ondertussen experts geworden. Je vergeet dan al snel dat de gemiddelde persoon het niet dagelijks heeft over netlists.
+Het belangrijkste van dit onderdeel is om de terminologie recht te krijgen. Wat zijn batterijen, wat is capaciteit, wat is een configuratie, wat is lijnlengte? Alles wat belangrijk is voor het begrip van de case moet hier een duidelijke naam krijgen die je vervolgens consequent gebruikt gedurende de presentatie. Dit is moeilijker dan het klinkt, want jullie zijn ondertussen experts geworden. Je vergeet dan al snel dat de gemiddelde persoon het niet dagelijks heeft over netlists.
 
 
 ### Introductie van het probleem
@@ -46,7 +46,7 @@ Dit is ook het punt in het verhaal waarin je kort toelicht wat de case lastig ma
 
 ### Methode
 
-Leg eerst uit hoe de methode, het algoritme, werkt op de case. Afhankelijk van de opzet kan je ervoor kiezen om de methode en resultaten sectie om-en-om te doen per algoritme.
+Leg eerst uit hoe de methode, het algoritme, werkt op de case. Afhankelijk van de opzet kan je ervoor kiezen om de methode en resultaten sectie om-en-om te doen per algoritme. In praktijk wordt dit vaak wel rommeliger.
 
 
 ### Resultaten
@@ -61,7 +61,7 @@ Leg hier de verschillende resultaten van de algoritmes naast elkaar en bediscusi
 
 ### Conclusie
 
-Hier vertel je de oplossing van de case. Een hogere score is beter, maar belangrijker is wat je kan vertellen over de behaalde resultaten. Wat is de kwaliteit van de oplossing? In hoeverre is de methode om dit resultaat te behalen toepasbaar op andere situaties?
+Hier vertel je de oplossing van de case. Een hogere score is beter, maar belangrijker is wat je kan vertellen over de behaalde resultaten.
 
 
 ### Future work
@@ -80,6 +80,7 @@ Na de presentatie zijn er vijf minuten gereserveerd voor vragen. Probeer deze vr
 * Slides kunnen ondersteunen bij het verhaal, maar zitten vaker dan niet in de weg. Houd de informatie op een slide minimaal zodat je publiek niet zit te lezen in plaats van te luisteren.
 * Everything that can go wrong, will go wrong, is zeker het geval bij live presentaties. Als het kan, maak een gif-je of een plaatje van de visualisatie. Ga geen live code draaien!
 * Laat geen code zien in de presentatie. Dit komt nooit goed of snel genoeg over. Mocht het noodzakelijk zijn voor de presentatie, maak dan gebruik van pseudocode. 
+* Het is niet nodig om de probleem representatie in termen van classes of UML uit te leggen. Die informatie halen we uit het tweede wat je inlevert, namelijk de code. 
 * Oefen een paar keer en time jezelf. Vaker dan niet kosten delen van het verhaal meer tijd dan verwacht en moet je bijschaven.
 
 
