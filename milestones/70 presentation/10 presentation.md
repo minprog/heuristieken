@@ -22,7 +22,7 @@ Na de presentatie krijg je van ons en het publiek lastige vragen die je zo goed 
 
 ## De opzet
 
-De presentatie geef je met z'n drieën volgens een vaste opzet. Wie precies wat verteld stem je onderling af. Het hoeft zeker niet zo te zijn dat ieder teamlid precies even veel aan het woord is, maar er moet een redelijke balans zijn.
+De presentatie geef je met z'n drieën volgens een vaste opzet. Wie precies wat verteld stem je onderling af. Het hoeft zeker niet zo te zijn dat ieder teamlid precies evenveel aan het woord is, maar er moet een redelijke balans zijn.
 
 
 ### Introductie
