@@ -51,7 +51,7 @@ Leg eerst uit hoe de methode, het algoritme, werkt op de case. Afhankelijk van d
 
 ### Resultaten
 
-Laat hier de behaalde resultaten van elk algoritme zien d.m.v. bijvoorbeeld grafieken en tabellen/
+Laat hier de behaalde resultaten van elk algoritme zien d.m.v. bijvoorbeeld grafieken en tabellen.
 
 
 ### Vergelijking
