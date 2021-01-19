@@ -80,7 +80,7 @@ Na de presentatie zijn er vijf minuten gereserveerd voor vragen. Probeer deze vr
 * Slides kunnen ondersteunen bij het verhaal, maar zitten vaker dan niet in de weg. Houd de informatie op een slide minimaal zodat je publiek niet zit te lezen in plaats van te luisteren.
 * Everything that can go wrong, will go wrong, is zeker het geval bij live presentaties. Als het kan, maak een gif-je of een plaatje van de visualisatie. Ga geen live code draaien!
 * Laat geen code zien in de presentatie. Dit komt nooit goed of snel genoeg over. Mocht het noodzakelijk zijn voor de presentatie, maak dan gebruik van pseudocode. 
-* Het is niet nodig om de probleem representatie in termen van classes of UML uit te leggen. Die informatie halen we uit het tweede wat je inlevert, namelijk de code. 
+* Het is niet nodig om de probleemrepresentatie in termen van classes of UML uit te leggen. Die informatie halen we uit het tweede wat je inlevert, namelijk de code. 
 * Oefen een paar keer en time jezelf. Vaker dan niet kosten delen van het verhaal meer tijd dan verwacht en moet je bijschaven.
 
 
