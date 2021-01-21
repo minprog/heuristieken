@@ -15,7 +15,7 @@ Schrijf je in via de Google Sheet die via de mail is verspreid.
 ### Zoom-links
 
 * Sessie E, Donderdag 15 - [https://uva-live.zoom.us/j/86706056026](https://uva-live.zoom.us/j/86706056026)
-* Sessie A, Vrijdag 11 - Coming soon
+* Sessie A, Vrijdag 11 - [https://uva-live.zoom.us/j/83637265461](https://uva-live.zoom.us/j/83637265461)
 * Sessie B, Vrijdag 13 - Coming soon
 * Sessie C, Vrijdag 13 - Coming soon
 * Sessie D, Vrijdag 15 - Coming soon
