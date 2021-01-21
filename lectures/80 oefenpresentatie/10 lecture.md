@@ -2,7 +2,7 @@
 
 Schrijf je in via de Google Sheet die via de mail is verspreid. 
 
-| Sessie A <br/>Vrijdag 11:00 ~ 13:00 | Sessie B <br/>Vrijdag 13:00 ~ 15:00 | Sessie C <br/>Vrijdag 13:00 ~ 15:00 | Sessie D <br/>Vrijdag 15:00 ~ 17:00 | Sessie E <br/>Donderdag 15:00 ~ 16:00 |
+| Sessie A <br/>Vrijdag 11:00 | Sessie B <br/>Vrijdag 13:00 | Sessie C <br/>Vrijdag 13:00 | Sessie D <br/>Vrijdag 15:00 | Sessie E <br/>Donderdag 15:00 |
 |--------------------------------|--------------------------------|--------------------------------|--------------------------------|----------------------------------|
 | Fake News                      | De sprinters                   | SmartSplitters                 | Team Rocket                    | UConservate                      |
 | JOM - Intelligence             | Bob de bouwers                 | Impala                         | AH                             | De gigahertjes                   |
