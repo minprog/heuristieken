@@ -84,8 +84,24 @@ Na de presentatie zijn er vijf minuten gereserveerd voor vragen. Probeer deze vr
 * Oefen een paar keer en time jezelf. Vaker dan niet kosten delen van het verhaal meer tijd dan verwacht en moet je bijschaven.
 
 
+## Presentatie sessies
+
+| Sessie A Vrijdag 10:00 ~ 13:00 | Sessie B Vrijdag 12:00 ~ 15:00 | Sessie C Vrijdag 12:00 ~ 15:00 | Sessie D Vrijdag 15:00 ~ 17:00 | Sessie E Donderdag 15:00 ~ 17:00 |
+| ------------------------------ | ------------------------------ | ------------------------------ | ------------------------------ | -------------------------------- |
+| Fake News                      | Team Rocket                    | Bob de bouwers                 | SmartTeam25                    | De Sprinters                     |
+| SmartSplitters                 | Impala                         | 3min1                          | Gridmeisters                   | Phaidros                         |
+| The Coding Cars                | Time savers                    | SpeedRail                      | team Ijwit                     | JOM intelligence                 |
+| Error 404 Team name not found  | Sonkrag                        | BioTrio                        | JAS                            | De gigahertjes                   |
+| UConservate                    | Lightning Mcqueen              | Groep Zefe                     | De Wijkhackers                 | Dreamteam                        |
+| DieselDrie                     | LittGrid                       | Groepje 2/3e                   |                                | Railgorithms                     |
+| DJs                            | AH                             |                                |                                |
 
 
+* Sessie E, Donderdag 15 - [https://uva-live.zoom.us/j/86915679660](https://uva-live.zoom.us/j/86915679660)
+* Sessie A, Vrijdag 10 - [https://uva-live.zoom.us/j/88665695051](https://uva-live.zoom.us/j/88665695051)
+* Sessie B, Vrijdag 12 - Coming soon
+* Sessie C, Vrijdag 12 - [https://uva-live.zoom.us/j/84164349099](https://uva-live.zoom.us/j/84164349099)
+* Sessie D, Vrijdag 15 - [https://uva-live.zoom.us/j/84628107232](https://uva-live.zoom.us/j/84628107232)
 
 
 
