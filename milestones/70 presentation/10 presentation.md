@@ -99,7 +99,7 @@ Na de presentatie zijn er vijf minuten gereserveerd voor vragen. Probeer deze vr
 
 * Sessie E, Donderdag 15 - [https://uva-live.zoom.us/j/86915679660](https://uva-live.zoom.us/j/86915679660)
 * Sessie A, Vrijdag 10 - [https://uva-live.zoom.us/j/88665695051](https://uva-live.zoom.us/j/88665695051)
-* Sessie B, Vrijdag 12 - Coming soon
+* Sessie B, Vrijdag 12 - [https://uva-live.zoom.us/my/bterwijn?pwd=eVk1bGFKejRVdm05cjJCaUlqdFVEQT09](https://uva-live.zoom.us/my/bterwijn?pwd=eVk1bGFKejRVdm05cjJCaUlqdFVEQT09)
 * Sessie C, Vrijdag 12 - [https://uva-live.zoom.us/j/84164349099](https://uva-live.zoom.us/j/84164349099)
 * Sessie D, Vrijdag 15 - [https://uva-live.zoom.us/j/84628107232](https://uva-live.zoom.us/j/84628107232)
 
