@@ -10,7 +10,7 @@ templates:
         subgrades:
             presentation: integer
             code: integer
-        calculation: ((presentation + code) / 10.0 * 9 + 1).round(1)
+        calculation: ((presentation + code - 2) / 8 * 10).round(1)
         hide_calculated: true
 
 
