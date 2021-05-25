@@ -1,6 +1,6 @@
 # Programmeertheorie<br><small>a.k.a. Heuristieken</small>
 
-## Studiewijzer, winter 2021
+## Studiewijzer, zomer 2021
 
 Deze cursus is de afsluiting van de Minor Programmeren.
 Na vele maanden ervaring opdoen met programmeren in Python, met object-oriëntatie en met problem solving, komt hier alles samen.
