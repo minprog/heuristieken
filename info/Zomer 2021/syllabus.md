@@ -11,7 +11,7 @@ Gaandeweg leer je over verschillende soorten problemen, wat de limitaties zijn v
 ## Docenten
 Je docenten zijn Jelle van Assema, Anuj Pathania, Bas Terwijn en Wouter Vrielink.
 
-De assistenten zijn Okke van Eck, Kiara Evers, Marleen de Jonge, Charlotte Lafage, Daan Moll, Quinten van der Post en Karim Semin.
+De assistenten zijn Marleen de Jonge, Charlotte Lafage, Marijn Doeve, Quinten van der Post en Björn Out.
 
 
 ## Contact
