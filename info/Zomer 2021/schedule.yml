@@ -1,8 +1,6 @@
 Start:
     Studiewijzer:
         "Lees allereerst even rustig de studiewijzer door": /syllabus
-    Teams:
-        "Vind hier de teamindeling": /data/teams
     Cases:
         "Amstelhaege": /cases/amstelhaege
         "Chips & Circuits": /cases/chips-circuits
