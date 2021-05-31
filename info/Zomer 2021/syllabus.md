@@ -95,7 +95,7 @@ Het is de bedoeling dat de presentatie een alle milestones van het project tot �
 Gedurende het vak zal je als groep één GitHub repository gebruiken.
 Deze repository moet tenminste je eindproduct, een README, een equivalent aan een requirements.txt, en je presentatie bevatten.
 De link naar deze repository geef je aan het begin van het vak aan je TA.
-Een voorbeeld van hoe je je GitHub repository op zou kunnen zetten vind je [hier](https://github.com/minprog/voorbeeld-repo).
+
 
 Voor alle informatie, zie de [oplevering van het eindproduct](https://theorie.mprog.nl/milestones/deliverable).
 
