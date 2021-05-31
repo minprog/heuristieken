@@ -52,7 +52,7 @@ Je fietst door Manhattan, New York en kunt bij elk kruispunt linksaf, rechtsaf o
 
 ### Opdracht 3
 
-Er moeten 50 dozen met flesjes water, 50 dozen fruit, en 30 dozen boordjes worden vervoerd. In de bestelbus passen 25 dozen. Hoeveel verschillende ladingen kun je in de eerste ritje meenemen als je een volle lading meeneemt?
+Er moeten 50 dozen met flesjes water, 50 dozen fruit, en 30 dozen boordjes worden vervoerd. In de bestelbus passen 25 dozen. Hoeveel verschillende ladingen kun je in de eerste rijtje meenemen als je een volle lading meeneemt?
 
 <textarea name="form[q3]" rows="2" required></textarea>
 
@@ -98,7 +98,7 @@ Geef de formule voor de berekening van (de bovengrens van) de grootte van de sta
 
 <textarea name="form[q10]" rows="2" required></textarea>
 
-Laat in een klein voorbeeld zien dat de formule klopt door bijvoorbeeld alle staten op te sommen.
+Laat in een klein voorbeeld zien dat de formule klopt. Het kan makkelijker zijn om dit te schetsen. Plaatjes daarvan kan je uploaden en via een url hieronder met ons delen.
 
 <textarea name="form[q11]" rows="4" required></textarea>
 
