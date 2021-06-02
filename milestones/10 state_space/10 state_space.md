@@ -52,7 +52,7 @@ Je fietst door Manhattan, New York en kunt bij elk kruispunt linksaf, rechtsaf o
 
 ### Opdracht 3
 
-Er moeten 50 dozen met flesjes water, 50 dozen fruit, en 30 dozen boordjes worden vervoerd. In de bestelbus passen 25 dozen. Hoeveel verschillende ladingen kun je in de eerste rijtje meenemen als je een volle lading meeneemt?
+Er moeten 50 dozen met flesjes water, 50 dozen fruit, en 30 dozen broodjes worden vervoerd. In de bestelbus passen 25 dozen. Hoeveel verschillende ladingen kun je in de eerste rijtje meenemen als je een volle lading meeneemt?
 
 <textarea name="form[q3]" rows="2" required></textarea>
 
@@ -73,7 +73,7 @@ Een loterij heeft balletjes A t/m Z waaruit een notaris op volgorde 7 willekeuri
 
 ### Opdracht 6
 
-Opnieuw moeten 50 dozen met flesjes water, 50 dozen fruit, en 30 dozen boordjes worden vervoerd. Je hebt nu een vrachtwagen waarin 45 dozen passen. Hoeveel verschillende ladingen kun je nu in de eerste ritje meenemen als je een volle lading meeneemt?
+Opnieuw moeten 50 dozen met flesjes water, 50 dozen fruit, en 30 dozen broodjes worden vervoerd. Je hebt nu een vrachtwagen waarin 45 dozen passen. Hoeveel verschillende ladingen kun je nu in de eerste ritje meenemen als je een volle lading meeneemt?
 
 <textarea name="form[q6]" rows="2" required></textarea>
 
