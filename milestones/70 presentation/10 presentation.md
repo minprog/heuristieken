@@ -15,7 +15,7 @@ Concreet ga je een presentatie geven in de volgende vorm:
 
 Hier komt het lastige, dit ga je doen in **10 minuten** aan een publiek dat niks van je case weet. De setting is alsof je op een wetenschappelijke conferentie presenteert. Het publiek heeft daar wel ervaring met programmeren, maar niet zozeer met het domein van het probleem en de verschillende oplossingstechnieken. 
 
-De tijdsdruk maakt het zo dat je goed moet kiezen wat je vertelt en hoe. Dat betekent ook snijden en kiezen wat je juist niet verteld. Het is een zekere kunst om deze hoeveelheid informatie in een korte presentatie te krijgen, maar als het lukt wordt de presentatie er juist door de tijdsdruk velen malen beter op. Ook deze uitdaging is wat je bij wetenschappelijke conferenties tegenkomt en wat je daarom bij dit vak gaat meemaken.
+De tijdsdruk maakt het zo dat je goed moet kiezen wat je vertelt en hoe. Dat betekent ook snijden en kiezen wat je juist niet vertelt. Het is een zekere kunst om deze hoeveelheid informatie in een korte presentatie te krijgen, maar als het lukt wordt de presentatie er juist door de tijdsdruk velen malen beter op. Ook deze uitdaging is wat je bij wetenschappelijke conferenties tegenkomt en wat je daarom bij dit vak gaat meemaken.
 
 Na de presentatie krijg je van ons en het publiek lastige vragen die je zo goed mogelijk beantwoord. Waarbij het belangrijkste is om beleefd en eerlijk te blijven.
 
