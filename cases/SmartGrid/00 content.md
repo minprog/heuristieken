@@ -94,7 +94,7 @@ Je kan je programma's testen door de output mee te geven aan de check50. Dit kan
 
 1. Genereer een antwoord en sla deze met het bovenstaande formaat op in een nieuw bestand met de naam `output.json`
 2. Open een terminal in de folder waar je `output.json` hebt opgeslagen
-3. Run het commando `check50 minprog/theorie-check50/2021/smartgrid`
+3. Run het commando `check50 -l minprog/theorie-check50/2021/smartgrid`
 
 
 ## Links & Trivia

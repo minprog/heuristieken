@@ -76,4 +76,4 @@ You can verify your programs by passing an output file to the check50. This can 
 
 1. Generate an answer and save it with the format above in a new file named `output.csv`
 2. Open a terminal in the folder you saved `output.csv`
-3. Run the command `check50 minprog/theorie-check50/master/chips_and_circuits`
+3. Run the command `check50 -l minprog/theorie-check50/master/chips_and_circuits`

@@ -65,12 +65,12 @@ Je kan je programma's testen door de output mee te geven aan de check50. Dit doe
 2. Open een terminal in de folder waar je `output.csv` hebt opgeslagen
 3. Run het commando van het betreffende probleem:
     1. Voor de 6x6 borden: 
-        1. `check50 minprog/theorie-check50/2021/rush_hour/board1`
-        2. `check50 minprog/theorie-check50/2021/rush_hour/board2`
-        3. `check50 minprog/theorie-check50/2021/rush_hour/board3`
+        1. `check50 -l minprog/theorie-check50/2021/rush_hour/board1`
+        2. `check50 -l minprog/theorie-check50/2021/rush_hour/board2`
+        3. `check50 -l minprog/theorie-check50/2021/rush_hour/board3`
     2. Voor de 9x9 borden: 
-        1. `check50 minprog/theorie-check50/2021/rush_hour/board4`
-        2. `check50 minprog/theorie-check50/2021/rush_hour/board5`
-        3. `check50 minprog/theorie-check50/2021/rush_hour/board6`
+        1. `check50 -l minprog/theorie-check50/2021/rush_hour/board4`
+        2. `check50 -l minprog/theorie-check50/2021/rush_hour/board5`
+        3. `check50 -l minprog/theorie-check50/2021/rush_hour/board6`
     3. Voor het 12x12 bord: 
-        1. `check50 minprog/theorie-check50/2021/rush_hour/board7`
+        1. `check50 -l minprog/theorie-check50/2021/rush_hour/board7`
