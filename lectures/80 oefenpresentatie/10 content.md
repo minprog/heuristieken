@@ -14,16 +14,16 @@ Na iedere presentatie zijn er (lastige) vragen net zoals bij de eindpresentaties
 
 - Hoe? Aan jullie! Slides, demo's, whiteboards, het mag allemaal. Een serieuze toon, maar leuker is beter.
 - Waar? Zoom, helaas.
-- Wanneer? Woensdag, zie hieronder.
+- Wanneer? Woensdag, zie het schema hieronder.
 
 ### Woensdag 13:00 (zoom_link_coming_soon)
 
 1. De Sprinters (Protein Pow(d)er)
 1. FEFAME (Rush Hour)
-1. Team Cool (Rush Hour)
 1. CodeName (SmartGrid)
 1. Reliable Railways (RailNL)
 1. Bit By(te) Bit (Amstelhaege)
+1. Team Cool (Rush Hour)
 
 ### Woensdag 13:00 (zoom_link_coming_soon)
 
@@ -37,6 +37,6 @@ Na iedere presentatie zijn er (lastige) vragen net zoals bij de eindpresentaties
 
 1. Unjam My Jam (Rush Hour)
 1. Roosted (SmartGrid)
-1. GridHub (SmartGrid)
 1. ProgRail (RailNL)
 1. MaMaPa (Amstelhaege)
+1. GridHub (SmartGrid)
