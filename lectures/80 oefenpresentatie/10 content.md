@@ -33,7 +33,7 @@ Na iedere presentatie zijn er (lastige) vragen net zoals bij de eindpresentaties
 1. De Brein Trein (RailNL)
 1. SEB (Amstelhaege)
 
-### Woensdag 15:00 (zoom_link_coming_soon)
+### Woensdag 15:00 ([Zoom](https://uva-live.zoom.us/j/83950379536?pwd=SVc2d1NoTGxCMUduazNUYTdBbEluUT09))
 
 1. Unjam My Jam (Rush Hour)
 1. Roosted (SmartGrid)
