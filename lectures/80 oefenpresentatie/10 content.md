@@ -16,7 +16,7 @@ Na iedere presentatie zijn er (lastige) vragen net zoals bij de eindpresentaties
 - Waar? Zoom, helaas.
 - Wanneer? Woensdag, zie het schema hieronder.
 
-### Woensdag 13:00 (zoom_link_coming_soon)
+### Woensdag 13:00 ([zoom](https://uva-live.zoom.us/j/7348138403))
 
 1. De Sprinters (Protein Pow(d)er)
 1. FEFAME (Rush Hour)
@@ -25,7 +25,7 @@ Na iedere presentatie zijn er (lastige) vragen net zoals bij de eindpresentaties
 1. Bit By(te) Bit (Amstelhaege)
 1. Team Cool (Rush Hour)
 
-### Woensdag 13:00 (zoom_link_coming_soon)
+### Woensdag 13:00 ([zoom](https://uva-live.zoom.us/j/81466860692))
 
 1. Protein Impossible (Protein Pow(d)er)
 1. RushHourOnAutoPilot (Rush Hour)
@@ -33,7 +33,7 @@ Na iedere presentatie zijn er (lastige) vragen net zoals bij de eindpresentaties
 1. De Brein Trein (RailNL)
 1. SEB (Amstelhaege)
 
-### Woensdag 15:00 (zoom_link_coming_soon)
+### Woensdag 15:00 ([zoom](https://uva-live.zoom.us/j/83950379536?pwd=SVc2d1NoTGxCMUduazNUYTdBbEluUT09))
 
 1. Unjam My Jam (Rush Hour)
 1. Roosted (SmartGrid)
