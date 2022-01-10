@@ -2,7 +2,7 @@ Start:
   Studiewijzer:
     "Lees allereerst even rustig de studiewijzer door": /syllabus
   Cases:
-    "Amstelhaege": /cases/amstelhaege
+    # "Amstelhaege": /cases/amstelhaege
     "Chips & Circuits": /cases/chips-circuits
     "Protein Pow(d)er": /cases/protein-pow-d-er
     "RailNL": /cases/railnl

@@ -44,7 +44,8 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
 Voor deze editie van het vak kun je kiezen uit de volgende cases:
 
-- [Amstelhaege](/cases/amstelhaege)
+<!-- - [Amstelhaege](/cases/amstelhaege) -->
+
 - [Chips & Circuits](/cases/chips-circuits)
 - [Protein Pow(d)er](/cases/protein-pow-d-er)
 - [RailNL](/cases/railnl)
