@@ -82,7 +82,10 @@ Deze case is op verzoek van Justin Oud, Wouter Bohlken en Remco Mokveld (Heurist
 
 Voor deze case is er nog geen gespecificeerd format voor de output. Het is aan de eerste teams om een voorstel te doen. Als staff stellen wij het volgende voor in `.csv` format:
 
-| student | vak                    | activiteit | zaal   | dag | tijdslot |
-| ------- | ---------------------- | ---------- | ------ | --- | -------- |
-| Quinten | Programmeren in Java 2 | h1         | A1.04  | ma  | 9        |
-| Bas     | Calculus 2             | p1         | B0.201 | vr  | 13       |
+| student   | vak                    | activiteit | zaal   | dag | tijdslot |
+| --------- | ---------------------- | ---------- | ------ | --- | -------- |
+| Quinten   | Programmeren in Java 2 | w1         | A1.04  | ma  | 9        |
+| Bas       | Calculus 2             | p1         | B0.201 | vr  | 13       |
+| Charlotte | Compilerbouw           | h1         | A1.08  | wo  | 15       |
+| Marleen   | Kansrekenen 2          | h2         | C1.112 | do  | 11       |
+| Marijn    | Data Mining            | p1         | A1.06  | di  | 9        |
