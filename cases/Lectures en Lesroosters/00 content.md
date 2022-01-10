@@ -80,4 +80,9 @@ Deze case is op verzoek van Justin Oud, Wouter Bohlken en Remco Mokveld (Heurist
 
 ## Output
 
-Voor deze case is er nog geen gespecificeerd format voor de output. Het is aan de eerste teams om een voorstel te doen. Als staff stellen wij het volgende voor:
+Voor deze case is er nog geen gespecificeerd format voor de output. Het is aan de eerste teams om een voorstel te doen. Als staff stellen wij het volgende voor in `.csv` format:
+
+| student | vak                    | activiteit | zaal   | dag | tijdslot |
+| ------- | ---------------------- | ---------- | ------ | --- | -------- |
+| Quinten | Programmeren in Java 2 | h1         | A1.04  | ma  | 9        |
+| Bas     | Calculus 2             | p1         | B0.201 | vr  | 13       |
