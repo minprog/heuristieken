@@ -52,11 +52,11 @@ Voor deze editie van het vak kun je kiezen uit de volgende cases:
 - [Rush Hour](/cases/rush-hour)
 - [SmartGrid](/cases/smartgrid)
 - [Lectures & Lesroosters](/cases/lectures-en-lesroosters)\*
-- [Space Freight](/cases/space-freight)\*
+<!-- - [Space Freight](/cases/space-freight)\* -->
 
 Je kiest samen met je team voor een case via [deze pagina](/milestones/case).
 
-\*) deze cases zijn nieuw in deze versie en bedoelt voor de teams die extra uitdaging zoeken.
+\*) deze case is nieuw in deze versie en bedoelt voor de teams die extra uitdaging zoeken.
 
 ## Eindcijfer
 

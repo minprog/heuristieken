@@ -8,7 +8,7 @@ Start:
     "RailNL": /cases/railnl
     "Rush Hour": /cases/rush-hour
     "SmartGrid": /cases/smartgrid
-    "Space Freight": /cases/space-freight
+    # "Space Freight": /cases/space-freight
     "Lectures & Lesroosters": /cases/lectures-en-lesroosters
 Week 1:
   "Leesmij": "/data/readme"
