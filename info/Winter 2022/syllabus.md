@@ -58,7 +58,7 @@ Voor deze editie van het vak kun je kiezen uit de volgende cases:
 
 Je kiest samen met je team voor een case via [deze pagina](/milestones/case).
 
-\*) deze case is nieuw in deze versie en bedoelt voor de teams die extra uitdaging zoeken.
+\*) deze case is nieuw in deze versie
 
 ## Eindcijfer
 
