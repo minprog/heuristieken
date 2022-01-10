@@ -15,9 +15,11 @@ De assistenten zijn Joos Akkerman, Marijn Doeve, Marleen de Jonge, Mayla Kersten
 
 ## Contact
 
-Tijdens het vak heb je contact met twee mentoren die je gedurende het vak begeleiden. Voor kleine vragen over de opzet van het vak of de regels kan je bij hen terecht.
+Tijdens het vak heb je contact met twee mentoren die je gedurende het vak begeleiden. Je spreekt ze wekelijks tijdens ingeplande voortgangsgesprekken. Daarnaast is er iedere middag assistentie beschikbaar via Wonder. Daarvoor kan je een afspraak inplannen via de asssistentieknop op de website, zo weet je zeker dat er iemand voor je klaarstaat. Ook kan je op Wonder bij een assistent binnenlopen, natuurlijk is de kans dan wel aanwezig dat je even moet wachten.
 
-Voor uitzonderingen of speciale gevallen moet je altijd contact opnemen met de docenten van het vak. Dat doe je via een mail naar help@mprog.nl.
+Het is belangrijk om zoveel mogelijk aanwezig te zijn in Wonder. Zo kan je niet alleen met andere teams spreken en andersom, maar ook kan de assistentie je zo ongevraagd helpen. Contact en uitwisseling van ideeën is een belangrijk onderdeel van het vak!
+
+Voor kleine vragen over de opzet van het vak of de regels kan je mentoren terecht. Voor uitzonderingen of speciale gevallen moet je altijd contact opnemen met de docenten van het vak. Dat doe je via een mail naar help@mprog.nl.
 
 ## Voorkennis
 
