@@ -1,6 +1,6 @@
 # Case: Lectures & Lesroosters
 
-![Hup naar binnen.](Roostering2.jpg)
+![Hup naar binnen.](roostering.jpg)
 
 ## Inleiding
 
