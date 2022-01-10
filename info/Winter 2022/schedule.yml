@@ -1,13 +1,15 @@
 Start:
   Studiewijzer:
     "Lees allereerst even rustig de studiewijzer door": /syllabus
-  # Cases:
-  #     "Amstelhaege": /cases/amstelhaege
-  #     "Chips & Circuits": /cases/chips-circuits
-  #     "Protein Pow(d)er": /cases/protein-pow-d-er
-  #     "RailNL": /cases/railnl
-  #     "Rush Hour": /cases/rush-hour
-  #     "SmartGrid": /cases/smartgrid
+  Cases:
+    "Amstelhaege": /cases/amstelhaege
+    "Chips & Circuits": /cases/chips-circuits
+    "Protein Pow(d)er": /cases/protein-pow-d-er
+    "RailNL": /cases/railnl
+    "Rush Hour": /cases/rush-hour
+    "SmartGrid": /cases/smartgrid
+    "Space Freight": /cases/space-freight
+    "Lectures & Lesroosters": /cases/lectures-en-lesroosters
 Week 1:
   "Leesmij": "/data/readme"
   "Wonder als klaslokaal": "/data/wonder"
