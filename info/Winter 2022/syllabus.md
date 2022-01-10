@@ -86,7 +86,7 @@ _Presenteer en documenteer wat je hebt geleerd._
 Voor dit onderdeel presenteer je aan het einde van het vak met je hele groepje over de case waar je aan gewerkt hebt.
 Het is de bedoeling dat de presentatie een alle milestones van het project tot één geheel brengt. Concreet moet de presentatie daarom bestaan uit een inleiding, uitleg over de oplossingsruimte, een beschrijving van gebruikte methoden, resultaten en de vergelijking hiervan, en tot slot een discussie.
 
-#### Eindproduct
+#### Code
 
 _Maak je programma’s herbruikbaar en begrijpelijk voor de buitenwereld._
 
