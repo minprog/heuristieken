@@ -1,34 +1,37 @@
 templates:
-    1: &check_off
-        type: pass
-        subgrades:
-            done: boolean
-        calculation: done
-        hide_calculated: true
-    2: &manual
-        type: float
-        subgrades:
-            presentation: integer
-            code: integer
-        calculation: (5 + (presentation + code - 2) / 8.0 * 5).round(1)
-
+  1: &check_off
+    type: pass
+    subgrades:
+      done: boolean
+    calculation: done
+    hide_calculated: true
+  2: &manual
+    type: float
+    subgrades:
+      presentation: integer
+      code: integer
+    calculation: (5 + (presentation + code - 2) / 8.0 * 5).round(1)
 
 grades:
-    case: *check_off
-    state_space: *check_off
-    representation: *check_off
-    baseline: *check_off
-    first_algorithm: *check_off
-    second_algorithm: *check_off
-    deliverable: *manual
-
+  case: *check_off
+  state_space: *check_off
+  representation: *check_off
+  baseline: *check_off
+  first_algorithm: *check_off
+  second_algorithm: *check_off
+  deliverable: *manual
 
 calculation:
-    eindcijfer:
-        mods: 100
-
+  eindcijfer:
+    mods: 100
 
 mods:
-    show_progress: true
-    submits:
-        deliverable: 1
+  show_progress: true
+  submits:
+    case: 0
+    state_space: 0
+    representation: 0
+    baseline: 0
+    first_algorithm: 0
+    second_algorithm: 0
+    deliverable: 1
