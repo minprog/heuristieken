@@ -23,7 +23,7 @@ Studenten zien het liefst aaneengesloten activiteiten en zo min mogelijk "tussen
 
 {:start="4"}
 
-4. Een tussenslot voor een student op een dag levert één maluspunt op. Twee tussensloten op één dag voor een student levert drie maluspunten op. De kans op verzuim bij meerdere tussensloten op één dag is namelijk aanzienlijk groter dan bij één tussenslot.
+4. Een tussenslot voor een student op een dag levert één maluspunt op. Twee tussensloten op één dag voor een student levert drie maluspunten op. De kans op verzuim bij meerdere tussensloten is namelijk aanzienlijk groter dan bij één tussenslot.
 
 ## Zalen, Vakken en Inschrijvingen
 
