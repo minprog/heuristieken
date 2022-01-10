@@ -10,7 +10,7 @@ Effectief ga je straks vijf dingen installeren, mocht je deze nog niet hebben:
 1. `git` om samen te werken
 1. Eventueel `check50` om de behaalde resultaten te controleren
 
-   > Mocht je onlangs programmeerplatform hebben gevolgd, dan is de kans groot dat je al het bovenstaande al hebt geïnstalleerd.
+> Mocht je onlangs programmeerplatform hebben gevolgd, dan is de kans groot dat je al het bovenstaande al hebt geïnstalleerd.
 
 Hoe je dit doet verschilt per besturingssysteem en daarvoor moet je even doorklikken naar de voor jou relevante pagina:
 
