@@ -21,7 +21,9 @@ Lesroosters, of roosters in het algemeen, zijn buitengewoon lastig goed in te ri
 
 Studenten zien het liefst aaneengesloten activiteiten en zo min mogelijk "tussensloten". Dat zijn tijdsloten zonder ingeroosterde activiteiten voor de student, maar waarvoor en waarna wel een activiteit plaatsvindt. Naast de wens van de student is dit ook belangrijk voor het onderwijs, zo zal het verzuim bij de verschillende activiteiten lager zijn als activiteiten aaneengesloten worden geroosterd. Ook is dit belangrijk voor de drukte op de faculteit, want bij zulke tussensloten nemen studenten plaats op (zelf)studieplekken en studieplekken zijn er er maar beperkt. Daarom wil roostering kijken of tussenuren geminimaliseerd kunnen worden.
 
-{:start="4"} 4. Een tussenslot voor een student op een dag levert één maluspunt op. Twee tussensloten op één dag voor een student levert drie maluspunten op. De kans op verzuim bij meerdere tussensloten op één dag is namelijk aanzienlijk groter dan bij één tussenslot.
+{:start="4"}
+
+4. Een tussenslot voor een student op een dag levert één maluspunt op. Twee tussensloten op één dag voor een student levert drie maluspunten op. De kans op verzuim bij meerdere tussensloten op één dag is namelijk aanzienlijk groter dan bij één tussenslot.
 
 ## Zalen, Vakken en Inschrijvingen
 
