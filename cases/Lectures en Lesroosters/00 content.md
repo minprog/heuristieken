@@ -76,10 +76,6 @@ Studenten zien het liefst aaneengesloten activiteiten en zo min mogelijk "tussen
 | Webprogrammeren en databases        | 2             | 1             | 20         | 1         | 20         | 46           |
 | Zoeken, sturen en bewegen           | 0             | 0             | nvt        | 1         | 15         | 45           |
 
-## Misc
-
-Deze case is op verzoek van Justin Oud, Wouter Bohlken en Remco Mokveld (Heuristieken 2015a) tot eerste versie uitgewerkt. Overige betrokkenen in het proces zijn Marcella van Wijngaarden en Reinout Verbeek.
-
 ## Output
 
 Voor deze case is er nog geen gespecificeerd format voor de output. Het is aan de eerste teams om een voorstel te doen. Als staff stellen wij het volgende voor in `.csv` format:
@@ -91,3 +87,10 @@ Voor deze case is er nog geen gespecificeerd format voor de output. Het is aan d
 | Charlotte | Compilerbouw           | h1         | A1.08  | wo  | 15       |
 | Marleen   | Kansrekenen 2          | h2         | C1.112 | do  | 11       |
 | Marijn    | Data Mining            | p1         | A1.06  | di  | 9        |
+
+<!--
+## Misc
+
+Deze case is op verzoek van Justin Oud, Wouter Bohlken en Remco Mokveld (Programmeertheorie 2015a) tot eerste versie uitgewerkt. Overige betrokkenen in het proces zijn Marcella van Wijngaarden en Reinout Verbeek.
+
+In Programmeertheorie 2021a is de case vernieuwd.  -->
