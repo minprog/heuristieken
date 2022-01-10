@@ -1,3 +1,3 @@
 # Openingscollege
 
-Maandag 31 mei om 13:00 via [uva-live.zoom.us/j/89081629767](https://uva-live.zoom.us/j/89081629767)
+Maandag 10 januari om 15:00 via <https://uva-live.zoom.us/j/86721499577>
