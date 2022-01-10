@@ -1,33 +1,33 @@
 # Programmeertheorie<br><small>a.k.a. Heuristieken</small>
 
-## Studiewijzer, winter 2021
+## Studiewijzer, winter 2022
 
 Deze cursus is de afsluiting van de Minor Programmeren.
-Na vele maanden ervaring opdoen met programmeren in Python, met object-oriëntatie en met problem solving, komt hier alles samen.
+Na vele maanden ervaring opdoen met programmeren, met object-oriëntatie en met problem solving, komt hier alles samen.
 Bij dit vak ga je jouw programmeervaardigheid inzetten om met AI-technieken een onoplosbaar probleem op te lossen.
 Gaandeweg leer je over verschillende soorten problemen, wat de limitaties zijn van je computer en het belang van datastructuren.
 
-
 ## Docenten
+
 Je docenten zijn Jelle van Assema, Anuj Pathania, Bas Terwijn en Wouter Vrielink.
 
-De assistenten zijn Okke van Eck, Kiara Evers, Marleen de Jonge, Charlotte Lafage, Daan Moll, Quinten van der Post en Karim Semin.
-
+De assistenten zijn Joos Akkerman, Marijn Doeve, Marleen de Jonge, Mayla Kersten, Charlotte, Quinten van der Post en Pamela Sneekes.
 
 ## Contact
+
 Tijdens het vak heb je contact met twee mentoren die je gedurende het vak begeleiden. Voor kleine vragen over de opzet van het vak of de regels kan je bij hen terecht.
 
-Voor uitzonderingen of speciale gevallen moet je altijd contact opnemen met de docenten van het vak. Dat doe je via een mail naar help@mprog.nl. 
-
+Voor uitzonderingen of speciale gevallen moet je altijd contact opnemen met de docenten van het vak. Dat doe je via een mail naar help@mprog.nl.
 
 ## Voorkennis
+
 Programmeren 1 en Programmeren 2 moet je helemaal gehaald hebben vóór je deze cursus start.
-Daarnaast moet je één of meerdere programmeercursussen van de Minor Programmeren of daarbuiten hebben gehaald.
+Daarnaast moet je het Programmeerplatform van de Minor Programmeren of een soort gelijk vak daarbuiten hebben gehaald.
 Eventuele alternatieven worden per geval beoordeeld door de docent.
 Weet je het niet helemaal zeker, neem dan contact op via een mail naar help@mprog.nl.
 
-
 ## Verwachtingen
+
 Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
 1. alle onderdelen van de cursus afrondt in samenwerking met twee andere teamleden,
@@ -40,8 +40,8 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 1. een zorgvuldig opgebouwd eindproduct inlevert, en
 1. een eindpresentatie geeft in de laatste week en andere eindpresentaties bijwoont.
 
-
 ## Cases
+
 Voor deze editie van het vak kun je kiezen uit de volgende cases:
 
 - [Amstelhaege](/cases/amstelhaege)
@@ -50,47 +50,50 @@ Voor deze editie van het vak kun je kiezen uit de volgende cases:
 - [RailNL](/cases/railnl)
 - [Rush Hour](/cases/rush-hour)
 - [SmartGrid](/cases/smartgrid)
+- [Lectures & Lesroosters](/cases/lectures-en-lesroosters)
+- [Space Freight](/cases/space-freight)
 
 Je kiest samen met je team voor een case via [deze pagina](/milestones/case).
 
-
 ## Eindcijfer
-Het cijfer is opgebouwd uit twee delen. Je krijgt één punt op het eindcijfer voor ieder van de volgende behaalde milestones:
 
-* State space
-* Representatie
-* Baseline
-* Eerste algoritme
-* Tweede algoritme
+Het cijfer is opgebouwd uit twee delen. Je krijgt een halve punt op het eindcijfer voor ieder van de volgende behaalde milestones:
 
-Behaal je ieder van deze milestones, dan heb je opgeteld een 5 als eindcijfer. De rest van het eindcijfer komt van de beoordeling van het project. Het project wordt bereoordeeld op de onderdelen: uitleg van inzicht en het eindproduct. Het cijfer voor het project is de optelling van de punten voor de verschillende onderdelen. De omschrijvingen hiervoor vind je hieronder.
+- State space
+- Representatie
+- Baseline
+- Eerste algoritme
+- Tweede algoritme
+- Experiment
+
+Behaal je ieder van deze milestones, dan heb je opgeteld een 3 als eindcijfer. De rest van het eindcijfer komt van de beoordeling van het project. Het project wordt bereoordeeld op de onderdelen: uitleg van inzicht en de code. Het cijfer voor het project is de optelling van de punten voor de verschillende onderdelen. De omschrijvingen hiervoor vind je hieronder.
 
 > Let op dat je aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen.
 
-
 #### Uitleg van inzicht
-*Presenteer en documenteer wat je hebt geleerd.*
+
+_Presenteer en documenteer wat je hebt geleerd._
 
 5. Verregaande uitleg en analyse van de case en relatering tot het vakgebied van heuristieken
-4. Samenhangende uitleg en analyse aan de hand van vakconcepten, implementatie en resultaten
-3. Case en uitwerking nauwgezet uitgelegd aan de hand van de belangrijke aspecten uit het vak
-2. Enkele belangrijke maar losse aspecten van het gedane werk nauwgezet uitgelegd
-1. Opsomming van het gedane werk zonder duidelijke uitleg
-{: start="5" reversed="reversed"}
+6. Samenhangende uitleg en analyse aan de hand van vakconcepten, implementatie en resultaten
+7. Case en uitwerking nauwgezet uitgelegd aan de hand van de belangrijke aspecten uit het vak
+8. Enkele belangrijke maar losse aspecten van het gedane werk nauwgezet uitgelegd
+9. Opsomming van het gedane werk zonder duidelijke uitleg
+   {: start="5" reversed="reversed"}
 
 Voor dit onderdeel presenteer je aan het einde van het vak met je hele groepje over de case waar je aan gewerkt hebt.
 Het is de bedoeling dat de presentatie een alle milestones van het project tot één geheel brengt. Concreet moet de presentatie daarom bestaan uit een inleiding, uitleg over de oplossingsruimte, een beschrijving van gebruikte methoden, resultaten en de vergelijking hiervan, en tot slot een discussie.
 
-
 #### Eindproduct
-*Maak je programma’s herbruikbaar en begrijpelijk voor de buitenwereld.*
+
+_Maak je programma’s herbruikbaar en begrijpelijk voor de buitenwereld._
 
 5. Uitermate goed gestructureerde code en repository, met uitgebreide uitleg over implementatiedetails en de structuur van de code
-4. Code is systematisch gestructureerd en documentatie wijst goed de weg in de code voor iemand die deze nog niet eerder heeft gelezen
-3. Code is overwegend goed gestructureerd en de onderdelen worden afzonderlijk goed uitgelegd met commentaar en verdere documentatie
-2. Code is globaal geordend in mapjes en files, en de code is grotendeels gedocumenteerd met commentaar op lokaal niveau
-1. Code staat op GitHub, maar er is geen coherente documentatie of herkenbare structurering van de code
-{: start="5" reversed="reversed"}
+6. Code is systematisch gestructureerd en documentatie wijst goed de weg in de code voor iemand die deze nog niet eerder heeft gelezen
+7. Code is overwegend goed gestructureerd en de onderdelen worden afzonderlijk goed uitgelegd met commentaar en verdere documentatie
+8. Code is globaal geordend in mapjes en files, en de code is grotendeels gedocumenteerd met commentaar op lokaal niveau
+9. Code staat op GitHub, maar er is geen coherente documentatie of herkenbare structurering van de code
+   {: start="5" reversed="reversed"}
 
 Gedurende het vak zal je als groep één GitHub repository gebruiken.
 Deze repository moet tenminste je eindproduct, een README, een equivalent aan een requirements.txt, en je presentatie bevatten.
@@ -100,45 +103,46 @@ Een voorbeeld van hoe je je GitHub repository op zou kunnen zetten vind je [hier
 Voor alle informatie, zie de [oplevering van het eindproduct](https://theorie.mprog.nl/milestones/deliverable).
 
 ## Kalender
-In de tabel hieronder kan je zien wanneer de colleges zijn en de grote lijnen van de planning. Deze kan je ook terugvinden in de kantlijn op deze website.
+
+In de tabel hieronder kan je zien wanneer de colleges zijn en de grote lijnen van de planning. Deze kan je ook terugvinden in de kantlijn op deze website. De hoorcolleges vind je ook in het rooster van het vak op [datanose.nl](https://datanose.nl/#course[98926]).
 
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
-| Week |                                            | Onderdeel                                                      |
+| Week | | Onderdeel |
 | ---: | ------------------------------------------ | -------------------------------------------------------------- |
-|    1 | Interpretatie van de case                  | Maandag   15 uur: Openingscollege                              |
-|      |                                            | Dinsdag   11 uur: College over problemen                       |
-|      |                                            | Woensdag  15 uur: Live coding college                          |
+| 1 | Interpretatie van de case | Maandag 15 uur: Openingscollege |
+| | | Woensdag 15 uur: College over problemen |
+| | | Vrijdag 15 uur: Live coding college |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
-|    2 | Een baseline zetten                        | Maandag   15 uur: College over zoekalgoritmes                  |
-|      |                                            | Dinsdag   11 uur: College over optimalisatie-algoritmes        |
-|      |                                            | Woensdag  15 uur: Live coding college                          |
+| 2 | Een baseline zetten | Dinsdag 9 uur: College over zoekalgoritmes |
+| | | Woensdag 9 uur: College over optimalisatie-algoritmes |
+| | | Vrijdag 15 uur: Live coding college |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
-|    3 | Algoritmes & resultaten                    | Woensdag: Midterm presentaties                        |
+| 3 | Algoritmes & resultaten | Woensdag: Midterm presentaties |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
-|    4 | Vergelijken & presenteren                  | Donderdag & Vrijdag: Eindpresentaties                          |
+| 4 | Vergelijken & presenteren | Donderdag & Vrijdag: Eindpresentaties |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
-
 
 ## Regels voor samenwerken
+
 Bij dit vak is het de bedoeling om samen te werken aan alle producten die moeten worden opgeleverd.
 Het is belangrijk dat ieder teamlid een redelijk deel van het werk doet.
 Ook in dit geval is de frauderegeling van toepassing.
 
-Fraude volgens de UvA: *"Het handelen of nalaten van een student waardoor een juist oordeel over zijn kennis, inzicht en vaardigheden geheel of gedeeltelijk onmogelijk wordt."*
+Fraude volgens de UvA: _"Het handelen of nalaten van een student waardoor een juist oordeel over zijn kennis, inzicht en vaardigheden geheel of gedeeltelijk onmogelijk wordt."_
 
 Bij hergebruik van code uit blogposts, van Stack Overflow of dergelijk bronnen moet je een korte bronvermelding opnemen, direct in de code of als het om grotere delen gaat in de `README` van je project.
 Let op dat de core algoritmen van het vak altijd zelf ontwikkeld moeten worden op basis van de omschrijvingen uit de colleges en de hulp van de docenten en assistenten.
 
 Zie ook de [fraude- en plagiaatwebsite](http://www.uva.nl/plagiaat) van de universiteit.
 
-
 ## Herkansing
+
 Als je het vak niet kunt afmaken in samenwerking met je team, dan zul je het vak bij de eerstvolgende mogelijkheid volledig opnieuw moeten doen.
 Je kan in dat geval niet aan dezelfde case werken.
 Het blijft ook bij herkansing niet mogelijk om dit vak individueel te volgen.
 
-
 ## Dankbetuiging
+
 Allergrootste dank gaat naar Daan van den Berg, die de cursus en veel van de cases tot wasdom heeft gebracht bij zijn versies van de cursus bij de Universiteit van Amsterdam.
 Daarnaast hebben vele assistenten, beoordelaars en studenten bijgedragen aan het ontwikkelen van nieuwe cases en het bijschaven van de vele verschillende bestaande cases.
 
