@@ -11,7 +11,7 @@ Gaandeweg leer je over verschillende soorten problemen, wat de limitaties zijn v
 
 Je docenten zijn Jelle van Assema, Anuj Pathania, Bas Terwijn en Wouter Vrielink.
 
-De assistenten zijn Joos Akkerman, Marijn Doeve, Marleen de Jonge, Mayla Kersten, Charlotte, Quinten van der Post en Pamela Sneekes.
+De assistenten zijn Joos Akkerman, Marijn Doeve, Marleen de Jonge, Mayla Kersten, Charlotte Lafage, Quinten van der Post en Pamela Sneekes.
 
 ## Contact
 
