@@ -3,7 +3,7 @@
 ## Studiewijzer, winter 2022
 
 Deze cursus is de afsluiting van de Minor Programmeren.
-Na vele maanden ervaring opdoen met programmeren, met object-oriëntatie en met problem solving, komt hier alles samen.
+Na vele maanden ervaring opdoen met programmeren, met object-georiënteerd programmeren en met problem solving, komt hier alles samen.
 Bij dit vak ga je jouw programmeervaardigheid inzetten om met AI-technieken een onoplosbaar probleem op te lossen.
 Gaandeweg leer je over verschillende soorten problemen, wat de limitaties zijn van je computer en het belang van datastructuren.
 
