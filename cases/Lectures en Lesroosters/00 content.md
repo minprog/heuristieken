@@ -55,7 +55,7 @@ Studenten zien het liefst aaneengesloten activiteiten en zo min mogelijk "tussen
 | Calculus 2                          | 1             | 1             | 40         | 0         | nvt        | 90           |
 | Collectieve Intelligentie           | 3             | 1             | 20         | 1         | 20         | 65           |
 | Compilerbouw                        | 2             | 1             | 40         | 1         | 40         | 70           |
-| Compilerbouw (practicum)            | 0             | 0             | nvt        | 1         | 15         | 35           |
+| Compilerbouw practicum              | 0             | 0             | nvt        | 1         | 15         | 35           |
 | Data Mining                         | 2             | 1             | 10         | 1         | 10         | 30           |
 | Databases 2                         | 1             | 1             | 40         | 0         | nvt        | 69           |
 | Heuristieken 1                      | 1             | 1             | 25         | 0         | nvt        | 44           |
