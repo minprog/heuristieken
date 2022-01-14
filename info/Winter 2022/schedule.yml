@@ -27,8 +27,8 @@ Week 1:
     "Git naslag": "/naslag/git"
 Week 2:
   Live colleges:
-    "Zoekalgoritmes (dinsdag 9:00 - 11:00)": /lectures/zoekalgoritmes
-    "Optimalisatie-algoritmes (woensdag 9:00 - 11:00)": /lectures/optimalisatie_algoritmes
+    "Constructieve algoritmes (dinsdag 11:00 - 13:00)": /lectures/zoekalgoritmes
+    "Iteratieve algoritmes (woensdag 11:00 - 13:00)": /lectures/optimalisatie_algoritmes
     "Live coding (vrijdag 15:00 - 17:00)": /lectures/live_coding_2
   Milestones:
     "Representatie (maandag 17:00)": /milestones/representation

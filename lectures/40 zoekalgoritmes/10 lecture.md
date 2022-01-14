@@ -1,6 +1,6 @@
 # College over zoekalgoritmes
 
-Dinsdag 18 januari om 9:00 via zoom-link-coming-soon gegeven door Bas Terwijn.
+Dinsdag 18 januari om 9:00 via <https://uva-live.zoom.us/j/86346359122> gegeven door Bas Terwijn.
 
 <!-- ### Youtube
 
