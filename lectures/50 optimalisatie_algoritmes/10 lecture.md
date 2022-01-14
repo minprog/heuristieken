@@ -1,6 +1,6 @@
 # College over optimalisatie-algoritmes
 
-Woensdag 19 januari om 9:00 via <https://uva-live.zoom.us/j/89797764795> gegeven door Bas Terwijn.
+Woensdag 19 januari om 11:00 via <https://uva-live.zoom.us/j/89797764795> gegeven door Bas Terwijn.
 
 <!-- ### Youtube
 
