@@ -16,12 +16,12 @@ Na iedere presentatie zijn er (lastige) vragen net zoals bij de eindpresentaties
 - Waar? Zoom, helaas.
 - Wanneer? Woensdag, zie het schema hieronder (soon)
 
-| 11 - 13        | Case               | 13 - 15         | Case                   | 15 - 17                   | Case                   | 15 - 17               | Case                   |
-| -------------- | ------------------ | --------------- | ---------------------- | ------------------------- | ---------------------- | --------------------- | ---------------------- |
-| emilyfabife.py | Rush Hour          | 3 Code Koningen | Chips and Circuits     | Vluchtstrook              | Rush Hour              | The three programmers | Rush Hour              |
-| Doritos        | Chips and Circuits | 60 Minute Dash  | Rush Hour              | Algorushme                | Rush Hour              | No rush               | Rush Hour              |
-| TLL Solutions  | RailNL             | MMJ             | RailNL                 | BetereNS                  | RailNL                 | Trainspotters         | RailNL                 |
-| tsja           | SmartGrid          | Chiptuners      | Chips and Circuits     | Beta-Programma            | RailNL                 | MnM                   | Chips and Circuits     |
-| Lucky 7        | Rush Hour          | Tijdrovers      | Lectures & Lesroosters | Tech Support              | Chips and Circuits     | Duologie              | Chips and Circuits     |
-| De Conducteurs | RailNL             | NEN15           | RailNL                 | De Roasters               | Lectures & Lesroosters | De Rooster Makers     | Lectures & Lesroosters |
-|                |                    |                 |                        | Smartkids voor smartgrids | SmartGrid              |                       |                        |
+| 11 - 13        | 13 - 15         | 15 - 17                   | 15 - 17               |
+| -------------- | --------------- | ------------------------- | --------------------- |
+| emilyfabife.py | 3 Code Koningen | Vluchtstrook              | The three programmers |
+| Doritos        | 60 Minute Dash  | Algorushme                | No rush               |
+| TLL Solutions  | MMJ             | BetereNS                  | Trainspotters         |
+| tsja           | Chiptuners      | Beta-Programma            | MnM                   |
+| Lucky 7        | Tijdrovers      | Tech Support              | Duologie              |
+| De Conducteurs | NEN15           | De Roasters               | De Rooster Makers     |
+|                |                 | Smartkids voor smartgrids |                       |
