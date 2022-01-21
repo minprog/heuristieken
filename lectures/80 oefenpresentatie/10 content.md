@@ -14,7 +14,7 @@ Na iedere presentatie zijn er (lastige) vragen net zoals bij de eindpresentaties
 
 - Hoe? Aan jullie! Slides, demo's, whiteboards, het mag allemaal. Een serieuze toon, maar leuker is beter.
 - Waar? Zoom, helaas.
-- Wanneer? Woensdag, zie het schema hieronder (soon)
+- Wanneer? Woensdag, zie het schema hieronder
 
 | 11 - 13        | 13 - 15         | 15 - 17                   | 15 - 17               |
 | -------------- | --------------- | ------------------------- | --------------------- |
