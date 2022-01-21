@@ -13,7 +13,7 @@ Deze oefenpresentatie is belangrijk, want je kan zometeen op een geheel nieuw pu
 Na iedere presentatie zijn er (lastige) vragen net zoals bij de eindpresentaties. En, anders dan bij de eindpresentaties, is er ook ruimte voor feedback.
 
 - Hoe? Aan jullie! Slides, demo's, whiteboards, het mag allemaal. Een serieuze toon, maar leuker is beter.
-- Waar? Zoom, helaas.
+- Waar? Zoom
 - Wanneer? Woensdag, zie het schema hieronder
 
 | 11 - 13        | 13 - 15         | 15 - 17                   | 15 - 17               |
