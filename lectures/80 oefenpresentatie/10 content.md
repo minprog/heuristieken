@@ -18,10 +18,10 @@ Na iedere presentatie zijn er (lastige) vragen net zoals bij de eindpresentaties
 
 | 11 - 13        | 13 - 15         | 15 - 17                   | 15 - 17               |
 | -------------- | --------------- | ------------------------- | --------------------- |
-| emilyfabife.py | 3 Code Koningen | Vluchtstrook              | The three programmers |
+| TLL Solutions  | 3 Code Koningen | Vluchtstrook              | The three programmers |
 | Doritos        | Algorushme      | 60 Minute Dash            | No rush               |
-| TLL Solutions  | MMJ             | BetereNS                  | Trainspotters         |
-| tsja           | Chiptuners      | Beta-Programma            | MnM                   |
+| emilyfabife.py | MMJ             | BetereNS                  | tsja                  |
+| Trainspotters  | Chiptuners      | Beta-Programma            | MnM                   |
 | Lucky 7        | Tijdrovers      | Tech Support              | Duologie              |
 | De Conducteurs | NEN15           | De Roasters               | De Rooster Makers     |
 |                |                 | Smartkids voor smartgrids |                       |
