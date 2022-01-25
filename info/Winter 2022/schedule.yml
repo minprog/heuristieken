@@ -34,6 +34,8 @@ Week 2:
     "Representatie (maandag 17:00)": /milestones/representation
     "Baseline (donderdag 15:00)": "/milestones/baseline"
 Week 3:
+  Live colleges:
+    "Verdiepingscollege: Refactoring & Profiling (donderdag 11:00)": /lectures/live_coding_3
   Milestones:
     "Eerste algoritme (dinsdag 18:00)": "/milestones/first_algorithm"
     "Oefenpresentatie (woensdag)": "/lectures/oefenpresentatie"
