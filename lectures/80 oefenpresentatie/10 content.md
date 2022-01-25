@@ -16,13 +16,13 @@ Na iedere presentatie zijn er (lastige) vragen net zoals bij de eindpresentaties
 - Waar? Zoom
 - Wanneer? Woensdag, zie het schema hieronder
 
-| 11 - 13                                | 13 - 15                                | 15 - 17                                | 15 - 17                                |
-| -------------------------------------- | -------------------------------------- | -------------------------------------- | -------------------------------------- |
-| TLL Solutions                          | 3 Code Koningen                        | Vluchtstrook                           | The three programmers                  |
-| Doritos                                | Algorushme                             | 60 Minute Dash                         | No rush                                |
-| emilyfabife.py                         | MMJ                                    | BetereNS                               | tsja                                   |
-| Trainspotters                          | Chiptuners                             | Beta-Programma                         | MnM                                    |
-| Lucky 7                                | Tijdrovers                             | Tech Support                           | Duologie                               |
-| De Conducteurs                         | NEN15                                  | De Roasters                            | De Rooster Makers                      |
-|                                        |                                        | Smartkids voor smartgrids              |                                        |
-| https://uva-live.zoom.us/j/81385688379 | https://uva-live.zoom.us/j/82079137533 | https://uva-live.zoom.us/j/81767855254 | https://uva-live.zoom.us/j/84843252098 |
+| 11 - 13                                  | 13 - 15                                  | 15 - 17                                  | 15 - 17                                  |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+| TLL Solutions                            | 3 Code Koningen                          | Vluchtstrook                             | The three programmers                    |
+| Doritos                                  | Algorushme                               | 60 Minute Dash                           | No rush                                  |
+| emilyfabife.py                           | MMJ                                      | BetereNS                                 | tsja                                     |
+| Trainspotters                            | Chiptuners                               | Beta-Programma                           | MnM                                      |
+| Lucky 7                                  | Tijdrovers                               | Tech Support                             | Duologie                                 |
+| De Conducteurs                           | NEN15                                    | De Roasters                              | De Rooster Makers                        |
+|                                          |                                          | Smartkids voor smartgrids                |                                          |
+| <https://uva-live.zoom.us/j/81385688379> | <https://uva-live.zoom.us/j/82079137533> | <https://uva-live.zoom.us/j/81767855254> | <https://uva-live.zoom.us/j/84843252098> |
