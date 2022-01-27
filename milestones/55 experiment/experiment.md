@@ -45,7 +45,7 @@ Hieronder een opzet voor een script dat het programma `random_algorithm.py` draa
 
 Ter naslag, dit is het [timeout](https://linuxize.com/post/timeout-command-in-linux/) programma en dit is Python's [subprocess module](https://docs.python.org/3/library/subprocess.html).
 
-> Belangrijk, hou de tijd voor ieder algoritme constant dat je gaat vergelijken constant. Daarin moet er een afweging worden gemaakt, met meer tijd per algoritme kunnen er wellicht betere resultaten worden behaald, maar blijft er ook minder tijd over om andere experimenten te draaien. Kijk dus goed naar hoeveel experimenten je wilt draaien en hoeveel tijd er beschikbaar is.
+> Belangrijk, hou de tijd voor ieder algoritme dat je gaat vergelijken constant. Daarin moet er een afweging worden gemaakt, met meer tijd per algoritme kunnen er wellicht betere resultaten worden behaald, maar blijft er ook minder tijd over om andere experimenten te draaien. Kijk dus goed naar hoeveel experimenten je wilt draaien en hoeveel tijd er beschikbaar is.
 
 ### Parallel?
 
