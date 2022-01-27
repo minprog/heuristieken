@@ -51,7 +51,7 @@ Ter naslag, dit is het [timeout](https://linuxize.com/post/timeout-command-in-li
 
 Het is het overwegen waard om verschillende scripts in parallel te draaien. Al zouden deze scripts wel effect kunnen hebben op elkaar. Er is namelijk maar zoveel geheugen en je processor kent maar zoveel rekenkernen. Hierbij adviseren we dan om een script te draaien voor iedere fysieke rekenkern op je processor. Dat laatste moet je zelf opzoeken.
 
-De simpelste manier om het geschreven script in parallel te draaien is om een X aantal terminals te openen en het script daarbinnen aan te roepen. Dat maakt ook het monitoren van de output begrijpbaar. Let hierbij wel op dat de verschillende scripts elkaar output niet overschrijven!
+De simpelste manier om het geschreven script in parallel te draaien is om een X aantal terminals te openen en het script daarbinnen aan te roepen. Dat maakt ook het monitoren van de output begrijpbaar. Let hierbij wel op dat de verschillende scripts elkaars output niet overschrijven!
 
 Eventueel zou je ook gebruik kunnen maken van Python's [multiprocessing module](https://docs.python.org/3/library/multiprocessing.html#module-multiprocessing). Dit is wel buiten de scope van dit vak en daarom alleen aan te raden bij eerdere ervaring met parallel programmeren.
 
