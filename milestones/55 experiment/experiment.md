@@ -98,3 +98,9 @@ Bij het berederen van dit theoretisch optimum is het belangrijk dat er nooit wor
 Waar komt de score precies vandaan en waar ligt nog ruimte voor verbetering? Zijn er patronen in de oplossing te herkennen die potentieel leiden tot een goede score? Zijn verschillende onderdelen van de oplossing optimaal?
 
 Dit alles is natuurlijk sterk afhankelijk van de case. Wel biedt het een uitgelegen kans om jullie opgebouwde kennis over het probleem te laten zien.
+
+## Submit
+
+Lever hieronder opnieuw de url naar de GitHub repo. Daarin moeten de scripts staan om de resultaten te verzamelen. Zet ook in de README.md alvast concrete instructies om deze scripts te draaien en hoe daarmee de verschillende experimenten kunnen worden gereproduceerd.
+
+Eventueel mogen de resultaten ook in de repo staan, maar in sommige gevallen is dat niet goed mogelijk.
