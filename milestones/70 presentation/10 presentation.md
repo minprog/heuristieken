@@ -21,15 +21,15 @@ Na de presentatie krijg je van ons en het publiek lastige vragen die je zo goed 
 
 ## Het rooster
 
-| Do 11 - 13            | Do 13 - 15                | Do 15 - 17        | Vr 11 - 13      |
-| --------------------- | ------------------------- | ----------------- | --------------- |
-| Lucky 7               | Duologie                  | 60 Minute Dash    | Tech Support    |
-| BetereNS              | emilyfabife.py            | De Rooster Makers | Vluchtstrook    |
-| Chiptuners            | MMJ                       | TLL Solutions     | De Conducteurs  |
-| The three programmers | Smartkids voor smartgrids | Doritos           | tsja            |
-| Trainspotters         | MnM                       | Algorushme        | No rush         |
-| De Roasters           | Beta-Programma            | NEN15             | 3 Code Koningen |
-|                       |                           |                   | Tijdrovers      |
+| Do 11 - 13            | Do 13 - 15     | Do 15 - 17        | Vr 11 - 13                |
+| --------------------- | -------------- | ----------------- | ------------------------- |
+| Lucky 7               | Duologie       | 60 Minute Dash    | Tech Support              |
+| BetereNS              | emilyfabife.py | De Rooster Makers | Vluchtstrook              |
+| Chiptuners            | MMJ            | TLL Solutions     | De Conducteurs            |
+| The three programmers | tsja           | Doritos           | Smartkids voor smartgrids |
+| Trainspotters         | MnM            | Algorushme        | No rush                   |
+| De Roasters           | Beta-Programma | NEN15             | 3 Code Koningen           |
+|                       |                |                   | Tijdrovers                |
 
 ## De opzet
 
