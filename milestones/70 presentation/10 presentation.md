@@ -25,7 +25,7 @@ Na de presentatie krijg je van ons en het publiek lastige vragen die je zo goed 
 | --------------------- | -------------- | ----------------- | ------------------------- |
 | Lucky 7               | Duologie       | 60 Minute Dash    | Tech Support              |
 | BetereNS              | emilyfabife.py | De Rooster Makers | Vluchtstrook              |
-| Chiptuners            | MMJ            | TLL Solutions     | De Conducteurs            |
+| Chiptuners            | MMJ            | De Conducteurs    | TLL Solutions             |
 | The three programmers | tsja           | Doritos           | Smartkids voor smartgrids |
 | Trainspotters         | MnM            | Algorushme        | No rush                   |
 | De Roasters           | Beta-Programma | NEN15             | 3 Code Koningen           |
