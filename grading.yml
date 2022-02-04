@@ -10,7 +10,7 @@ templates:
     subgrades:
       presentation: integer
       code: integer
-    calculation: (5 + (presentation + code - 2) / 8.0 * 5).round(1)
+    calculation: (3 + (presentation + code - 2) / 8.0 * 7).round(1)
 
 grades:
   case: *check_off
