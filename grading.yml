@@ -23,7 +23,7 @@ grades:
 
 calculation:
   eindcijfer:
-    deliverable: 100
+    project: 100
 
 mods:
   show_progress: true
@@ -34,4 +34,8 @@ mods:
     baseline: 0
     first_algorithm: 0
     second_algorithm: 0
+    deliverable: 1
+
+project:
+  submits:
     deliverable: 1
