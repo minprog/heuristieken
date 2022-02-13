@@ -23,7 +23,7 @@ grades:
 
 calculation:
   eindcijfer:
-    mods: 100
+    deliverable: 100
 
 mods:
   show_progress: true
