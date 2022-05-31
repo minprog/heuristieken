@@ -2,42 +2,49 @@ Start:
     Studiewijzer:
         "Lees allereerst even rustig de studiewijzer door": /syllabus
     Cases:
-        "Amstelhaege": /cases/amstelhaege
+        # "Amstelhaege": /cases/amstelhaege
         "Chips & Circuits": /cases/chips-circuits
         "Protein Pow(d)er": /cases/protein-pow-d-er
         "RailNL": /cases/railnl
         "Rush Hour": /cases/rush-hour
         "SmartGrid": /cases/smartgrid
+        "Lectures & Lesroosters": /cases/lectures-en-lesroosters
+    Naslag:
+      "Installatie-instructies": "/installatie/start"
+
 Week 1:
     "Leesmij": "/data/readme"
-    "Wonder als klaslokaal": "/data/wonder"
-    "Installatie-instructies": "/installatie/start"
     Live colleges:
-        "Opening (maandag 13:00)": /lectures/opening
-        "Problemen (dinsdag 13:00)":  /lectures/problemen
-        "Live coding (woensdag 9:00)": /lectures/live_coding_1
+        "Opening (dinsdag 9:00)": /lectures/opening
+        "Problemen (woensdag 15:00)":  /lectures/problemen
+        "Live coding (vrijdag 15:00)": /lectures/live_coding_1
     Milestones:
-        "Case & Teamnaam kiezen (dinsdag 11:00)": /milestones/case
-        "State space (woensdag 18:00)": /milestones/state_space
-        "Representatie (vrijdag 18:00)": /milestones/representation
+        "Case & Teamnaam kiezen (dinsdag 12:00)": /milestones/case
+        "State space (donderdag 17:00)": /milestones/state_space
+        "Representatie (maandag 13 juni 17:00)": /milestones/representation
     Naslag:
         "Git Lecture": "/lectures/git"
         "Git naslag": "/naslag/git"
+
 Week 2:
-    Live colleges:
-        "Zoekalgoritmes (maandag 13:00)": /lectures/zoekalgoritmes
-        "Optimalisatie-algoritmes (dinsdag 13:00)":  /lectures/optimalisatie_algoritmes
-        "Live coding (woensdag 9:00)": /lectures/live_coding_2
-    Milestones:
-        "Baseline (woensdag 18:00)": "/milestones/baseline"
+  Live colleges:
+    "Constructieve algoritmes (dinsdag 9:00)": /lectures/zoekalgoritmes
+    "Iteratieve algoritmes (woensdag 9:00)": /lectures/optimalisatie_algoritmes
+    "Live coding (vrijdag 15:00)": /lectures/live_coding_2
+  Milestones:
+    "Representatie (maandag 17:00)": /milestones/representation
+    "Baseline (donderdag 15:00)": "/milestones/baseline"
+
 Week 3:
-    Milestones:
-        "Eerste algoritme (dinsdag 18:00)": "/milestones/first_algorithm"
-    Presentatie:
-        "Oefenpresentatie (woensdag)": /lectures/oefenpresentatie
+  Live colleges:
+    "Verdiepingscollege: Refactoring & Profiling (donderdag ?)": /lectures/live_coding_3
+  Milestones:
+    "Eerste algoritme (dinsdag 18:00)": "/milestones/first_algorithm"
+    "Oefenpresentatie (woensdag)": "/lectures/oefenpresentatie"
+    "Tweede algoritme (vrijdag 18:00)": "/milestones/second_algorithm"
+
 Week 4:
-    Milestones:
-        "Tweede algoritme (maandag 18:00)": "/milestones/second_algorithm"
-        "Oplevering (woensdag 23:59)": "/milestones/deliverable"
-    Presentatie:
-        "Presentatie": "/milestones/presentation"
+  Milestones:
+    "Experiment (dinsdag 23:59)": "/milestones/experiment"
+    "Oplevering (woensdag 23:59)": "/milestones/deliverable"
+    "Presentatie": "/milestones/presentation"
