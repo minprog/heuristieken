@@ -2,11 +2,6 @@ language: nl
 long_name: Programmeertheorie
 short_name: Programmeertheorie
 
-links:
-  "[camera-video] Wonder": https://www.wonder.me/r?id=6b17ee34-dcb5-4059-b88d-6db8004ef61e
-  "[chat-text] Slack": https://progtheorie2022winter.slack.com/
-  "[people-fill] Assistentie": "https://balie.mprog.nl/planner/8-programmeertheorie"
-
 acknowledgements:
   - "Based on Daan van den Berg's awesome work at the Universities of Amsterdam."
 
