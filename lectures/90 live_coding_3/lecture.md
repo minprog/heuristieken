@@ -6,8 +6,6 @@ Refactoren is het veranderen van code zonder de werking te veranderen. Dat doe j
 
 Profiling ken je misschien al vanuit het vak programmeerplatform. Dat is het inzetten van een tool, een profiler, om de werking van het programma te analyseren. Zo kan je knelpunten en mogelijkheden voor optimalisatie vinden. Maar hoe pas je zo'n profiler nou toe op een case en hoe kan je de code vervolgens optimaliseren? Daar gaat dit college over.
 
-Donderdag 27 januari om 11:00 via <https://uva-live.zoom.us/j/88654212100?pwd=cFNJRnhhbDFyM2ovZEYyRktPU2x1UT09> door Quinten van der Post.
-
 ### Voorbeeld case
 
 In dit college wordt de [Radio Russia case](/cases/radio-russia) gebruikt als voorbeeld.

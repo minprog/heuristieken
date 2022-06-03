@@ -14,10 +14,8 @@ Start:
 
 Week 1:
     "Leesmij": "/data/readme"
-    Live colleges:
-        "Opening (dinsdag 9:00)"
-        "Problemen (woensdag 15:00)"
-        "Live coding (vrijdag 15:00)"
+    Live coding college:
+        "Live coding (vrijdag 15:00)": /lectures/live_coding_1
     Milestones:
         "Case & Teamnaam kiezen (dinsdag 12:00)": /milestones/case
         "State space (donderdag 17:00)": /milestones/state_space
@@ -27,16 +25,14 @@ Week 1:
         "Git naslag": "/naslag/git"
 
 Week 2:
-  Live colleges:
-    "Constructieve algoritmes (dinsdag 9:00)": /lectures/zoekalgoritmes
-    "Iteratieve algoritmes (woensdag 9:00)": /lectures/optimalisatie_algoritmes
+  Live coding college:
     "Live coding (vrijdag 15:00)": /lectures/live_coding_2
   Milestones:
     "Representatie (maandag 17:00)": /milestones/representation
     "Baseline (donderdag 15:00)": "/milestones/baseline"
 
 Week 3:
-  Live colleges:
+  Live coding colleges:
     "Verdiepingscollege: Refactoring & Profiling (donderdag ?)": /lectures/live_coding_3
   Milestones:
     "Eerste algoritme (dinsdag 18:00)": "/milestones/first_algorithm"
