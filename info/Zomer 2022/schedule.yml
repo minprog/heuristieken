@@ -15,9 +15,9 @@ Start:
 Week 1:
     "Leesmij": "/data/readme"
     Live colleges:
-        "Opening (dinsdag 9:00)": /lectures/opening
-        "Problemen (woensdag 15:00)":  /lectures/problemen
-        "Live coding (vrijdag 15:00)": /lectures/live_coding_1
+        "Opening (dinsdag 9:00)"
+        "Problemen (woensdag 15:00)"
+        "Live coding (vrijdag 15:00)"
     Milestones:
         "Case & Teamnaam kiezen (dinsdag 12:00)": /milestones/case
         "State space (donderdag 17:00)": /milestones/state_space
