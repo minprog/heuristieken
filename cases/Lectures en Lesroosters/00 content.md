@@ -24,7 +24,7 @@ Lesroosters, of roosters in het algemeen, zijn buitengewoon lastig goed in te ri
 
 3. Werkcolleges en practica mogen in meerdere groepen gegeven worden. In tegenstelling tot een hoorcollege hoeven daarbij niet alle ingeschreven studenten ineens bedeeld te worden. Maak hiervan gebruik om het rooster te verbeteren.
 
-4. Roostering wil bekijken of roosters rekening kunnen houden met [individuele vakinschrijvingen](studentenenvakken.csv). Ieder vakconflict van een student levert één maluspunt op.
+4. Roostering wil bekijken of roosters rekening kunnen houden met individuele vakinschrijvingen. Ieder vakconflict van een student levert één maluspunt op.
 
 Studenten zien het liefst aaneengesloten activiteiten en zo min mogelijk "tussensloten". Dat zijn tijdsloten zonder ingeroosterde activiteiten voor de student, maar waarvoor en waarna wel een activiteit plaatsvindt. Naast de wens van de student is dit ook belangrijk voor het onderwijs, zo zal het verzuim bij de verschillende activiteiten lager zijn als activiteiten aaneengesloten worden geroosterd. Ook is dit belangrijk voor de drukte op de faculteit, want bij zulke tussensloten nemen studenten plaats op (zelf)studieplekken en studieplekken zijn er er maar beperkt. Daarom wil roostering kijken of tussenuren geminimaliseerd kunnen worden.
 
@@ -75,6 +75,10 @@ Studenten zien het liefst aaneengesloten activiteiten en zo min mogelijk "tussen
 | Technology for games                | 2             | 1             | 20         | 0         | nvt        | 50           |
 | Webprogrammeren en databases        | 2             | 1             | 20         | 1         | 20         | 46           |
 | Zoeken, sturen en bewegen           | 0             | 0             | nvt        | 1         | 15         | 45           |
+
+## Data
+
+Je kan de datafiles [hier](LecturesLesroosters.zip) downloaden.
 
 ## Output
 
