@@ -1,6 +1,6 @@
 # College over Constructieve Algoritmes
 
-Dinsdag 18 januari om 11:00 via <https://uva-live.zoom.us/j/86346359122> gegeven door Bas Terwijn.
+Gegeven door Bas Terwijn.
 
 ### Youtube
 

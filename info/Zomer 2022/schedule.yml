@@ -14,7 +14,9 @@ Start:
 
 Week 1:
     "Leesmij": "/data/readme"
-    Live coding college:
+    Colleges:
+        "Introductie (dinsdag 9:00)": /lectures/opening
+        "Problemen (woensdag 15:00)": /lectures/problemen
         "Live coding (vrijdag 15:00)": /lectures/live_coding_1
     Milestones:
         "Case & Teamnaam kiezen (dinsdag 12:00)": /milestones/case
@@ -25,22 +27,24 @@ Week 1:
         "Git naslag": "/naslag/git"
 
 Week 2:
-  Live coding college:
-    "Live coding (vrijdag 15:00)": /lectures/live_coding_2
-  Milestones:
-    "Representatie (maandag 17:00)": /milestones/representation
-    "Baseline (donderdag 15:00)": "/milestones/baseline"
+    Colleges:
+        "Constructieve algoritmes (dinsdag 9:00)": /lectures/zoekalgoritmes
+        "Iteratieve algoritmes (woensdag 9:00)": /lectures/optimalisatie_algoritmes
+        "Live coding (vrijdag 15:00)": /lectures/live_coding_2
+    Milestones:
+        "Representatie (maandag 17:00)": /milestones/representation
+        "Baseline (donderdag 15:00)": "/milestones/baseline"
 
 Week 3:
-  Live coding colleges:
-    "Verdiepingscollege: Refactoring & Profiling (donderdag ?)": /lectures/live_coding_3
-  Milestones:
-    "Eerste algoritme (dinsdag 18:00)": "/milestones/first_algorithm"
-    "Oefenpresentatie (woensdag)": "/lectures/oefenpresentatie"
-    "Tweede algoritme (vrijdag 18:00)": "/milestones/second_algorithm"
+    Live coding colleges:
+        "Verdiepingscollege: Refactoring & Profiling (donderdag ?)": /lectures/live_coding_3
+    Milestones:
+        "Eerste algoritme (dinsdag 18:00)": "/milestones/first_algorithm"
+        "Oefenpresentatie (woensdag)": "/lectures/oefenpresentatie"
+        "Tweede algoritme (vrijdag 18:00)": "/milestones/second_algorithm"
 
 Week 4:
-  Milestones:
-    "Experiment (dinsdag 23:59)": "/milestones/experiment"
-    "Oplevering (woensdag 23:59)": "/milestones/deliverable"
-    "Presentatie": "/milestones/presentation"
+    Milestones:
+        "Experiment (dinsdag 23:59)": "/milestones/experiment"
+        "Oplevering (woensdag 23:59)": "/milestones/deliverable"
+        "Presentatie": "/milestones/presentation"
