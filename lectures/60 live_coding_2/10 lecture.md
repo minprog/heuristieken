@@ -7,3 +7,7 @@ Heb je ondertussen VS code geïnstalleerd, dan kan je met het volgende pakket li
 In dit college wordt de [Radio Russia case](/cases/radio-russia) gebruikt als voorbeeld.
 
 In de volgende GitHub repository vind je de code van dit college: [github.com/minprog/radio_russia_demo](https://github.com/minprog/radio_russia_demo/tree/college_2)
+
+### Linkje!
+
+<https://prod.liveshare.vsengsaas.visualstudio.com/join?35685BFFF137857EF553EA6088143D247123>
