@@ -19,19 +19,6 @@ De tijdsdruk maakt het zo dat je goed moet kiezen wat je vertelt en hoe. Dat bet
 
 Na de presentatie krijg je van ons en het publiek lastige vragen die je zo goed mogelijk beantwoord. Waarbij het belangrijkste is om beleefd en eerlijk te blijven.
 
-## Het rooster
-
-| Do 11 - 13                               | Do 13 - 15                               | Do 15 - 17                               | Vr 11 - 13                               |
-| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-| Lucky 7                                  | Duologie                                 | 60 Minute Dash                           | Tech Support                             |
-| BetereNS                                 | emilyfabife.py                           | De Rooster Makers                        | Vluchtstrook                             |
-| Chiptuners                               | MMJ                                      | De Conducteurs                           | TLL Solutions                            |
-| The three programmers                    | tsja                                     | Doritos                                  | Smartkids voor smartgrids                |
-| Trainspotters                            | MnM                                      | Algorushme                               | No rush                                  |
-| De Roasters                              | Beta-Programma                           | NEN15                                    | 3 Code Koningen                          |
-|                                          |                                          |                                          | Tijdrovers                               |
-| <https://uva-live.zoom.us/j/83992192374> | <https://uva-live.zoom.us/j/83533360954> | <https://uva-live.zoom.us/j/89141901624> | <https://uva-live.zoom.us/j/86946620647> |
-
 ## De opzet
 
 De presentatie geef je met z'n drieën volgens een vaste opzet. Wie precies wat verteld stem je onderling af. Het hoeft zeker niet zo te zijn dat ieder teamlid precies evenveel aan het woord is, maar er moet een redelijke balans zijn.
