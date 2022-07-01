@@ -81,7 +81,7 @@ _Presenteer en documenteer wat je hebt geleerd._
 7. Case en uitwerking nauwgezet uitgelegd aan de hand van de belangrijke aspecten uit het vak
 8. Enkele belangrijke maar losse aspecten van het gedane werk nauwgezet uitgelegd
 9. Opsomming van het gedane werk zonder duidelijke uitleg
-   {: start="5" reversed="reversed"}
+{: start="5" reversed="reversed"}
 
 Voor dit onderdeel presenteer je aan het einde van het vak met je hele groepje over de case waar je aan gewerkt hebt.
 Het is de bedoeling dat de presentatie een alle milestones van het project tot één geheel brengt. Concreet moet de presentatie daarom bestaan uit een inleiding, uitleg over de oplossingsruimte, een beschrijving van gebruikte methoden, resultaten en de vergelijking hiervan, en tot slot een discussie.
@@ -95,7 +95,7 @@ _Maak je programma’s herbruikbaar en begrijpelijk voor de buitenwereld._
 7. Code is overwegend goed gestructureerd en de onderdelen worden afzonderlijk goed uitgelegd met commentaar en verdere documentatie
 8. Code is globaal geordend in mapjes en files, en de code is grotendeels gedocumenteerd met commentaar op lokaal niveau
 9. Code staat op GitHub, maar er is geen coherente documentatie of herkenbare structurering van de code
-   {: start="5" reversed="reversed"}
+{: start="5" reversed="reversed"}
 
 Gedurende het vak zal je als groep één GitHub repository gebruiken.
 Deze repository moet tenminste je eindproduct, een README, een equivalent aan een requirements.txt, en je presentatie bevatten.
