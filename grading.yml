@@ -8,8 +8,8 @@ templates:
   2: &manual
     type: float
     subgrades:
-      presentation: integer
-      code: integer
+      presentation: float
+      code: float
     calculation: ((3 + (presentation + code) / 10.0 * 7) * 2.0).round / 2.0
 
 grades:
