@@ -75,20 +75,20 @@ Van ieder van deze milestones wordt verwacht dat je ze gedurende het project afr
 
 Je cijfer komt volgens de volgende schaal tot stand, waarbij voorgaande onderdelen altijd een voorwaarde zijn van een hoger cijfer:
 
-6. 
+1. 
     - Alle milestones zijn behaald.
     - Voldoende individueel aantoonbare bijdrage geleverd aan het project. 
     - Resultaten van meerdere experimenten worden gepresenteerd.
-7. 
+1. 
     - Significante individuele bijdrage geleverd, inclusief complete technische beschrijving. 
     - Codebase is voldoende gedocumenteerd.
-8. 
+1. 
     - De implementatie van meerdere overlappende projectonderdelen wordt gedeeld in één representatie. Dit gebeurt dmv import, niet door copy-paste en is goed gedocumenteerd. 
     - Een duidelijke inhoudelijke vergelijking van resultaten uit verschillende experimenten wordt gemaakt in de presentatie. 
-9. 
+1. 
     - Alle overlappende delen tussen projectonderdelen worden design-technisch goed gedeeld gerepresenteerd. 
     - De presentatie bevat een analyse van de verschillen tussen algoritmen en/of heuristieken, en het effect daarvan op de resultaten.
-10. 
+1. 
     - Bovenstaand, waarbij alle verschillende delen boven verwachting zijn uitgevoerd. 
     - Codebase en documentatie is van dusdanige kwaliteit dat het direct bruikbaar is voor anderen.
 
