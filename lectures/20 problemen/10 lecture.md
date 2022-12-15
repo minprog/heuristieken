@@ -1,5 +1,7 @@
 # College over problemen en heuristieken
 
-Gegeven door Anuj Pathania.
+Gegeven door Wouter Vrielink.
 
-[De slides.](/course/lectures/20%20problemen/problems_slides.pdf)
+Hier komen na afloop van het college de slides!
+
+<!-- [De slides.](/course/lectures/20%20problemen/problems_slides.pdf) -->
