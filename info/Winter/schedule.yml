@@ -12,7 +12,6 @@ Start:
     "Lectures & Lesroosters": /cases/lectures-en-lesroosters
 Week 1:
   "Leesmij": "/data/readme"
-  "Wonder als klaslokaal": "/data/wonder"
   "Installatie": "/installatie/start"
   Live colleges:
     "Opening (maandag 09:00 - 11:00)": /lectures/opening
@@ -39,7 +38,7 @@ Week 3:
     "Experimenteren (maandag 15:00 - 17:00)": /lectures/live_coding_3
   Milestones:
     "Oefenpresentatie (woensdag)": "/lectures/oefenpresentatie"
-    "Technische omschrijving": /lectures/individueel_onderdeel2
+    "Technische omschrijving (vrijdag 17:00)": /lectures/individueel_onderdeel2
 Week 4:
   Milestones:
     "Experiment (dinsdag 23:59)": "/milestones/experiment"
