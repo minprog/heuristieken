@@ -7,15 +7,15 @@ HTML is oorspronkelijk een taal om teksten mee op te maken. Het werkt niet *WYSI
 Als tegenwicht van markuptalen zijn er diverse taaltjes ontwikkeld waarin tekst "opgemaakt" kan worden in op een manier die niet onprettig is om te lezen, maar tegelijk automatisch vertaald kan worden naar bijvoorbeeld een HTML-document om te publiceren. Eén van die talen is Markdown. Een document kan er zo uitzien:
 
     # Gebruikers
-    
+
     Voorbeelden van gebruikers kunnen zijn:
-    
+
     - Wendy, *systeembeheerder*, veel ervaring met tekstgebaseerde omgevingen (liever
       geen Windows) en kan goed overweg met scripting. Zij zal het systeem doorgaans
       gebruiken om diagnose van problemen te stellen en logfiles te bekijken.
-      
+
     - Tom, *medewerker klantenservice*, is snel wegwijs in point-and-click-systemen
-      maar zal je niet snel in de command line bezig zien. Hij zal het systeem 
+      maar zal je niet snel in de command line bezig zien. Hij zal het systeem
       gebruiken op momenten dat klanten bellen met een probleem.
 
 Als we deze Markdown-tekst vertalen naar HTML en in een webbrowser openen, dan zie je dat de tekst in Markdown al erg lijkt op de tekst zoals deze er na publicatie uitziet:
