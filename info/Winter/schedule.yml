@@ -10,6 +10,8 @@ Start:
     "SmartGrid": /cases/smartgrid
     # "Space Freight": /cases/space-freight
     "Lectures & Lesroosters": /cases/lectures-en-lesroosters
+  Voorbeeldcase:
+    "Radio Russia": /cases/radio-russia
 Week 1:
   "Leesmij": "/data/readme"
   "Installatie": "/installatie/start"
