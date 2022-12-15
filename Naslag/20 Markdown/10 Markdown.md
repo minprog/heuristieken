@@ -22,6 +22,20 @@ Als we deze Markdown-tekst vertalen naar HTML en in een webbrowser openen, dan z
 
 ![](rendered.png)
 
+## Github README en markdown
+
+Wanneer je je GitHub repository opent in je browser krijg je een tabel te zien met de folderstructuur en ook een gerenderde versie van `README.md` (als deze in de map zit waar je op het moment naar kijkt). Iedere GitHub folder zal een file genaamd `README.md` laten zien als je het opent in je browser.
+
+READMEs bevatten vaak:
+
+- Een beschrijving van het project of de folder waar deze README in staat
+- Een beschrijving van de (sub)structuur van de repository
+- Een lijst van gebruikte modules, libraries, of programma's die nodig zijn om de code in dit project te runnen
+- Een beschrijving van hoe de code in dit project gebruikt kan worden **of** een kort voorbeeld of referentie naar een voorbeeld van hoe je de code kan gebruiken
+- Een lijst met auteurs
+
+Een voorbeeld hiervan kan je vinden op [deze pagina](https://github.com/minprog/radio_russia_demo/tree/college_2). Wanneer je een folder hebt waarin een hoop voorbeelden, grafieken, of andere dingen staan die je wilt laten zien of uitleggen kan je een README in die folder zetten.
+
 ## Naslag
 
 Zoals je ziet kun je met `#` (hekjes) een kopje maken in de tekst. Maar er is nog een manier om dat te doen! En hoe kun je een genummerde lijst maken? Zie daarvoor de documentatie:
@@ -31,6 +45,10 @@ Zoals je ziet kun je met `#` (hekjes) een kopje maken in de tekst. Maar er is no
 Je Markdown-document ga je later ook nog op GitHub plaatsen, en daar kun je ook nog wat extra features gebruiken. Zie daarvoor:
 
 <https://guides.github.com/features/mastering-markdown/>
+
+En ook:
+
+<https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
 
 ## Plaatjes
 
