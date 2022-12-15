@@ -6,11 +6,11 @@ De uitdaging bij dit vak is om de case zo goed mogelijk op te lossen. Natuurlijk
 
 De verschillende algoritmes draaien op de verschillende instanties van de case. Om vervolgens de resultaten van de algoritmes met elkaar te vergelijken.
 
-Bij het vergelijken van de resultaten zijn vooral de distributie van de behaalde scores en de beste score van belang. Het doel is namelijk om een zo goed mogelijke oplossing te vinden en dat is natuurlijk de oplossing met de beste score. Dat betekent ook dat alle mindere scores niet zozeer van belang zijn. De distributie van de scores is wel interessant. Op basis van deze distributie kunnen er onder andere claims gemaakt worden over hoe waarschijnlijk het is dat er een bepaalde score wordt gevonden na een x-aantal runs van het algoritme. Sla dus wel degelijk alle behaalde resultaten en scores op en visualiseer deze ook.
+Bij het vergelijken van de resultaten zijn vooral de distributie van de behaalde scores en de beste score van belang. Het doel is namelijk om een zo goed mogelijke oplossing te vinden en dat is natuurlijk de oplossing met de beste score. Dat betekent ook dat alle mindere scores niet zozeer van belang zijn. De distributie van de scores is wel interessant. Op basis van deze distributie kunnen er onder andere claims gemaakt worden over hoe waarschijnlijk het is dat er een bepaalde score wordt gevonden na een x-aantal runs van het algoritme. Sla dus wel degelijk alle behaalde resultaten en scores op en visualiseer deze ook. Het is handig om je resultaten op te slaan in een csv formaat, zodat je de visualisaties en grafieken los van de experimenten kunt runnen.
 
 ## Parameters tunen
 
-Grote kans dat je algoritmes een aantal parameters kent. Met dan direct de vraag, welke waardes kies je voor deze parameters? Gebruik hiervoor de grid search methode als volgt:
+Grote kans dat je algoritmes een aantal parameters kennen. Dit roept direct een vraag op: welke waardes kies je voor deze parameters? Gebruik hiervoor de grid search methode als volgt:
 
 1. Kies voor iedere parameter een discreet domein van waardes, bijvoorbeeld [0, 1, 2, 3]. Wat dat domein echt is hangt natuurlijk af van de parameters zelf.
 2. Maak alle mogelijke combinaties van waardes voor deze paremeters. Kent het algoritme twee parameters met de domeinen [0, 1] en [5, 7, 9], dan zijn er zes mogelijke combinaties.

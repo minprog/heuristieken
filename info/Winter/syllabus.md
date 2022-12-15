@@ -67,8 +67,7 @@ Om jullie hiermee goed op gang te helpen zijn tussentijdse milestones opgesteld:
 - State space
 - Representatie
 - Baseline
-- Eerste algoritme
-- Tweede algoritme
+- Individueel onderdeel
 - Experiment
 
 Van ieder van deze milestones wordt verwacht dat je ze gedurende het project afrond. Verdere beschrijving van de milestones en een indicatie van wanneer ze afgerond moeten worden is te vinden in de weekplanning.
@@ -121,7 +120,7 @@ _Laat zien wat je hebt geleerd._
 Aan het einde van het vak presenteer je met je hele groepje over de case waar je aan gewerkt hebt.
 Het is de bedoeling dat de presentatie alle milestones van het project tot één geheel brengt. Concreet moet de presentatie daarom bestaan uit een inleiding, uitleg over de oplossingsruimte, een beschrijving van gebruikte methoden, resultaten en de vergelijking hiervan, en tot slot een discussie.
 
-Voor een uitgebreide uitleg zie TODO
+Voor een uitgebreide uitleg over de eindpresentatie zie [deze pagina](/milestones/presentation).
 
 #### Technische beschrijving
 
@@ -129,7 +128,7 @@ _Laat zien wat je hebt gedaan._
 
 Tijdens het vak zal ieder individu in de groep een eigen onderdeel uit het project uitwerken. Het individuele deel bepaald deels je cijfer, en moet gedurende het project besproken worden met je mentoren. Na het behalen van de "baseline" milestone bespreekt ieder individu in de groep met de mentoren wat voor een onderdeel uit het project diegene gaat uitwerken. Dit kan bijvoorbeeld het uitwerken en programmeren van een visualisatie, een specifiek algoritme, een specifiek experiment, of een grote verbetering van de door de groep gebruikte probleemrepresentatie zijn. Hier maak je eerst een beschrijving van, die goedgekeurd moet worden door je mentoren.
 
-Voor meer informatie over de technische beschrijving, zie TODO
+Voor meer informatie over de technische beschrijving, zie [de milestonepagina](/milestones/individueel_onderdeel).
 
 ## Kalender
 
@@ -138,15 +137,15 @@ In de tabel hieronder kan je zien wanneer de colleges zijn en de grote lijnen va
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
 | Week | | Onderdeel |
 | ---: | ------------------------------------------ | -------------------------------------------------------------- |
-| 1 | Interpretatie van de case | Maandag 15 uur: Openingscollege |
-| | | Woensdag 15 uur: College over problemen |
-| | | Vrijdag 15 uur: Live coding college |
+| 1 | Interpretatie van de case | Maandag 9 uur: Openingscollege |
+| | | Dinsdag 13 uur: College over problemen |
+| | | Donderdag 15 uur: Live coding college |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
-| 2 | Een baseline zetten | Dinsdag 9 uur: College over zoekalgoritmes |
-| | | Woensdag 9 uur: College over optimalisatie-algoritmes |
-| | | Vrijdag 15 uur: Live coding college |
+| 2 | Een baseline zetten | Maandag 15 uur: College over zoekalgoritmes |
+| | | Dinsdag 13 uur: College over optimalisatie-algoritmes |
+| | | Donderdag 15 uur: Live coding college |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
-| 3 | Algoritmes & resultaten | Woensdag: Midterm presentaties |
+| 3 | Algoritmes & resultaten | Woensdag: Oefenpresentaties |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
 | 4 | Vergelijken & presenteren | Donderdag & Vrijdag: Eindpresentaties |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
