@@ -3,6 +3,7 @@ Start:
     "Lees allereerst even rustig de studiewijzer door": /syllabus
   Voordat we beginnen:
     "Leesmij": "/data/readme"
+    "Diclaimer minor AI": /naslag/AI_students
     "Installatie": "/installatie/start"
   Cases:
     # "Amstelhaege": /cases/amstelhaege
