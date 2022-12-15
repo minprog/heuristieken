@@ -1,6 +1,9 @@
 Start:
   Studiewijzer:
     "Lees allereerst even rustig de studiewijzer door": /syllabus
+  Voordat we beginnen:
+    "Leesmij": "/data/readme"
+    "Installatie": "/installatie/start"
   Cases:
     # "Amstelhaege": /cases/amstelhaege
     "Chips & Circuits": /cases/chips-circuits
@@ -13,8 +16,7 @@ Start:
   Voorbeeldcase:
     "Radio Russia": /cases/radio-russia
 Week 1:
-  "Leesmij": "/data/readme"
-  "Installatie": "/installatie/start"
+
   Live colleges:
     "Opening (maandag 09:00 - 11:00)": /lectures/opening
     "Problemen (dinsdag 13:00 - 15:00)": /lectures/problemen
