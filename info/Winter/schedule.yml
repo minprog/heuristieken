@@ -32,14 +32,14 @@ Week 2:
     "Live coding (donderdag 15:00 - 17:00)": /lectures/live_coding_2
   Milestones:
     "Representatie (maandag 17:00)": /milestones/representation
-    "Baseline (donderdag 15:00)": "/milestones/baseline"
+    "Baseline (donderdag 15:00)": /milestones/baseline
+    "Individueel onderdeel": /milestones/individueel_onderdeel
 Week 3:
   Live colleges:
     "Experimenteren (maandag 15:00 - 17:00)": /lectures/live_coding_3
   Milestones:
-    "Eerste algoritme (dinsdag 18:00)": "/milestones/first_algorithm"
     "Oefenpresentatie (woensdag)": "/lectures/oefenpresentatie"
-    "Tweede algoritme (vrijdag 18:00)": "/milestones/second_algorithm"
+    "Technische omschrijving": /lectures/individueel_onderdeel2
 Week 4:
   Milestones:
     "Experiment (dinsdag 23:59)": "/milestones/experiment"
