@@ -16,7 +16,7 @@ Werk een plan uit waarin je een technische beschrijving maakt van wat jouw indiv
 2. Wat er aan functies/classes nog geschreven moet worden,
 3. Hoe de functionaliteiten aansluiten aan het werk van de andere studenten uit de groep.
 
-Dit kan heel goed aan de hand van een UML (de offline versie van <diagrams.net> is een heel fijn programma hiervoor) of tekening met een stuk begeleidende tekst! Dit plan hoeft niet meer dan 1 á 2 A4tjes te zijn. Het plan moet goedgekeurd worden door je mentoren en de andere leden uit je team. _Het goedkeuren van je plan gebeurt in de eerstvolgende meeting met je mentoren._
+Dit kan heel goed aan de hand van een UML (de offline versie van <http://diagrams.net> is een heel fijn programma hiervoor) of tekening met een stuk begeleidende tekst! Dit plan hoeft niet meer dan 1 á 2 A4tjes te zijn. Het plan moet goedgekeurd worden door je mentoren en de andere leden uit je team. _Het goedkeuren van je plan gebeurt in de eerstvolgende meeting met je mentoren._
 
 Lever hieronder je plan in. Wanneer er na de bespreking met de mentoren nog aanpassingen nodig zijn, kan je het hier opnieuw inleveren.
 
