@@ -121,7 +121,7 @@ _Laat zien wat je hebt geleerd._
 Aan het einde van het vak presenteer je met je hele groepje over de case waar je aan gewerkt hebt.
 Het is de bedoeling dat de presentatie alle milestones van het project tot één geheel brengt. Concreet moet de presentatie daarom bestaan uit een inleiding, uitleg over de oplossingsruimte, een beschrijving van gebruikte methoden, resultaten en de vergelijking hiervan, en tot slot een discussie.
 
-Voor een uitgebreide uitleg zie TODO
+<!-- Voor een uitgebreide uitleg zie TODO -->
 
 #### Technische beschrijving
 
@@ -129,13 +129,15 @@ _Laat zien wat je hebt gedaan._
 
 Tijdens het vak zal ieder individu in de groep een eigen onderdeel uit het project uitwerken. Het individuele deel bepaald deels je cijfer, en moet gedurende het project besproken worden met je mentoren. Na het behalen van de "baseline" milestone bespreekt ieder individu in de groep met de mentoren wat voor een onderdeel uit het project diegene gaat uitwerken. Dit kan bijvoorbeeld het uitwerken en programmeren van een visualisatie, een specifiek algoritme, een specifiek experiment, of een grote verbetering van de door de groep gebruikte probleemrepresentatie zijn. Hier maak je eerst een beschrijving van, die goedgekeurd moet worden door je mentoren.
 
-Voor meer informatie over de technische beschrijving, zie TODO
+<!-- Voor meer informatie over de technische beschrijving, zie TODO -->
 
 ## Kalender
 
 In de tabel hieronder kan je zien wanneer de colleges zijn en de grote lijnen van de planning. Deze kan je ook terugvinden in de kantlijn op deze website. De hoorcolleges vind je ook in het rooster van het vak op [datanose.nl](https://datanose.nl/#course[98926]).
 
-| ---- + ------------------------------------------ + -------------------------------------------------------------- |
+<!-- TODO -->
+
+<!-- | ---- + ------------------------------------------ + -------------------------------------------------------------- |
 | Week | | Onderdeel |
 | ---: | ------------------------------------------ | -------------------------------------------------------------- |
 | 1 | Interpretatie van de case | Maandag 15 uur: Openingscollege |
@@ -149,7 +151,7 @@ In de tabel hieronder kan je zien wanneer de colleges zijn en de grote lijnen va
 | 3 | Algoritmes & resultaten | Woensdag: Midterm presentaties |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
 | 4 | Vergelijken & presenteren | Donderdag & Vrijdag: Eindpresentaties |
-| ---- + ------------------------------------------ + -------------------------------------------------------------- |
+| ---- + ------------------------------------------ + -------------------------------------------------------------- | -->
 
 ## Regels voor samenwerken
 
