@@ -1,9 +1,9 @@
 # Voorbeeld Case: Radio Russia
 ![een kaart van rusland opgedeeld in hokjes met op sommige hokjes zendmasten getekend waarbij links bovenin radio staat en rechtsonderin russia](Radiorussia.jpg){:.inline}
 
-De russische overheid wil een goede verdeling van zendfrequenties. 
-Er zijn precies zeven types zendmasten beschikbaar, voor het moment bekend als type A t/m type G. 
-Voor een goede verdeling is het noodzakelijk dat twee aangrenzende provincies niet dezelfde zendertypes hebben. 
+De russische overheid wil een goede verdeling van zendfrequenties.
+Er zijn precies zeven types zendmasten beschikbaar, voor het moment bekend als type A t/m type G.
+Voor een goede verdeling is het noodzakelijk dat twee aangrenzende provincies niet dezelfde zendertypes hebben.
 Omdat wiskundigen van de russische overheid de details van de optimale oplossing niet precies kennen hebben ze ook wat kaarten van kleinere landen ter hand genomen, in de hoop het probleem wat beter te gaan begrijpen en tot een goede oplossing te komen.
 
 
@@ -12,10 +12,10 @@ Dit is een voorbeeld case en kan dus tijdens het vak niet gekozen worden!
 
 
 ## Input data
-De wiskundige van de russische overheid hebben [de kaarten](Kaarten.zip) op twee manieren opgeslagen. 
+De wiskundige van de russische overheid hebben [de kaarten](Kaarten.zip) op twee manieren opgeslagen.
 Voor ieder land is er in een .csv-bestand een lijst aangelegd met provincies en hun aangrenzende provcincies.
 Als wiskundigen begrepen niks van de vreemde namen, dus hebben ze de provincies simpelweg vanaf 0 genummerd.
-Ze hebben de provincies ook in .shp- en .shx-bestanden vastgelegd. 
+Ze hebben de provincies ook in .shp- en .shx-bestanden vastgelegd.
 Hiermee willen ze later de landen als een ingekleurde kaart weergeven en voorleggen aan de russische overheid.
 
 
@@ -55,7 +55,7 @@ Omdat production in numbers goedkoper is, wordt iedere geplaatste zender van een
 ## Output
 Om resultaten te kunnen verifiëren is het handig om in een uniform format je output te genereren.
 Bekijk [het voorbeeld](example_output.csv) en zorg ervoor dat jouw programma een oplossing in hetzelfde format kan omzetten.
-Een vereiste aan de output zijn de header-regel (regel 1) en de footer-regel (regel 29). 
+Een vereiste aan de output zijn de header-regel (regel 1) en de footer-regel (regel 29).
 Deze moeten in jouw output ook voorkomen, waarbij alleen de footer-regel andere waardes kan bevatten.
 De footer-regel is opgesteld als `<land>,<kostenschema>` waarbij het land `china`, `russia`, `ukraine` of `usa` kan zijn en het kostenschema `1`, `2`, `3` of `4` kan zijn.
 

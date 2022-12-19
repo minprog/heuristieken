@@ -34,16 +34,3 @@ Voor de kwaliteit van de code kijken we o.a. naar:
 * Code heeft duidelijke control flow; e.g. geen ellenlange if-statements midden in al grote functies.
 * De code is duidelijk in functionaliteit; docstrings, comments en variabelenamen zijn nuttig/beschrijven wat functies doen.
 * De code is intuitief en direct te gebruiken voor soortgelijke projecten.
-
-
-# Beoordeling
-
-De code wordt beoordeeld op een schaal van 1 t/m 5, en vormt samen met de beoordeling van de eindpresentatie een cijfer. Beide onderdelen wegen even zwaar mee.
-
-5. Uitermate goed gestructureerde code en repository, met uitgebreide uitleg over implementatiedetails en de structuur van de code
-4. Code is systematisch gestructureerd en documentatie wijst goed de weg in de code voor iemand die deze nog niet eerder heeft gelezen
-3. Code is overwegend goed gestructureerd en de onderdelen worden afzonderlijk goed uitgelegd met commentaar en verdere documentatie
-2. Code is globaal geordend in mapjes en files, en de code is grotendeels gedocumenteerd met commentaar op lokaal niveau
-1. Code staat op GitHub, maar er is geen coherente documentatie of herkenbare structurering van de code
-{: start="5" reversed="reversed"}
-
