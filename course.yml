@@ -1,6 +1,6 @@
 language: nl
-long_name: Programmeertheorie
-short_name: Programmeertheorie
+long_name: Algoritmen en Heuristieken
+short_name: AH
 
 acknowledgements:
   - "Based on Daan van den Berg's awesome work at the Universities of Amsterdam."
