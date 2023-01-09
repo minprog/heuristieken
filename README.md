@@ -1,4 +1,4 @@
-# Programmeertheorie: Heuristieken
+# Algoritmen en Heuristieken
 
 Deze cursus is de afsluiting van de Minor Programmeren. Na vele maanden ervaring opdoen met programmeren in Python, met object-oriëntatie en met problem solving komt hier alles samen. Gegeven is een "onoplosbaar" probleem, waarvoor met behulp van klassieke AI-technieken toch nog redelijke oplossingen berekend kunnen worden. De problemen, "cases", komen uit allerlei vakgebieden en zijn vaak zeer realistische benaderingen van problemen uit de echte wereld.
 
