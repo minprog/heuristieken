@@ -1,6 +1,6 @@
 # Installatie-instructies
 
-> Mocht je onlangs programmeerplatform hebben gevolgd, dan is de kans groot dat je al het bovenstaande al hebt geïnstalleerd.
+> Mocht je onlangs programmeerplatform of programmeerproject hebben gevolgd, dan is de kans groot dat je het onderstaande al hebt geïnstalleerd.
 > Heb je de minor AI gedaan, kun je deze stap ook overslaan!
 
 Voor dit vak ga je samen programmeren en dan loont het om ervoor te zorgen dat iedereen dezelfde programma's gebruikt en kan gebruiken. Daarom vind je op deze pagina's instructies voor het opzetten van een werkomgeving voor dit vak.
