@@ -2,7 +2,6 @@
 
 ![Hup naar binnen.](roostering.jpg)
 
-> Deze variant van deze case is vrij nieuw en is daarmee bedoeld voor teams die een extra uitdaging zoeken. Dit is nieuw terrein, de uitkomsten en uitdagingen zijn onbekend. Dat is natuurlijk spannend, maar daardoor ook heel leuk. Om dit in goede banen te leiden wordt je begeleid door ervaren assistenten. Met als doel om een diep begrip op te bouwen van het onderliggende probleem, een zo goed mogelijke oplossing te vinden en uiteindelijk de case zelf te verbeteren. Alle cases in dit vak zijn op diezelfde manier ontwikkeld en worden door dit proces ook iedere iteratie beter!
 
 ## Inleiding
 
@@ -82,7 +81,7 @@ Je kan de datafiles [hier](LecturesLesroosters.zip) downloaden.
 
 ## Output
 
-Voor deze case is er nog geen gespecificeerd format voor de output. Het is aan de eerste teams om een voorstel te doen. Als staff stellen wij het volgende voor in `.csv` format:
+Voor de output stellen wij het volgende voor in `.csv` format:
 
 | student   | vak                    | activiteit | zaal   | dag | tijdslot |
 | --------- | ---------------------- | ---------- | ------ | --- | -------- |
