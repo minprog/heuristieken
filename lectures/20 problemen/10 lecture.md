@@ -2,6 +2,4 @@
 
 Gegeven door Wouter Vrielink.
 
-Hier komen na afloop van het college de slides!
-
-<!-- [De slides.](/course/lectures/20%20problemen/problems_slides.pdf) -->
+[De slides.](/course/lectures/10%20opening/AlgoritmenenHeuristieken_college2.pdf)
