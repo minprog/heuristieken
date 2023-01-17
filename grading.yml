@@ -17,8 +17,8 @@ grades:
   state_space: *check_off
   representation: *check_off
   baseline: *check_off
-  first_algorithm: *check_off
-  second_algorithm: *check_off
+  technische_beschrijving: *check_off
+  technische_beschrijving2: *check_off
   deliverable: *manual
 
 calculation:
