@@ -15,7 +15,7 @@ Lesroosters, of roosters in het algemeen, zijn buitengewoon lastig goed in te ri
 - Een geldig weekrooster is een weekrooster waarvoor aan alle roosterbare activiteiten van ieder vak een tijdsslot met een zaal hebben. We noemen het paar tijdsslot-zaal een zaalslot.
 - Een zaalslot kan enkel gebruikt worden voor één activiteit.
 
-> Het verwachte aantal inschrijvingen wordt in de praktijk gebruikt om een rooster te maken. Roosters maken wordt namelijk vaak gedaan voordat het daadwerkelijke aantal inschrijvingen bekend is. Bij deze case is het daadwerkelijke aantal inschrijvingen per vak uit te rekenen, en hoef je uiteindelijk dus niet per se gebruik te maken van E(studenten).
+> Het verwachte aantal inschrijvingen wordt in de praktijk vaak gebruikt om een rooster te maken. Roosters maken wordt namelijk gedaan voordat het daadwerkelijke aantal inschrijvingen bekend is. Bij deze case is het daadwerkelijke aantal inschrijvingen per vak uit te rekenen, en hoef je uiteindelijk dus niet per se gebruik te maken van E(studenten).
 
 ## Opdracht
 
