@@ -32,8 +32,8 @@ mods:
     state_space: 0
     representation: 0
     baseline: 0
-    first_algorithm: 0
-    second_algorithm: 0
+    technische_beschrijving: 0
+    technische_beschrijving2: 0
     deliverable: 1
 
 project:
