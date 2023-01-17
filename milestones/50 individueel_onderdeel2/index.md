@@ -10,4 +10,6 @@ Geef indien nodig ook een nieuwe UML.
 
 Het is handig om dit nauwkeurig bij te houden tijdens het ontwikkelen. Dat scheelt je een hoop zoekwerk!
 
-Lever hieronder je aangepaste versie van je plan in. Dit moet gebeuren voor 28 januari, maar als je eerder klaar bent kan het natuurlijk ook eerder!
+Lever hieronder je aangepaste versie van je plan in. Dit moet gebeuren voor de deadline in de weekplanning, maar als je eerder klaar bent kan het natuurlijk ook eerder!
+
+**Ieder individu uit het team moet dit inleveren.**

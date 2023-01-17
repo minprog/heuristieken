@@ -7,7 +7,6 @@ Bijvoorbeeld, in een case waar we de beste rij moeten vinden zijn dit de mogelij
 
 Soms is het erg moeilijk om exact de grootte van de state-space te berekenen. Daarom doen we soms aannames om deze berekening te versimpelen. Deze aannames kiezen we dan wel zo zodat we zeker weten dat het werkelijke aantal mogelijk staten hier gegarandeerd niet boven ligt. We noemen dit een bovengrens (upper-bound) van de grootte van de state-space. Hoe lager de bovengrens hoe beter.
 
-
 ## Combinaties en Permutaties
 
 Om de grootte van de state-space te berekening is het nuttig om bekend te zijn met Combinaties en Permutaties. [Lees hier over Combinaties en Permutaties](https://www.mathsisfun.com/combinatorics/combinations-permutations.html)
@@ -33,6 +32,8 @@ Stel jezelf bij ieder van de opdrachten hieronder de volgende vragen:
 * Kan ik herhaaldelijk dezelfde keuze maken?
 
 Geef bij iedere opdracht zowel de formule als de uitkomst.
+
+**Maar één persoon uit je team hoeft dit formulier in te leveren.** Het is natuurlijk wel de bedoeling dat jullie hier samen aan werken.
 
 ### Opdracht 1
 

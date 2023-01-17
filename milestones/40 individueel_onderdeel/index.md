@@ -8,7 +8,7 @@ Tijdens het vak zal ieder individu in de groep een eigen onderdeel uit het proje
 - Een grote verbetering van de door het team uitgewerkte probleemrepresentatie
 - Meerdere kleine aanpassingen
 
-Dit individuele deel is het deel van het project waarvoor jij zelf verantwoordelijk bent. **De code voor dit onderdeel schrijf je zelf.** Dit betekent niet dat je _alles_ alleen hoeft te doen. Het uitwerken van ideëen, het oplossen van bugs, etc. kan je juist heel goed doen samen met de rest van je groep! Het hele groepje moet aan het eind gebruik kunnen maken van jouw projectonderdeel, en het is natuurlijk het mooist als het goed integreert met de code van de rest van de groep. Blijf daarom vooral veel met elkaar overleggen.
+Dit individuele deel is het deel van het project waarvoor jij zelf verantwoordelijk bent. **De code voor dit onderdeel schrijf je zelf.** Dit betekent niet dat je _alles_ alleen hoeft te doen. Het uitwerken van ideeën, het oplossen van bugs, etc. kan je juist heel goed doen samen met de rest van je groep! Het hele groepje moet aan het eind gebruik kunnen maken van jouw projectonderdeel, en het is natuurlijk het mooist als het goed integreert met de code van de rest van de groep. Blijf daarom vooral veel met elkaar overleggen.
 
 Werk een plan uit waarin je een technische beschrijving maakt van wat jouw individuele onderdeel inhoud. Geef hierin een beschrijving van:
 
@@ -21,3 +21,5 @@ Dit kan heel goed aan de hand van een UML (de offline versie van <http://diagram
 Lever hieronder je plan in. Wanneer er na de bespreking met de mentoren nog aanpassingen nodig zijn, kan je het hier opnieuw inleveren.
 
 > Lees ook alvast [de eisen voor de afronding van de technische beschrijving](/milestones/individueel_onderdeel2) door! Het is handig om dit nauwkeurig bij te houden tijdens het ontwikkelen. Dat scheelt je een hoop zoekwerk!
+
+**Ieder individu uit het team moet dit inleveren.**

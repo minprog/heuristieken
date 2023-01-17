@@ -104,3 +104,5 @@ Dit alles is natuurlijk sterk afhankelijk van de case. Wel biedt het een uitgele
 Lever hieronder opnieuw de url naar de GitHub repo. Daarin moeten de scripts staan om de resultaten te verzamelen. Zet ook in de README.md alvast concrete instructies om deze scripts te draaien en hoe daarmee de verschillende experimenten kunnen worden gereproduceerd.
 
 Eventueel mogen de resultaten ook in de repo staan, maar in sommige gevallen is dat niet goed mogelijk.
+
+**Maar één persoon uit je team hoeft dit formulier in te leveren.**

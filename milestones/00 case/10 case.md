@@ -1,6 +1,6 @@
 ## Case & Teamnaam kiezen
 
-Allereerst een belangrijke keuze van het vak. Welke case gaan jullie uitwerken?
+Allereerst een belangrijke keuze van het vak. Welke case gaan jullie uitwerken? **Iedereen in een team vult dit formulier in.**
 
 Geef hier de naam van de gekozen case op:
 <textarea name="form[q1]" rows="1" required></textarea>
