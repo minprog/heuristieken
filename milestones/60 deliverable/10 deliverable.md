@@ -1,6 +1,6 @@
 # Oplevering
 
-Bij deze laatste milestone lever je de code van het project in. De code is een artifact bij de eindpresentatie. Het idee is dat anderen (lees: de staff) de resultaten uit de presentatie kan reproduceren. Dat betekent dat de code vooral begrijpbaar moet zijn en er instructies moeten zijn om de verschillende resultaten te reproduceren.
+Bij deze laatste milestone lever je de code van het project in. De code is een artifact bij de eindpresentatie. Het idee is dat anderen (lees: de staff) de resultaten uit de presentatie kan reproduceren. Dat betekent dat de code vooral begrijpelijk moet zijn en er instructies moeten zijn om de verschillende resultaten te reproduceren.
 
 ## Minimumeisen
 
@@ -33,4 +33,6 @@ Voor de kwaliteit van de code kijken we o.a. naar:
 * Code bevat alleen magic numbers, `* imports`, `while True`, of `try-excepts` waar uiterst noodzakelijk
 * Code heeft duidelijke control flow; e.g. geen ellenlange if-statements midden in al grote functies.
 * De code is duidelijk in functionaliteit; docstrings, comments en variabelenamen zijn nuttig/beschrijven wat functies doen.
-* De code is intuitief en direct te gebruiken voor soortgelijke projecten.
+* De code is intuïtief en direct te gebruiken voor soortgelijke projecten.
+
+**Maar één persoon uit je team hoeft dit formulier in te leveren.**
