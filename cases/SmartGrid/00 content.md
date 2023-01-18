@@ -29,7 +29,7 @@ Wijk #3:
 ## Opdracht
 Houdt tijdens de opdracht rekening met de volgende requirements:
 
-* Batterijen mogen niet aan elkaar verbondenden zijn. Ook niet via een huis.
+* Batterijen mogen niet aan elkaar verbonden zijn. Ook niet via een huis.
 * Een huis mag niet aan meerdere batterijen verbonden zijn.
 * Elk huis heeft een eigen unieke kabel nodig naar de batterij.
 * Er mogen meerdere kabels over dezelfde gridsegmenten lopen. Het blijven echter wel unieke kabels en leveren geen kostenvermindering op.
