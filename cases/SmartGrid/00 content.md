@@ -5,7 +5,7 @@ Groene energie is de energie van de toekomst, en zelf produceren is de mode van 
 Veel huizen hebben tegenwoordig zonnepanelen, windmolens of andere installaties om zelf energie mee te produceren. 
 Fortuinlijk genoeg produceren die installaties vaak meer dan voor eigen consumptie nodig is. 
 Het overschot zou kunnen worden terugverkocht aan de leverancier, maar de infrastructuur (het *grid*) is daar veelal niet op berekend. 
-Om de pieken in consumptie en produktie te kunnen managen moeten er batterijen geplaatst worden.
+Om de pieken in consumptie en productie te kunnen managen moeten er batterijen geplaatst worden.
 
 ![](Twogrids.gif)
 
@@ -44,7 +44,7 @@ De kabels liggen op de gridlijnen, mogen ook gridpunten met een huis passeren, e
 2. Bereken de kosten voor de in 1. geconfigureerde wijken.
 Probeer je SmartGrid te optimaliseren en vind een zo goed mogelijke configuratie van kabels.
 
-Een nieuwe ontwikkeling in het kabelnetwerk biedt de mogelijkheid om meerdere huizen via een kabel aan een baterij te verbinden. 
+Een nieuwe ontwikkeling in het kabelnetwerk biedt de mogelijkheid om meerdere huizen via een kabel aan een batterij te verbinden. 
 Vanaf nu geldt de volgende requirement:
 
 * Huizen mogen via eenzelfde kabel aan een batterij verbonden zijn. Ze mogen dus een kabel delen.
@@ -52,12 +52,12 @@ Vanaf nu geldt de volgende requirement:
 {:start="3"}
 3. Verbind alle huizen in de drie wijken aan een batterij.
 De maximumcapaciteit van de huizen mag die van de batterijen uiteraard niet overschrijden.
-4. Optimaliseer het smartGrid voor de drie wijken.
+4. Optimaliseer het SmartGrid voor de drie wijken.
 
 
 ## Advanced  
 Nu is het zo, dat de batterijen misschien niet op de best mogelijke plaatsen staan. 
-Het verplaatsen van batterijen vercompliceert de zaak enorm, maar de opdrachtgever wil het toch proberen, om inzicht in het probleem te krijgen.
+Het verplaatsen van batterijen compliceert de zaak enorm, maar de opdrachtgever wil het toch proberen, om inzicht in het probleem te krijgen.
 
 {:start="5"}
 5. Verplaats de batterijen, en probeer een beter resultaat te realiseren.
