@@ -1,6 +1,8 @@
 # Verdiepingscollege: Experimenteren
 
-Als kers op de taart geeft Quinten nog één college over hoe je experimenteren het best kan aanpakken, en hoe je je resultaten vervolgens kan presenteren. Dit doet hij aan de hand van de voorbeeld case.
+Als kers op de taart geven we nog één college over hoe je experimenteren het best kan aanpakken, en hoe je je resultaten vervolgens kan presenteren. Dit gebeurt onder andere aan de hand van de voorbeeld case.
+
+[De slides.](/course/lectures/70%20experimenteren/AlgoritmenenHeuristieken_college7.pdf)
 
 ### Voorbeeld case
 
