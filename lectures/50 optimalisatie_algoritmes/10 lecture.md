@@ -8,4 +8,4 @@ De verschillende onderwerpen uit het college zijn ook terug te kijken op [YouTub
 
 ### Slides
 
-Zijn [hier](https://github.com/minprog/heuristieken/raw/2020/lectures/50%20optimalisatie_algoritmes/Iteratief.pdf) te downloaden.
+Zijn [hier](Iteratief.pdf) te downloaden.
