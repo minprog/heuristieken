@@ -16,33 +16,34 @@ Start:
 
 Week 1:
     Colleges:
-        "Introductie (dinsdag 9:00)": /lectures/opening
-        "Problemen (woensdag 15:00)": /lectures/problemen
-        "Live coding (vrijdag 15:00)": /lectures/live_coding_1
+        "Introductie (maandag 15:00)": /lectures/opening
+        "Problemen (dinsdag 13:00)": /lectures/problemen
+        "Live coding (vrijdag 13:00)": /lectures/live_coding_1
     Milestones:
         "Case & Teamnaam kiezen (dinsdag 12:00)": /milestones/case
         "State space (donderdag 17:00)": /milestones/state_space
-        "Representatie (maandag 13 juni 17:00)": /milestones/representation
+        "Representatie (maandag 12 juni 17:00)": /milestones/representation
     Naslag:
         "Git Lecture": "/lectures/git"
         "Git naslag": "/naslag/git"
+        "Markdown": /naslag/markdown
 
 Week 2:
     Colleges:
-        "Constructieve algoritmes (dinsdag 9:00)": /lectures/zoekalgoritmes
-        "Iteratieve algoritmes (woensdag 9:00)": /lectures/optimalisatie_algoritmes
-        "Live coding (vrijdag 15:00)": /lectures/live_coding_2
+        "Constructieve algoritmes (maandag 15:00)": /lectures/zoekalgoritmes
+        "Iteratieve algoritmes (dinsdag 13:00)": /lectures/optimalisatie_algoritmes
+        "Live coding (vrijdag 13:00)": /lectures/live_coding_2
     Milestones:
         "Representatie (maandag 17:00)": /milestones/representation
-        "Baseline (donderdag 15:00)": "/milestones/baseline"
+        "Baseline (donderdag 17:00)": /milestones/baseline
+        "Plan individueel onderdeel": /milestones/individueel_onderdeel
 
 Week 3:
     Live coding colleges:
-        "Verdiepingscollege: Refactoring & Profiling (donderdag 15:00)": /lectures/live_coding_3
+        "Experimenteren (maandag 15:00 - 17:00)": /lectures/experimenteren
     Milestones:
-        "Eerste algoritme (dinsdag 18:00)": "/milestones/first_algorithm"
-        "Oefenpresentatie (woensdag 13:00)": "/lectures/oefenpresentatie"
-        "Tweede algoritme (vrijdag 18:00)": "/milestones/second_algorithm"
+        "Oefenpresentatie (woensdag)": "/lectures/oefenpresentatie"
+        "inleveren individueel onderdeel (vrijdag 17:00)": /milestones/individueel_onderdeel2
 
 Week 4:
     Milestones:
