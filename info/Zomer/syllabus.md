@@ -58,7 +58,7 @@ Je kiest samen met je team voor een case via [deze pagina](/milestones/case).
 
 Om jullie goed op gang te helpen bij het project hebben we een reeks milestones. Van ieder van deze milestones wordt verwacht dat je ze gedurende het project afrond. De milestones en hun deadlines zijn:
 
-- [Case kiezen](/milestones/case) (dinsdag 6 juni 17:00)
+- [Case kiezen](/milestones/case) (dinsdag 6 juni 12:00)
 - [State space](/milestones/state_space) (donderdag 8 juni 17:00)
 - [Representatie](/milestones/representation) (maandag 12 juni 17:00)
 - [Baseline](/milestones/baseline) (donderdag 15 juni 17:00)
