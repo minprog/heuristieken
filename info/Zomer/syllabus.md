@@ -154,7 +154,7 @@ In de tabel hieronder kan je zien wanneer de colleges zijn en de grote lijnen va
 | 3 | Algoritmes & resultaten | Maandag 11 uur: College over experimenteren |
 | | | Woensdag: Oefenpresentaties |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
-| 4 | Vergelijken & presenteren | Donderdag & Vrijdag: Eindpresentaties |
+| 4 | Vergelijken & presenteren | Vrijdag: Eindpresentaties |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
 
 ## Regels voor samenwerken
