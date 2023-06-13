@@ -10,6 +10,8 @@ Tijdens het vak zal ieder individu in de groep een eigen onderdeel uit het proje
 
 Dit individuele deel is het deel van het project waarvoor jij zelf verantwoordelijk bent. **De code voor dit onderdeel schrijf je zelf.** Dit betekent niet dat je _alles_ alleen hoeft te doen. Het uitwerken van ideeën, het oplossen van bugs, etc. kan je juist heel goed doen samen met de rest van je groep! Het hele groepje moet aan het eind gebruik kunnen maken van jouw projectonderdeel, en het is natuurlijk het mooist als het goed integreert met de code van de rest van de groep. Blijf daarom vooral veel met elkaar overleggen.
 
+> Dit mag ook retroactief. Heb je de afgelopen weken al individueel dingen uitgewerkt? Dan kan je die ook gebruiken! Uiteindelijk gaat het er om dat je laat zien dat je zelfstandig code kunt schrijven én een bijdrage hebt geleverd aan het project.
+
 Werk een plan uit waarin je een technische beschrijving maakt van wat jouw individuele onderdeel inhoud. Geef hierin een beschrijving van:
 
 1. Wat de uiteindelijke functionaliteiten zijn van jouw onderdeel,
