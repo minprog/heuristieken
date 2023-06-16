@@ -12,4 +12,4 @@ In de volgende GitHub repository vind je de code van dit college: [github.com/mi
 
 ### Linkje!
 
-<https://prod.liveshare.vsengsaas.visualstudio.com/join?30F6CC8B1C23EA270918BC07B887B6CEE805>
+<https://prod.liveshare.vsengsaas.visualstudio.com/join?43E02309251A1BF987CB143709F1EED7F16B>
