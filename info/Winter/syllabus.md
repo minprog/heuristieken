@@ -1,6 +1,6 @@
 # Programmeertheorie<br><small>a.k.a. Heuristieken</small>
 
-## Studiewijzer, winter 2022
+## Studiewijzer, winter 2023
 
 Deze cursus is de afsluiting van de Minor Programmeren.
 Na vele maanden ervaring opdoen met programmeren, met object-georiënteerd programmeren en met problem solving, komt hier alles samen.
@@ -9,7 +9,7 @@ Gaandeweg leer je over verschillende soorten problemen, wat de limitaties zijn v
 
 ## Docenten
 
-Je docenten zijn Bas Terwijn en Wouter Vrielink.
+Je docenten zijn Bas Terwijn, Jelle van Assema, en Wouter Vrielink.
 
 ## Contact
 
@@ -33,6 +33,7 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 1. dagelijks met je team bijeenkomt voor een korte standup
 1. een case "oplost" met behulp van de in de cursus behandelde heuristische algoritmen,
 1. zichtbaar met je teamgenoten samenwerkt aan de oplossingen via git,
+1. een individuele bijdrage levert aan het project,
 1. de voortgang en inzichten uitlegt bij een tussentijdse presentatie,
 1. advies inwint bij je assistent tijdens de tussentijdse voortgangsgesprekken,
 1. regelmatig vragen stelt aan de assistenten en docenten,
@@ -58,13 +59,14 @@ Je kiest samen met je team voor een case via [deze pagina](/milestones/case).
 
 Om jullie goed op gang te helpen bij het project hebben we een reeks milestones. Van ieder van deze milestones wordt verwacht dat je ze gedurende het project afrond. De milestones en hun deadlines zijn:
 
-- [Case kiezen](/milestones/case) (maandag 9 januari 17:00)
-- [State space](/milestones/state_space) (donderdag 12 januari 17:00)
-- [Representatie](/milestones/representation) (maandag 16 januari 17:00)
-- [Baseline](/milestones/baseline) (donderdag 19 januari 17:00)
-- [Plan individueel onderdeel](/milestones/individueel_onderdeel) (z.s.m. na baseline)
-- [Inleveren individueel onderdeel](/milestones/individueel_onderdeel2) (vóór vrijdag 27 januari 17:00)
-- [Experiment](/milestones/experiment) (dinsdag 31 januari 23:59)
+- [Case kiezen](/milestones/case) (maandag 8 januari 17:00)
+- [State space](/milestones/state_space) (woensdag 11 januari 13:00)
+- [Representatie](/milestones/representation) (vrijdag 12 januari 17:00)
+- [Baseline](/milestones/baseline) (donderdag 18 januari 17:00)
+- [Plan individueel onderdeel](/milestones/individueel_onderdeel) (vrijdag 19 januari 17:00)
+- [Inleveren individueel onderdeel](/milestones/individueel_onderdeel2) (vóór vrijdag 26 januari 17:00)
+- [Experiment](/milestones/experiment) (dinsdag 30 januari 23:59)
+- [Oplevering](/milestones/deliverable) (woensdag 31 januari 23:59)
 
 De links wijzen naar pagina's met en uitgebreide beschrijving van de milestones. Deze informatie en de deadlines zijn ook te vinden in de weekplanning.
 
@@ -126,7 +128,7 @@ _Laat zien wat je hebt geleerd._
 Aan het einde van het vak presenteer je met je hele groepje over de case waar je aan gewerkt hebt.
 Het is de bedoeling dat de presentatie alle milestones van het project tot één geheel brengt. Concreet moet de presentatie daarom bestaan uit een inleiding, uitleg over de oplossingsruimte, een beschrijving van gebruikte methoden, resultaten en de vergelijking hiervan, en tot slot een discussie.
 
-Voor een uitgebreide uitleg over de eindpresentatie zie [deze pagina](/milestones/presentation). De presentatiesessies vinden plaats op donderdag 2 februari en vrijdag 3 februari.
+Voor een uitgebreide uitleg over de eindpresentatie zie [deze pagina](/milestones/presentation). De presentatiesessies vinden plaats op donderdag 1 februari en vrijdag 2 februari.
 
 #### Technische beschrijving
 
@@ -134,7 +136,7 @@ _Laat zien wat je hebt gedaan._
 
 Tijdens het vak zal ieder individu in de groep een eigen onderdeel uit het project uitwerken. Het individuele deel bepaald deels je cijfer, en moet gedurende het project besproken worden met je mentoren. Na het behalen van de "baseline" milestone bespreekt ieder individu in de groep met de mentoren wat voor een onderdeel uit het project diegene gaat uitwerken. Dit kan bijvoorbeeld het uitwerken en programmeren van een visualisatie, een specifiek algoritme, een specifiek experiment, of een grote verbetering van de door de groep gebruikte probleemrepresentatie zijn. Hier maak je eerst een beschrijving van, die goedgekeurd moet worden door je mentoren.
 
-Voor meer informatie over de technische beschrijving, zie [de milestonepagina](/milestones/individueel_onderdeel). De uiterste deadline hiervoor is vrijdag 27 januari om 17:00. Natuurlijk kan je het ook eerder inleveren als je klaar bent.
+Voor meer informatie over de technische beschrijving, zie [de milestonepagina](/milestones/individueel_onderdeel). De uiterste deadline hiervoor is vrijdag 26 januari om 17:00. Natuurlijk kan je het ook eerder inleveren als je klaar bent.
 
 ## Kalender
 
@@ -143,12 +145,12 @@ In de tabel hieronder kan je zien wanneer de colleges zijn en de grote lijnen va
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
 | Week | | Onderdeel |
 | ---: | ------------------------------------------ | -------------------------------------------------------------- |
-| 1 | Interpretatie van de case | Maandag 9 uur: Openingscollege |
-| | | Dinsdag 13 uur: College over problemen |
+| 1 | Interpretatie van de case | Maandag 11 uur: Openingscollege |
+| | | Dinsdag 15 uur: College over problemen |
 | | | Donderdag 15 uur: Live coding college |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
 | 2 | Een baseline zetten | Maandag 15 uur: College over zoekalgoritmes |
-| | | Dinsdag 13 uur: College over optimalisatie-algoritmes |
+| | | Dinsdag 15 uur: College over optimalisatie-algoritmes |
 | | | Donderdag 15 uur: Live coding college |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
 | 3 | Algoritmes & resultaten | Maandag 15 uur: College over experimenteren |

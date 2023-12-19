@@ -17,15 +17,14 @@ Start:
   Voorbeeldcase:
     "Radio Russia": /cases/radio-russia
 Week 1:
-
   Live colleges:
-    "Opening (maandag 09:00 - 11:00)": /lectures/opening
-    "Problemen (dinsdag 13:00 - 15:00)": /lectures/problemen
+    "Opening (maandag 11:00 - 13:00)": /lectures/opening
+    "Problemen (dinsdag 15:00 - 17:00)": /lectures/problemen
     "Live coding (donderdag 15:00 - 17:00)": /lectures/live_coding_1
   Milestones:
     "Case & Teamnaam kiezen (maandag 17:00)": /milestones/case
-    "State space (donderdag 17:00)": /milestones/state_space
-    "Representatie (maandag 16 jan 17:00)": /milestones/representation
+    "State space (woensdag 13:00)": /milestones/state_space
+    "Representatie (vrijdag 17:00)": /milestones/representation
   Naslag:
     "Git Lecture": "/lectures/git"
     "Git naslag": "/naslag/git"
@@ -33,12 +32,11 @@ Week 1:
 Week 2:
   Live colleges:
     "Constructieve algoritmes (maandag 15:00 - 17:00)": /lectures/zoekalgoritmes
-    "Iteratieve algoritmes (dinsdag 13:00 - 15:00)": /lectures/optimalisatie_algoritmes
+    "Iteratieve algoritmes (dinsdag 15:00 - 17:00)": /lectures/optimalisatie_algoritmes
     "Live coding (donderdag 15:00 - 17:00)": /lectures/live_coding_2
   Milestones:
-    "Representatie (maandag 17:00)": /milestones/representation
     "Baseline (donderdag 17:00)": /milestones/baseline
-    "Plan individueel onderdeel": /milestones/individueel_onderdeel
+    "Plan individueel onderdeel (vrijdag 17:00)": /milestones/individueel_onderdeel
 Week 3:
   Live colleges:
     "Experimenteren (maandag 15:00 - 17:00)": /lectures/experimenteren
