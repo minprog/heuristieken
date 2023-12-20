@@ -14,4 +14,6 @@ Naast een case en teamnaam is het belangrijk dat jullie eerlijk met elkaar bespr
 
 <textarea name="form[q3]" rows="1" required></textarea>
 
-Maak ook direct een Git repository aan! [Volg deze link voor meer informatie over hoe je dat doet en wat Git is.](/naslag/git)
+Maak ook direct een Git repository aan! [Volg deze link voor meer informatie over hoe je dat doet en wat Git is.](/naslag/git) Geef hieronder een link naar je Git repository. Zorg ervoor dat deze openbaar is! Dit kan je controleren door in een privévenster de link naar je repository te volgen.
+
+<textarea name="form[q4]" rows="1" required></textarea>
