@@ -1,35 +1,38 @@
 # State-space
 
-Om je case beter te begrijpen en een idee te hebben hoe “groot” het probleem is, is het goed om een schatting te hebben van de grootte van de state-space van je case. Daarmee bedoelen we het aantal mogelijke geldige staten die mogelijk zijn in de case, of het aantal mogelijke geldige oplossingen van de case.
+Om je case beter te begrijpen en een idee te hebben hoe “groot” een probleem is, is het goed om een schatting te hebben van de grootte van de state-space van je case. Daarmee bedoelen we het aantal mogelijke staten in de case, of het aantal mogelijke oplossingen van de case. We kijken hiervoor naar het aantal (tussen)oplossingen die we moeten bekijken en evalueren om zeker te kunnen weten (bewijzen) dat we de optimale oplossing hebben gevonden.
 
-Bijvoorbeeld, in een case waar we de beste rij moeten vinden zijn dit de mogelijkheden waarop Anna, Bert en Carlijn in een rij kunnen staan:
-(ABC, ACB, BAC, CAB, BCA, CBA). Zo zie je dat er zes mogelijkheden zijn. Ook kan je dit berekenen, want Anna kan op drie verschillende plekken staan, na die keuze gemaakt te hebben kan vervolgens Bert op de overige twee plekken staan en tot slot Carlijn op de laatste plek. Vermeningvuldig je dit met elkaar, dus `3 x 2 x 1` dan krijg je het aantal mogelijkheden: `6` ofwel `3!`
+Stel we hebben N studenten die op een bepaalde volgorde in een rij moeten staan. Voor iedere volgorde hebben we een puntentelling. De exacte werking van de puntentelling is niet belangrijk, we zijn alleen geïnteresseerd in de state-space van dit probleem. Bijvoorbeeld, in een case waar we de beste volgorde voor Anna, Bert, en Carlijn moeten vinden, zijn dit de mogelijkheden waarop ze in een rij kunnen staan: ABC, ACB, BAC, CAB, BCA, CBA. Zo zie je dat er zes mogelijkheden zijn.
 
-Soms is het erg moeilijk om exact de grootte van de state-space te berekenen. Daarom doen we soms aannames om deze berekening te versimpelen. Deze aannames kiezen we dan wel zo zodat we zeker weten dat het werkelijke aantal mogelijk staten hier gegarandeerd niet boven ligt. We noemen dit een bovengrens (upper-bound) van de grootte van de state-space. Hoe lager de bovengrens hoe beter.
+Je kunt dit ook berekenen, want Anna kan op drie verschillende plekken staan, vervolgens kan Bert op de overige twee plekken staan, en tot slot Carlijn op de laatste plek. Vermenigvuldig je dit met elkaar, dus $$3 x 2 x 1$$ dan krijg je het aantal mogelijkheden: $$6$$ ofwel $$3!$$. Voor ons probleem in het algemeen, met N studenten, zou de state-space $$N!$$ zijn.
+
+> Het kan voor je case erg moeilijk zijn om exact de grootte van de state-space te berekenen; vaak weet je helemaal niet hoe veel van de mogelijkheden nou daadwerkelijk mogelijk zijn. Daarom doen we aannames om deze berekening te versimpelen. Deze aannames kiezen we dan wel zo zodat we zeker weten dat het werkelijke aantal mogelijk staten hier gegarandeerd niet boven ligt. We noemen dit een bovengrens (upper-bound) van de grootte van de state-space. Hoe lager de bovengrens hoe beter!
 
 ## Combinaties en Permutaties
 
 Om de grootte van de state-space te berekening is het nuttig om bekend te zijn met Combinaties en Permutaties. [Lees hier over Combinaties en Permutaties](https://www.mathsisfun.com/combinatorics/combinations-permutations.html)
 
-
 Er zijn eigenlijk twee belangrijke aspecten om op te letten bij de berekening:
 
-1. Order: Is de volgorde belangrijk?
-1. Repetition: Kan ik herhaaldelijk dezelfde keuze maken?
+1. Order: Is de volgorde van de uitkomst belangrijk?
+1. Repetition: Is het mogelijk om herhaaldelijk dezelfde keuze maken?
 
 Op basis van deze twee aspecten vind je hieronder een kleine cheatsheet voor de berekening:
 
 ![state-space cheatsheet](state_space_cheatsheet.png)
 
-Vaak helpt het om een probleem eerst te verkleinen en het dus eerst voor zeer kleine waarden voor `n` en `r` op te lossen waarbij je nog kunt natellen of het antwoord klopt.
+Het is ook belangrijk om $$N$$ en $$r$$ correct te bepalen. $$N$$ is het aantal mogelijkheden dat we hebben op het moment dat we de eerste keuze gaan maken. $r$ is het aantal keer dat we een keuze zullen maken.
 
+> In het voorbeeld van de N studenten die we op volgorde zetten hierboven, is de volgorde belangrijk, en is het niet mogelijk om herhaaldelijk dezelfde keuze te maken. We maken dus gebruik van $$\frac{n!}{(n - r)!}. Als we dit invullen voor Anna, Bert, en Carlijn, krijgen we $$N=3$$ (we hebben 3 personen om uit te kiezen), en $$r=3$$ (we maken een rij van 3 personen). $$3 - 3 = 0$$, en $$0!=1$$, dus als we alles invullen krijgen we $$\frac{3!}{(3 - 3)!}=\frac{3!}{0!}=\frac{3!}{1}=3!=3*2*1=6$$.
+
+Vaak helpt het om een probleem eerst te verkleinen en het dus eerst voor zeer kleine waarden voor `n` en `r` op te lossen waarbij je nog kunt natellen of het antwoord klopt!
 
 ## Opdrachten
 
 Stel jezelf bij ieder van de opdrachten hieronder de volgende vragen:
 
-* Is de volgorde belangrijk?
-* Kan ik herhaaldelijk dezelfde keuze maken?
+* Is de volgorde van de uitkomst belangrijk?
+* Is het mogelijk om herhaaldelijk dezelfde keuze maken?
 
 Geef bij iedere opdracht zowel de formule als de uitkomst.
 
@@ -106,3 +109,6 @@ Laat in een klein voorbeeld zien dat de formule klopt. Het kan makkelijker zijn 
 Bereken de grootte van de state-space voor één of meer van de probleem-instanties in de case.
 
 <textarea name="form[q12]" rows="4" required></textarea>
+
+
+> Kom je niet helemaal uit deze vragen? Stel een vraag aan een assistent!
