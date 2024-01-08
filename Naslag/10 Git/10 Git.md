@@ -71,4 +71,4 @@ Om het merge conflict op te lossen verwijder je de variant van de code die je ni
 
 ## Oefenen met Git
 
-Om nu even te oefenen met de workflow van Git, kan je een korte cursus op [Code School](https://www.codeschool.com/courses/try-git) doen. Dit is niet noodzakelijk, maar geeft je mogelijk wat meer zelfvertrouwen in het gebruik van Git. Ook is er een handige korte referentie: [Simple Guide to Git](http://rogerdudler.github.io/git-guide/).
+Om nu even te oefenen met de workflow van Git, kan je een korte interactieve cursus [online](https://learngitbranching.js.org/) doen. Dit is niet noodzakelijk, maar geeft je mogelijk wat meer zelfvertrouwen in het gebruik van Git. Ook is er een handige korte referentie: [Simple Guide to Git](http://rogerdudler.github.io/git-guide/).
