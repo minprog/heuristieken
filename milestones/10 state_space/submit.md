@@ -21,7 +21,7 @@ Op basis van deze twee aspecten vind je hieronder een kleine cheatsheet voor de 
 
 ![state-space cheatsheet](state_space_cheatsheet.png)
 
-Het is ook belangrijk om $$N$$ en $$r$$ correct te bepalen. $$N$$ is het aantal mogelijkheden dat we hebben op het moment dat we de eerste keuze gaan maken. $r$ is het aantal keer dat we een keuze zullen maken.
+Het is ook belangrijk om $$N$$ en $$r$$ correct te bepalen. $$N$$ is het aantal mogelijkheden dat we hebben op het moment dat we de eerste keuze gaan maken. $$r$$ is het aantal keer dat we een keuze zullen maken.
 
 > In het voorbeeld van de N studenten die we op volgorde zetten hierboven, is de volgorde belangrijk, en is het niet mogelijk om herhaaldelijk dezelfde keuze te maken. We maken dus gebruik van $$\frac{n!}{(n - r)!}$$. Als we dit invullen voor Anna, Bert, en Carlijn, krijgen we $$N=3$$ (we hebben 3 personen om uit te kiezen), en $$r=3$$ (we maken een rij van 3 personen). $$3 - 3 = 0$$, en $$0!=1$$, dus als we alles invullen krijgen we $$\frac{3!}{(3 - 3)!}=\frac{3!}{0!}=\frac{3!}{1}=3!=3*2*1=6$$.
 
