@@ -8,4 +8,6 @@ De verschillende onderwerpen uit het college zijn ook terug te kijken op [YouTub
 
 ### Slides
 
-Zijn [hier](Iteratief.pdf) te downloaden.
+Slides coming soon!
+
+<!-- Zijn [hier](Iteratief.pdf) te downloaden. -->

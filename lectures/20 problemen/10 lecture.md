@@ -2,4 +2,5 @@
 
 Gegeven door Wouter Vrielink.
 
-[De slides.](AlgoritmenenHeuristieken_college2.pdf)
+Slides coming soon!
+<!-- [De slides.](AlgoritmenenHeuristieken_college2.pdf) -->

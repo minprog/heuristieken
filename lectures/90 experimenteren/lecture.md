@@ -2,7 +2,9 @@
 
 Als kers op de taart geven we nog één college over hoe je experimenteren het best kan aanpakken, en hoe je je resultaten vervolgens kan presenteren. Dit gebeurt onder andere aan de hand van de voorbeeld case.
 
-[De slides.](Experimenteren.pdf)
+Slides coming soon!
+
+<!-- [De slides.](Experimenteren.pdf) -->
 
 Delen uit de presentatie zijn gebaseerd op het boek van Thomas Weise over "Optimization Algorithms" te vinden op <https://thomasweise.github.io/oa/>.
 
