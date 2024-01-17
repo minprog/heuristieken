@@ -8,12 +8,12 @@ Omdat wiskundigen van de russische overheid de details van de optimale oplossing
 
 
 ## Let op
-Dit is een voorbeeld case en kan dus tijdens het vak niet gekozen worden!
+Dit is een voorbeeld case en kan dus tijdens het vak niet gekozen worden! De uitwerking van deze case wordt gedaan in de live coding colleges, en de uitgewerkte code is te vinden op [github.com/minprog/radio_russia_demo](https://github.com/minprog/radio_russia_demo/tree/college_2). Dit is direct een goed voorbeeld van onze gewenste repository-structuur!
 
 
 ## Input data
 De wiskundige van de russische overheid hebben [de kaarten](Kaarten.zip) op twee manieren opgeslagen.
-Voor ieder land is er in een .csv-bestand een lijst aangelegd met provincies en hun aangrenzende provcincies.
+Voor ieder land is er in een .csv-bestand een lijst aangelegd met provincies en hun aangrenzende prov2incies.
 Als wiskundigen begrepen niks van de vreemde namen, dus hebben ze de provincies simpelweg vanaf 0 genummerd.
 Ze hebben de provincies ook in .shp- en .shx-bestanden vastgelegd.
 Hiermee willen ze later de landen als een ingekleurde kaart weergeven en voorleggen aan de russische overheid.
@@ -22,7 +22,7 @@ Hiermee willen ze later de landen als een ingekleurde kaart weergeven en voorleg
 ## Opdracht 1
 
 1. Verzin een zenderinrichting voor de Oekraïne. Iedere provincie moet een zendertype hebben, geen enkele twee aangrenzende provincies mogen hetzelfde zendertype hebben. Verzin een zenderinrichting voor het hele land, en hoe minder zendertypes je gebruikt, hoe beter.
-2. Doe hetzelfde voor China, de USA en uiteindelijk voor moedertje Rusland. Hoe minder zenderypes, hoe beter.
+2. Doe hetzelfde voor China, de USA en uiteindelijk voor moedertje Rusland. Hoe minder zendertypes, hoe beter.
 3. De produktie van zenders wordt in Rusland uiteraard ook door de overheid beregeld. Het is het goedkoper om minder zendertypes te hebben, maar ook om van alle zendertypes ongeveer evenveel te hebben. Probeer voor ieder land met ieder minimumaantal zendertypes te bepalen hoe een evenwichtige verdeling eruit zou zien, en kijk of een inrichting mogelijk is met zo'n verdeling.
 
 | Oekraïne | USA |
