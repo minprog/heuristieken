@@ -21,7 +21,7 @@ De lijst met de locaties van de 22 treinstations zijn ook in een [.csv-bestand](
 
 1. Maak een lijnvoering voor Noord- en Zuid-Holland met maximaal zeven trajecten binnen een tijdsframe van twee uur, waarbij alle verbindingen bereden worden.
 
-RailNL heeft recentelijk een doelfunctie opgesteld voor de kwaliteit van de lijnvoering. 
+RailNL heeft recentelijk een doelfunctie opgesteld voor de kwaliteit van de lijnvoering.
 Als 100% van van de verbindingen bereden wordt, levert dat 10000 punten op je lijnvoering op, anders krijg je een een gedeelte daarvan.
 Maar hoe minder trajecten voor dezelfde service, hoe goedkoper.
 En in hoe minder tijd er in al die trajecten samen verbruikt wordt, hoe beter.
@@ -46,7 +46,7 @@ Are you ready for something bigger? We gaan nu heel Nederland doen. Vind hier he
 ## Advanced
 
 {:start="5"}
-5. Verleg drie random sporen en run je algoritmes nog een keer. Vind je nu betere of slechtere waarden voor de doelfunctie? Doe dit een paar keer, en probeer erachter te komen welke sporen de grootste invloed hebben op de doelfunctie.
+5. Verleg drie random sporen en run je algoritmen nog een keer. Vind je nu betere of slechtere waarden voor de doelfunctie? Doe dit een paar keer, en probeer erachter te komen welke sporen de grootste invloed hebben op de doelfunctie.
 6. Utrecht Centraal gaat op de schop, en alle treinverbindingen van en naar Utrecht komen tijdelijk te vervallen omdat ze vervangen worden door bussen. Alle verbindingen ''tussen de stations die verbonden zijn met Utrecht'' zijn komen te vervallen. Maak wederom een lijnvoering.
 7. Test voor uitval van andere stations hoe groot de impact is op je beste lijnvoering.
 

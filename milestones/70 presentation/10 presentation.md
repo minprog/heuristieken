@@ -7,7 +7,7 @@ Concreet ga je een presentatie geven in de volgende vorm:
 - Een introductie waarin je elkaar kort introduceert.
 - Een scherpe en korte uitleg van de case, waarin je ook de terminologie introduceert.
 - Een introductie in het op te lossen probleem en waar de uitdaging zit.
-- Een methode-sectie waarin de verschillende algoritmes worden uitgelegd.
+- Een methode-sectie waarin de verschillende algoritmen worden uitgelegd.
 - Een resultatensectie met de verschillende behaalde resultaten.
 - Een vergelijkingssectie waarin de resultaten worden besproken en vergeleken.
 - Een conclusie waarin de oplossing van de case duidelijk naar voren komt.
@@ -49,7 +49,7 @@ Laat hier de behaalde resultaten van elk algoritme zien d.m.v. bijvoorbeeld graf
 
 ### Vergelijking
 
-Leg hier de verschillende resultaten van de algoritmes naast elkaar en bediscusieer ze. Let hierbij vooral op hoe de resultaten geïnterpreteerd worden, en in welke maten ze wel of niet met elkaar vergeleken kunnen worden.
+Leg hier de verschillende resultaten van de algoritmen naast elkaar en bediscussieer ze. Let hierbij vooral op hoe de resultaten geïnterpreteerd worden, en in welke maten ze wel of niet met elkaar vergeleken kunnen worden.
 
 ### Conclusie
 

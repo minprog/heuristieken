@@ -7,7 +7,7 @@ Deze oefenpresentatie is belangrijk, want je kan zo meteen op een geheel nieuw p
 - het beknopt en precies uitleggen van de case
 - consistent gebruik van terminologie (grids, auto's, eiwitten, batterijen, ...)
 - het (kort!) uitleggen van de grootte van de state-space van de case
-- het presenteren van de eerste algoritmes (baseline, eerste algoritme)
+- het presenteren van de eerste algoritmen (baseline, eerste algoritme)
 - eventueel de eerste resultaten en een vergelijking daartussen
 
 Na iedere presentatie zijn er (lastige) vragen net zoals bij de eindpresentaties. En, anders dan bij de eindpresentaties, is er ook ruimte voor feedback.

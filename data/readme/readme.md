@@ -26,7 +26,7 @@ Om stippen op de horizon te zetten zijn er zes milestones met een deadline. Deze
 2. Representatie (lever een programma in met een representatie van je case)
 3. Baseline (lever een programma in dat een valide oplossing genereerd)
 4. Individueel onderdeel (lever een projectonderdeel in wat je zelf geprogrammeerd hebt)
-6. Experiment (vergelijk de gemaakte algoritmes en de behaalde resultaten)
+6. Experiment (vergelijk de gemaakte algoritmen en de behaalde resultaten)
 7. Eindproduct (lever het project in)
 
 ### Verslavingshulp

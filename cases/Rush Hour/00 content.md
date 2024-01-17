@@ -44,7 +44,7 @@ Game #7
 ## Advanced
 
 {:start="4"}
-4. Maak random Rush Hour borden en probeer ze op te lossen met je algoritmes.
+4. Maak random Rush Hour borden en probeer ze op te lossen met je algoritmen.
 5. Probeer te achterhalen wat het verschil is tussen een moeilijke rushhour-opgave en een even grote makkelijk rushhour opgave.
 Ook aantonen waar de moeilijkheid **niet** aan ligt is waardevol.
 

@@ -1,4 +1,4 @@
-# College over Constructieve Algoritmes
+# College over Constructieve Algoritmen
 
 Gegeven door Bas Terwijn.
 

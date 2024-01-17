@@ -149,11 +149,11 @@ In de tabel hieronder kan je zien wanneer de colleges zijn en de grote lijnen va
 | | | Dinsdag 15 uur: College over problemen |
 | | | Donderdag 15 uur: Live coding college |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
-| 2 | Een baseline zetten | Maandag 15 uur: College over zoekalgoritmes |
-| | | Dinsdag 15 uur: College over optimalisatie-algoritmes |
+| 2 | Een baseline zetten | Maandag 15 uur: College over zoekalgoritmen |
+| | | Dinsdag 15 uur: College over optimalisatie-algoritmen |
 | | | Donderdag 15 uur: Live coding college |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
-| 3 | Algoritmes & resultaten | Maandag 15 uur: College over experimenteren |
+| 3 | Algoritmen & resultaten | Maandag 15 uur: College over experimenteren |
 | | | Woensdag: Oefenpresentaties |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
 | 4 | Vergelijken & presenteren | Donderdag & Vrijdag: Eindpresentaties |

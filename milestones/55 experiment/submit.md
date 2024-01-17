@@ -1,19 +1,19 @@
 # Experiment
 
-De uitdaging bij dit vak is om de case zo goed mogelijk op te lossen. Natuurlijk gaat het daarbij ook om de manier om deze oplossing te vinden. Hiervoor heb je verschillende algoritmes geschreven en nu is het taak om te experimenteren.
+De uitdaging bij dit vak is om de case zo goed mogelijk op te lossen. Natuurlijk gaat het daarbij ook om de manier om deze oplossing te vinden. Hiervoor heb je verschillende algoritmen geschreven en nu is het taak om te experimenteren.
 
 ## Wat ga je doen?
 
-De verschillende algoritmes draaien op de verschillende instanties van de case. Om vervolgens de resultaten van de algoritmes met elkaar te vergelijken.
+De verschillende algoritmen draaien op de verschillende instanties van de case. Om vervolgens de resultaten van de algoritmen met elkaar te vergelijken.
 
 Bij het vergelijken van de resultaten zijn vooral de distributie van de behaalde scores en de beste score van belang. Het doel is namelijk om een zo goed mogelijke oplossing te vinden en dat is natuurlijk de oplossing met de beste score. Dat betekent ook dat alle mindere scores niet zozeer van belang zijn. De distributie van de scores is wel interessant. Op basis van deze distributie kunnen er onder andere claims gemaakt worden over hoe waarschijnlijk het is dat er een bepaalde score wordt gevonden na een x-aantal runs van het algoritme. Sla dus wel degelijk alle behaalde resultaten en scores op en visualiseer deze ook. Het is handig om je resultaten op te slaan in een csv formaat, zodat je de visualisaties en grafieken los van de experimenten kunt runnen.
 
 ## Parameters tunen
 
-Grote kans dat je algoritmes een aantal parameters kennen. Dit roept direct een vraag op: welke waardes kies je voor deze parameters? Gebruik hiervoor de grid search methode als volgt:
+Grote kans dat je algoritmen een aantal parameters kennen. Dit roept direct een vraag op: welke waardes kies je voor deze parameters? Gebruik hiervoor de grid search methode als volgt:
 
 1. Kies voor iedere parameter een discreet domein van waardes, bijvoorbeeld [0, 1, 2, 3]. Wat dat domein echt is hangt natuurlijk af van de parameters zelf.
-2. Maak alle mogelijke combinaties van waardes voor deze paremeters. Kent het algoritme twee parameters met de domeinen [0, 1] en [5, 7, 9], dan zijn er zes mogelijke combinaties.
+2. Maak alle mogelijke combinaties van waardes voor deze parameters. Kent het algoritme twee parameters met de domeinen [0, 1] en [5, 7, 9], dan zijn er zes mogelijke combinaties.
 3. Draai het algoritme meerdere keren binnen een vaste hoeveelheid tijd voor iedere combinatie.
 4. Kies uiteindelijk voor de combinatie die de beste score oplevert.
 
@@ -27,7 +27,7 @@ Hoe je dit doet verschilt per case, maar wel een algemeen advies:
 
 - Schrijf een script dat een algoritme voor een gezette tijd kan draaien.
 - Schrijf na iedere run van het algoritme de resultaten weg naar een bestand. Zo raak je niet per ongeluk uren rekentijd kwijt. Hier spreken we uit ervaring!
-- Ga praktisch met tijd om en kap een algoritme af na een gezette hoeveelheid tijd. Bij verschillende algoritmes kunnen verschillende runs buitensporig lang duren, probeer dat voor te zijn.
+- Ga praktisch met tijd om en kap een algoritme af na een gezette hoeveelheid tijd. Bij verschillende algoritmen kunnen verschillende runs buitensporig lang duren, probeer dat voor te zijn.
 - Print een soort statusbericht. Als er niks op het scherm komt wantrouw je als mens al snel of er nou wel echt iets gebeurt. Print daarom bijvoorbeeld uit welke run nu gaande is. Print tegelijkertijd niet te veel, iets uitprinten is namelijk een dure operatie en kan onbedoeld het programma flink vertragen.
 
 Hieronder een opzet voor een script dat het programma `random_algorithm.py` draait door middel van de aanroep `python3 random_algorithm.py`. Iedere run duurt maximaal 60 seconden en na 3600 seconden stopt het geheel.
@@ -63,11 +63,11 @@ Voor de problemen in deze cases zijn we op zoek naar een zo goed mogelijke oplos
 
 Als voorbeeld, denk hierbij aan het maken van lesroosters voor de UvA. Ieder semester wordt er een rooster ontwikkeld. Bij het ontwikkelen van dit rooster is het alleen belangrijk dat er een goed rooster wordt afgeleverd voor het volgende semester. Of het algoritme daar secondes over doet, of maanden, dat maakt dan niet zo gek veel uit. Zolang de oplossing er maar is binnen een half jaar.
 
-Ook bij programmeertheorieprojecten is de tijd eindig. Binnenkort sta je te presenteren en dat betekent dat je tot dan je computer kan laten rekenen. Dat betekent wel dat je de algoritmes nog flink wat rekentijd kan gunnen. Maak daar dan ook goed gebruik van en zet gerust je computer een nacht aan het werk.
+Ook bij programmeertheorieprojecten is de tijd eindig. Binnenkort sta je te presenteren en dat betekent dat je tot dan je computer kan laten rekenen. Dat betekent wel dat je de algoritmen nog flink wat rekentijd kan gunnen. Maak daar dan ook goed gebruik van en zet gerust je computer een nacht aan het werk.
 
-We rekenen algoritmes voor dit soort cases dan ook niet zozeer af op de run-time, de hoeveelheid tijd die het algoritme gebruikt voor één run. Maar op de mogelijkheid om een goede oplossing te vinden binnen een gezette tijd. Een algoritme is in deze context beter als het een betere oplossing kan vinden binnen dezelfde tijd als een ander algoritme.
+We rekenen algoritmen voor dit soort cases dan ook niet zozeer af op de run-time, de hoeveelheid tijd die het algoritme gebruikt voor één run. Maar op de mogelijkheid om een goede oplossing te vinden binnen een gezette tijd. Een algoritme is in deze context beter als het een betere oplossing kan vinden binnen dezelfde tijd als een ander algoritme.
 
-Hou bij het vergelijken van algoritmes daarom de tijd constant. Het liefst hou je hier ook de computer constant, zodat het hebben van bijvoorbeeld een snellere processor geen invloed heeft. In praktijk is dit vaak lastig, omdat je veel experimenten gaat draaien. Kies je dan om verschillende computers te gebruiken, benoem dan altijd op welke hardware het algoritme heeft gedraaid.
+Hou bij het vergelijken van algoritmen daarom de tijd constant. Het liefst hou je hier ook de computer constant, zodat het hebben van bijvoorbeeld een snellere processor geen invloed heeft. In praktijk is dit vaak lastig, omdat je veel experimenten gaat draaien. Kies je dan om verschillende computers te gebruiken, benoem dan altijd op welke hardware het algoritme heeft gedraaid.
 
 ### Iteraties
 

@@ -31,8 +31,8 @@ Week 1:
     "Markdown": /naslag/markdown
 Week 2:
   Live colleges:
-    "Constructieve algoritmes (maandag 15:00 - 17:00)": /lectures/zoekalgoritmes
-    "Iteratieve algoritmes (dinsdag 15:00 - 17:00)": /lectures/optimalisatie_algoritmes
+    "Constructieve algoritmen (maandag 15:00 - 17:00)": /lectures/zoekalgoritmen
+    "Iteratieve algoritmen (dinsdag 15:00 - 17:00)": /lectures/optimalisatie_algoritmen
     "Live coding (donderdag 15:00 - 17:00)": /lectures/live_coding_2
   Milestones:
     "Baseline (donderdag 17:00)": /milestones/baseline

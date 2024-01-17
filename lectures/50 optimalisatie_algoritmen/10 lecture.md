@@ -1,4 +1,4 @@
-# College over Iteratieve Algoritmes
+# College over Iteratieve Algoritmen
 
 Gegeven door Bas Terwijn.
 
