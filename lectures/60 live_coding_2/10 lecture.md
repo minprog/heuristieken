@@ -10,6 +10,6 @@ In dit college wordt de [Radio Russia case](/cases/radio-russia) gebruikt als vo
 
 In de volgende GitHub repository vind je de code van dit college: [github.com/minprog/radio_russia_demo](https://github.com/minprog/radio_russia_demo/tree/college_2)
 
-<!-- ### Linkje!
+### Linkje!
 
-<https://prod.liveshare.vsengsaas.visualstudio.com/join?43E02309251A1BF987CB143709F1EED7F16B> -->
+<https://prod.liveshare.vsengsaas.visualstudio.com/join?72F2DB57BF778A07D2236147F72CE7CB19BD>
