@@ -14,7 +14,7 @@ Grote kans dat je algoritmen een aantal parameters kennen. Dit roept direct een 
 
 1. Kies voor iedere parameter een discreet domein van waardes, bijvoorbeeld [0, 1, 2, 3]. Wat dat domein echt is hangt natuurlijk af van de parameters zelf.
 2. Maak alle mogelijke combinaties van waardes voor deze parameters. Kent het algoritme twee parameters met de domeinen [0, 1] en [5, 7, 9], dan zijn er zes mogelijke combinaties.
-3. Draai het algoritme meerdere keren binnen een vaste hoeveelheid tijd voor iedere combinatie.
+3. Draai het algoritme meerdere keren binnen een vaste hoeveelheid tijd of iteraties voor iedere combinatie.
 4. Kies uiteindelijk voor de combinatie die de beste score oplevert.
 
 Wees hier praktisch en kijk voor het tunen goed op de klok. Bereken hoeveel tijd je wilt besteden, en verdeel deze tijd over de combinaties. Hierbij heb je natuurlijk de afweging hoeveel combinaties je wilt proberen en hoeveel tijd je iedere combinatie kunt gunnen.
@@ -59,7 +59,7 @@ Eventueel zou je ook gebruik kunnen maken van Python's [multiprocessing module](
 
 ### Tijd
 
-Voor de problemen in deze cases zijn we op zoek naar een zo goed mogelijke oplossing. Als een algoritme die oplossing kan vinden voor het einde van het vak, maakt de tijd eigenlijk niet uit.
+Voor de problemen in deze cases zijn we op zoek naar een zo goed mogelijke oplossing. Als een algoritme die oplossing kan vinden vóór het einde van het vak, maakt de tijd eigenlijk niet uit.
 
 Als voorbeeld, denk hierbij aan het maken van lesroosters voor de UvA. Ieder semester wordt er een rooster ontwikkeld. Bij het ontwikkelen van dit rooster is het alleen belangrijk dat er een goed rooster wordt afgeleverd voor het volgende semester. Of het algoritme daar secondes over doet, of maanden, dat maakt dan niet zo gek veel uit. Zolang de oplossing er maar is binnen een half jaar.
 
@@ -67,7 +67,7 @@ Ook bij programmeertheorieprojecten is de tijd eindig. Binnenkort sta je te pres
 
 We rekenen algoritmen voor dit soort cases dan ook niet zozeer af op de run-time, de hoeveelheid tijd die het algoritme gebruikt voor één run. Maar op de mogelijkheid om een goede oplossing te vinden binnen een gezette tijd. Een algoritme is in deze context beter als het een betere oplossing kan vinden binnen dezelfde tijd als een ander algoritme.
 
-Hou bij het vergelijken van algoritmen daarom de tijd constant. Het liefst hou je hier ook de computer constant, zodat het hebben van bijvoorbeeld een snellere processor geen invloed heeft. In praktijk is dit vaak lastig, omdat je veel experimenten gaat draaien. Kies je dan om verschillende computers te gebruiken, benoem dan altijd op welke hardware het algoritme heeft gedraaid.
+Hou bij het vergelijken van algoritmen daarom de tijd of het aantal iteraties constant. Het liefst hou je hier ook de computer constant, zodat het hebben van bijvoorbeeld een snellere processor geen invloed heeft. In praktijk is dit vaak lastig, omdat je veel experimenten gaat draaien. Kies je dan om verschillende computers te gebruiken, benoem dan altijd op welke hardware het algoritme heeft gedraaid.
 
 ### Iteraties
 
@@ -91,7 +91,7 @@ Let wel, de kans is groot dat het algoritme niet compleet willekeurig een state 
 
 Voor sommige cases kan je de best mogelijke score beredeneren. Of die oplossing met die score ook haalbaar is, dat is de vraag. Wel geeft dit je een ander punt om mee te vergelijken, namelijk hoe ver zitten de gevonden oplossingen van de beste score af.
 
-Bij het berederen van dit theoretisch optimum is het belangrijk dat er nooit wordt onderschat als het gaat om het vinden van een maximum score, of overschat als de case draait om het vinden van een minimum score. Het moet onmogelijk zijn om een betere score te kunnen vinden.
+Bij het beredeneren van dit theoretisch optimum is het belangrijk dat er nooit wordt onderschat als het gaat om het vinden van een maximum score, of overschat als de case draait om het vinden van een minimum score. Het moet onmogelijk zijn om een betere score te kunnen vinden.
 
 #### Analyseer de structuur van de gevonden oplossingen zelf
 
