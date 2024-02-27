@@ -4,7 +4,7 @@ Voor dit vak ga je samen programmeren en dan loont het om ervoor te zorgen dat i
 
 > Heb je de minor Programmeren gedaan? Dan is de kans groot dat je _al_ het onderstaande al hebt geïnstalleerd.
 
-> Heb je de minor AI gedaan? Dan heb je al een editor, pip/conda, python, en git.
+> Heb je de minor AI gedaan? Dan heb je al een editor, pip/conda, python, en git, maar nog geen check50.
 
 Effectief ga je straks vijf dingen installeren, mocht je deze nog niet hebben:
 
