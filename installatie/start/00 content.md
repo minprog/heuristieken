@@ -2,7 +2,7 @@
 
 Voor dit vak ga je samen programmeren en dan loont het om ervoor te zorgen dat iedereen dezelfde programma's gebruikt en kan gebruiken. Daarom vind je op deze pagina's instructies voor het opzetten van een werkomgeving voor dit vak.
 
-> Heb je de minor programmeren gedaan, dan is de kans groot dat je al het onderstaande al hebt geïnstalleerd.
+> Heb je de minor Programmeren gedaan? Dan is de kans groot dat je _al_ het onderstaande al hebt geïnstalleerd.
 
 > Heb je de minor AI gedaan? Dan heb je al een editor, pip/conda, python, en git.
 
