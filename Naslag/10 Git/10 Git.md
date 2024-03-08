@@ -1,6 +1,6 @@
 # Git
 
-[Heb je deze pagina al gelezen, maar wil je snel even kijken wat er ook alweer allemaal was? Gebruik dan de Git cheatsheet!](https://education.github.com/git-cheat-sheet-education.pdf)
+[Heb je deze pagina al gelezen, maar wil je snel even kijken welke git commandos er ook alweer allemaal waren? Gebruik dan de Git cheatsheet!](https://education.github.com/git-cheat-sheet-education.pdf)
 
 Git is een systeem om de broncode van softwareprojecten te beheren. Er zijn twee belangrijke redenen om zo'n speciaal systeem te gebruiken:
 
@@ -24,13 +24,28 @@ Om Git te kunnen gebruiken op je computer, zijn er een aantal commando's op de c
 
 3. Zodra de groeps-repository aangemaakt is, klik op "Settings -> Manage access". Hier kan de eigenaar van de repository (degene die het aangemaakt heeft) instellen wie er toegang heeft om veranderingen te mogen maken aan de repository met de knop "Invite a collaborator". Voeg alle andere groepsleden toe d.m.v. hun gebruikersnaam.
 
-4. Ieder groepslid kan nu een terminal openen en navigeren naar de folder waar ze hun project willen opslaan. Op de hoofdpagina van jullie repository staat een knop waar "Code" op staat. Als je hier op drukt komt er een link tevoorschijn die lijkt op: `https://github.com/<gebruikersnaam>/<teamnaam>.git`. Kopieer deze en gebruik het volgende commando, waar je `<link>` vervangt door de link die je zojuist gekopieerd hebt:
+4. Ieder groepslid kan nu een terminal openen en navigeren naar de folder waar ze hun project willen opslaan. Op de hoofdpagina van jullie repository staat een knop waar "Code" op staat. Als je hier op drukt staan er onder het woord "Clone" drie tabjes, druk op "SSH". Nu komt er als het goed is een link tevoorschijn die lijkt op: `git@github.com:<gebruikersnaam>/<teamnaam>.git`. Kopieer deze link en gebruik het volgende commando, waar je `<link>` vervangt door de link die je zojuist gekopieerd hebt:
 
     `git clone <link>`
 
 Hiermee zou de git repository naar de computer gedownload moeten worden. De repository kan nu worden gebruikt alsof het een folder is op je computer.
 
 > **LET OP: Als je op enig moment niet zeker weet hoe je verder moet, terug wilt naar een eerdere versie van je code, of andere problemen hebt met Git, neem dan contact op met een van de ervaren TAs of docenten van dit vak. Het gebruik van commandos die je vindt op Stackoverflow of Google kunnen onherstelbare effecten hebben, en resulteren in een hoop verloren werk.**
+
+## SSH instellen
+
+Voor de meeste acties die interactie vereisen met de GitHub servers is het nodig om jezelf via de terminal te identificeren. GitHub staat sinds 13 augustus 2021 niet meer toe dat je dit doet middels je gebruikersnaam en wachtwoord. Om dit toch mogelijk te maken is het nodig om een SSH key aan te maken, en deze bij GitHub te registreren.
+
+> SSH (Secure Shell) is een protocol dat wordt gebruikt voor het veilig communiceren over een netwerk.
+
+1. Voer om een SSH key aan te maken in een terminal het volgende commando uit: `ssh-keygen`. Wanneer je een prompt krijgt om de key ergens op te slaan, druk op Enter. Hiermee sla je de key op op de standaard locatie.
+2. Je wordt nu gevraagd of je de een wachtwoord wilt invullen voor het gebruik van je SSH key. Druk ook hier gewoon op Enter. Je krijgt nu als het goed is een "randomart" plaatje wat je kunt negeren.
+3. Voer nu het volgende uit in een terminal: `cat ~/.ssh/id_rsa.pub`. Dit laat je "openbare sleutel" op het scherm zien; een reeks regels met willekeurige karakters. Selecteer deze regels, en kopieer ze. Let er op dat je de prompts van je terminal (met $) niet mee kopieert!
+4. Ga naar https://github.com/settings/keys en log in met je GitHub gegevens.
+5. Klik op "New SSH Key" en plak je public SSH key in het tekstvak onder "Key". Eventueel kan je ook een titel invoeren, zoals "Minor". Klik daarna op "Add SSH Key".
+6. Voer in de terminal het volgende uit: `ssh -T git@ssh.github.com -p 443`. Je wordt nu gevraagd of je verbinding wilt maken met Git, waarop je "yes" intypt en op Enter drukt. Als het goed is zie je nu: `Hi <USERNAME>! You've successfully authenticated, but GitHub does not provide shell access.`
+
+Je zou nu gebruik moeten kunnen maken van Git zonder dat je iedere keer je gebruikersnaam en wachtwoord hoeft in te vullen!
 
 ## Git gebruiken
 
