@@ -17,13 +17,13 @@ Tijdens het vak heb je contact met twee mentoren (TAs) die je gedurende het vak 
 
 Het is belangrijk om zoveel mogelijk aanwezig te zijn. Zo kan je niet alleen met andere teams spreken en andersom, maar ook kan de assistentie je zo ongevraagd helpen. Contact en uitwisseling van ideeën is een belangrijk onderdeel van het vak!
 
-Voor kleine vragen over de opzet van het vak of de regels kan je bij je mentoren terecht. Voor uitzonderingen of speciale gevallen moet je altijd contact opnemen met de docenten van het vak. Dat doe je via een mail naar help@mprog.nl.
+Voor kleine vragen over de opzet van het vak of de regels kan je bij je mentoren terecht. Voor uitzonderingen of speciale gevallen moet je altijd contact opnemen met de docenten van het vak. Dat doe je via een mail naar <help@mprog.nl>.
 
 ## Voorkennis
 
 Programmeren 1 en Programmeren 2, of Python for Data Processing en Data Processing and Representations, moet je helemaal gehaald hebben vóór je deze cursus start.
 Eventuele alternatieven worden per geval beoordeeld door de docent.
-Weet je het niet helemaal zeker, neem dan contact op via een mail naar help@mprog.nl.
+Weet je het niet helemaal zeker, neem dan contact op via een mail naar <help@mprog.nl>.
 
 ## Verwachtingen
 
@@ -58,14 +58,14 @@ Je kiest samen met je team voor een case via [deze pagina](/milestones/case).
 
 Om jullie goed op gang te helpen bij het project hebben we een reeks milestones. Van ieder van deze milestones wordt verwacht dat je ze gedurende het project afrond. De milestones en hun deadlines zijn:
 
-- [Case kiezen](/milestones/case) (maandag 3 juni 17:00)
-- [State space](/milestones/state_space) (woensdag 5 juni 13:00)
-- [Representatie](/milestones/representation) (vrijdag 7 juni 17:00)
-- [Baseline](/milestones/baseline) (donderdag 13 juni 17:00)
-- [Plan individueel onderdeel](/milestones/individueel_onderdeel) (vrijdag 14 juni 17:00)
-- [Inleveren individueel onderdeel](/milestones/individueel_onderdeel2) (vóór vrijdag 21 juni 17:00)
-- [Experiment](/milestones/experiment) (dinsdag 25 juni 23:59)
-- [Oplevering](/milestones/deliverable) (woensdag 26 juni 23:59)
+- [Case kiezen](/milestones/case) (maandag 2 juni 17:00)
+- [State space](/milestones/state_space) (woensdag 4 juni 13:00)
+- [Representatie](/milestones/representation) (vrijdag 6 juni 17:00)
+- [Baseline](/milestones/baseline) (vrijdag 13 juni 17:00)
+- [Plan individueel onderdeel](/milestones/individueel_onderdeel) (vrijdag 13 juni 17:00)
+- [Inleveren individueel onderdeel](/milestones/individueel_onderdeel2) (vóór vrijdag 20 juni 17:00)
+- [Experiment](/milestones/experiment) (dinsdag 24 juni 23:59)
+- [Oplevering](/milestones/deliverable) (woensdag 25 juni 23:59)
 
 
 De links wijzen naar pagina's met en uitgebreide beschrijving van de milestones. Deze informatie en de deadlines zijn ook te vinden in de weekplanning.
@@ -128,7 +128,7 @@ _Laat zien wat je hebt geleerd._
 Aan het einde van het vak presenteer je met je hele groepje over de case waar je aan gewerkt hebt.
 Het is de bedoeling dat de presentatie alle milestones van het project tot één geheel brengt. Concreet moet de presentatie daarom bestaan uit een inleiding, uitleg over de oplossingsruimte, een beschrijving van gebruikte methoden, resultaten en de vergelijking hiervan, en tot slot een discussie.
 
-Voor een uitgebreide uitleg over de eindpresentatie zie [deze pagina](/milestones/presentation). De presentatiesessies vinden plaats op donderdag 27 en vrijdag 28 juni.
+Voor een uitgebreide uitleg over de eindpresentatie zie [deze pagina](/milestones/presentation). De presentatiesessies vinden plaats op donderdag 26 en vrijdag 27 juni.
 
 #### Technische beschrijving
 
@@ -136,7 +136,7 @@ _Laat zien wat je hebt gedaan._
 
 Tijdens het vak zal ieder individu in de groep een eigen onderdeel uit het project uitwerken. Het individuele deel bepaald deels je cijfer, en moet gedurende het project besproken worden met je mentoren. Na het behalen van de "baseline" milestone bespreekt ieder individu in de groep met de mentoren wat voor een onderdeel uit het project diegene gaat uitwerken. Dit kan bijvoorbeeld het uitwerken en programmeren van een visualisatie, een specifiek algoritme, een specifiek experiment, of een grote verbetering van de door de groep gebruikte probleemrepresentatie zijn. Hier maak je eerst een beschrijving van, die goedgekeurd moet worden door je mentoren.
 
-Voor meer informatie over de technische beschrijving, zie [de milestonepagina](/milestones/individueel_onderdeel). De uiterste deadline hiervoor is vrijdag 21 juni 17:00. Natuurlijk kan je het ook eerder inleveren als je klaar bent.
+Voor meer informatie over de technische beschrijving, zie [de milestonepagina](/milestones/individueel_onderdeel). De uiterste deadline hiervoor is vrijdag 20 juni 17:00. Natuurlijk kan je het ook eerder inleveren als je klaar bent.
 
 ## Kalender
 
@@ -146,14 +146,15 @@ In de tabel hieronder kan je zien wanneer de colleges zijn en de grote lijnen va
 | Week | | Onderdeel |
 | ---: | ------------------------------------------ | -------------------------------------------------------------- |
 | 1 | Interpretatie van de case | Maandag  9 uur: Openingscollege |
-| | | Dinsdag 13 uur: College over problemen |
+| | | Dinsdag 15 uur: College over problemen |
+| | | Donderdag 15 uur: Live coding college |
+| | | Vrijdag 9 uur: College over zoekalgoritmen |
+| ---- + ------------------------------------------ + -------------------------------------------------------------- |
+| 2 | Een baseline zetten | Woensdag 15 uur: College over optimalisatie-algoritmen |
+| | | |
 | | | Donderdag 15 uur: Live coding college |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
-| 2 | Een baseline zetten | Maandag 9 uur: College over zoekalgoritmen |
-| | | Dinsdag 13 uur: College over optimalisatie-algoritmen |
-| | | Donderdag 15 uur: Live coding college |
-| ---- + ------------------------------------------ + -------------------------------------------------------------- |
-| 3 | Algoritmen & resultaten | Maandag 9 uur: College over experimenteren |
+| 3 | Algoritmen & resultaten | Maandag 15 uur: College over experimenteren |
 | | | Woensdag: Oefenpresentaties |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
 | 4 | Vergelijken & presenteren | Vrijdag: Eindpresentaties |
