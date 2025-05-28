@@ -13,7 +13,7 @@ Je docenten zijn Bas Terwijn, Jelle van Assema, en Wouter Vrielink.
 
 ## Contact
 
-Tijdens het vak heb je contact met twee mentoren (TAs) die je gedurende het vak begeleiden. Je spreekt ze wekelijks tijdens ingeplande voortgangsgesprekken. Daarnaast is er iedere middag assistentie beschikbaar. Daarvoor kan je een vraag stellen via de assistentieknop op de website.
+Tijdens het vak heb je contact met twee mentoren (TAs) die je gedurende het vak begeleiden. Je spreekt ze wekelijks tijdens ingeplande voortgangsgesprekken. Daarnaast is er iedere dag assistentie beschikbaar. Daarvoor kan je een vraag stellen via de assistentieknop op de website.
 
 Het is belangrijk om zoveel mogelijk aanwezig te zijn. Zo kan je niet alleen met andere teams spreken en andersom, maar ook kan de assistentie je zo ongevraagd helpen. Contact en uitwisseling van ideeën is een belangrijk onderdeel van het vak!
 
