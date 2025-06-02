@@ -20,9 +20,9 @@ Om Git te kunnen gebruiken op je computer, zijn er een aantal commando's op de c
 
 1. Ieder groepslid begint door een account aan te maken op [GitHub](https://github.com/). Als je deze al hebt, gebruik die dan.
 
-2. Na het inloggen, gebruikt **één** van de groepsleden de [New repository](https://github.com/new)-knop om een nieuwe repository voor de gehele groep aan te maken. Bedenk een leuke naam voor jullie groep, die je dan ook direct kan gebruiken als naam voor jullie repository. Selecteer hier `Public`, zodat we later bij het nakijken direct toegang hebben tot jullie code. Klik ook op de vinkjes voor "Add a README file" en "Add .gitignore". Selecteer Python voor je `.gitignore`-template. Dit zorgt ervoor dat er geen onnodige files worden opgeslagen in je repository. Klik daarna op "Create repository" om het process af te ronden.
+2. Na het inloggen, start **één** van de groepsleden met het aanmaken van een nieuw **Team** via [GitHub classroom](https://classroom.github.com/a/S4BFz-pG). Bedenk een leuke naam voor jullie groep, die je dan ook direct kan gebruiken als naam voor jullie repository.
 
-3. Zodra de groeps-repository aangemaakt is, klik op "Settings -> Manage access". Hier kan de eigenaar van de repository (degene die het aangemaakt heeft) instellen wie er toegang heeft om veranderingen te mogen maken aan de repository met de knop "Invite a collaborator". Voeg alle andere groepsleden toe d.m.v. hun gebruikersnaam.
+3. De overige leden volgen nu ook de link naar [Github Classroom](https://classroom.github.com/a/S4BFz-pG) en klikken op **Join** bij jullie eigen team. Zij krijgen dan ook toegang tot de repository.
 
 4. Ieder groepslid kan nu een terminal openen en navigeren naar de folder waar ze hun project willen opslaan. Op de hoofdpagina van jullie repository staat een knop waar "Code" op staat. Als je hier op drukt staan er onder het woord "Clone" drie tabjes, druk op "SSH". Nu komt er als het goed is een link tevoorschijn die lijkt op: `git@github.com:<gebruikersnaam>/<teamnaam>.git`. Kopieer deze link en gebruik het volgende commando, waar je `<link>` vervangt door de link die je zojuist gekopieerd hebt:
 
