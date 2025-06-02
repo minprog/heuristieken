@@ -1,4 +1,4 @@
 name: case
 group: true
 form: true
-repo_url: "https://github\.com/minprog-platforms/[A-Za-z0-9_.-]+"
+url: "https://github\.com/minprog-platforms/[A-Za-z0-9_.-]+"
