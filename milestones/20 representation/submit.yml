@@ -1,2 +1,6 @@
 name: representation
-url: true
+# url: true
+git_repo:
+    placeholder: https://github.com/minprog-platforms/...
+    pattern: "https://github\\.com/minprog-platforms/[A-Za-z0-9_.-]+"
+    group: true
