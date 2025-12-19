@@ -1,6 +1,6 @@
 # Algoritmen en Heuristieken<br><small>a.k.a. Heuristieken</small>
 
-## Studiewijzer, winter 2025
+## Studiewijzer, winter 2026
 
 Deze cursus is de afsluiting van de Minor Programmeren en de Minor Artificial Intelligence.
 Na vele maanden ervaring opdoen met programmeren, met object-georiënteerd programmeren en met problem solving, komt hier alles samen.
@@ -59,14 +59,14 @@ Je kiest samen met je team voor een case via [deze pagina](/milestones/case).
 
 Om jullie goed op gang te helpen bij het project hebben we een reeks milestones. Van ieder van deze milestones wordt verwacht dat je ze gedurende het project afrond. De milestones en hun deadlines zijn:
 
-- [Case kiezen](/milestones/case) (maandag 6 januari 17:00)
-- [State space](/milestones/state_space) (woensdag 8 januari 13:00)
-- [Representatie](/milestones/representation) (vrijdag 10 januari 17:00)
-- [Baseline](/milestones/baseline) (donderdag 16 januari 17:00)
-- [Plan individueel onderdeel](/milestones/individueel_onderdeel) (vrijdag 17 januari 17:00)
-- [Inleveren individueel onderdeel](/milestones/individueel_onderdeel2) (vóór vrijdag 24 januari 17:00)
-- [Experiment](/milestones/experiment) (dinsdag 28 januari 23:59)
-- [Oplevering](/milestones/deliverable) (woensdag 29 januari 23:59)
+- [Case kiezen](/milestones/case) (maandag 5 januari 17:00)
+- [State space](/milestones/state_space) (woensdag 7 januari 13:00)
+- [Representatie](/milestones/representation) (vrijdag 9 januari 17:00)
+- [Baseline](/milestones/baseline) (donderdag 15 januari 17:00)
+- [Plan individueel onderdeel](/milestones/individueel_onderdeel) (vrijdag 16 januari 17:00)
+- [Inleveren individueel onderdeel](/milestones/individueel_onderdeel2) (vóór vrijdag 23 januari 17:00)
+- [Experiment](/milestones/experiment) (dinsdag 27 januari 23:59)
+- [Oplevering](/milestones/deliverable) (woensdag 28 januari 23:59)
 
 De links wijzen naar pagina's met en uitgebreide beschrijving van de milestones. Deze informatie en de deadlines zijn ook te vinden in de weekplanning.
 
@@ -119,7 +119,7 @@ Deze repository moet tenminste je eindproduct, een README, een equivalent aan ee
 De link naar deze repository geef je aan het begin van het vak aan je TA.
 Een voorbeeld van hoe je je GitHub repository op zou kunnen zetten vind je [hier](https://github.com/minprog/voorbeeld-repo).
 
-Voor alle informatie, zie de [oplevering van het eindproduct](/milestones/deliverable). De deadline voor het inleveren hiervan is woensdag 29 januari 23:59.
+Voor alle informatie, zie de [oplevering van het eindproduct](/milestones/deliverable). De deadline voor het inleveren hiervan is woensdag 28 januari 23:59.
 
 #### Presentatie
 
@@ -128,7 +128,7 @@ _Laat zien wat je hebt geleerd._
 Aan het einde van het vak presenteer je met je hele groepje over de case waar je aan gewerkt hebt.
 Het is de bedoeling dat de presentatie alle milestones van het project tot één geheel brengt. Concreet moet de presentatie daarom bestaan uit een inleiding, uitleg over de oplossingsruimte, een beschrijving van gebruikte methoden, resultaten en de vergelijking hiervan, en tot slot een discussie.
 
-Voor een uitgebreide uitleg over de eindpresentatie zie [deze pagina](/milestones/presentation). De presentatiesessies vinden plaats op donderdag 30 januari en vrijdag 31 januari. In de derde week van het vak doen we op de woensdag oefenpresentaties.
+Voor een uitgebreide uitleg over de eindpresentatie zie [deze pagina](/milestones/presentation). De presentatiesessies vinden plaats op donderdag 29 januari en vrijdag 30 januari. In de derde week van het vak doen we op de woensdag oefenpresentaties.
 
 #### Technische beschrijving
 
@@ -136,7 +136,7 @@ _Laat zien wat je hebt gedaan._
 
 Tijdens het vak zal ieder individu in de groep een eigen onderdeel uit het project uitwerken. Het individuele deel bepaald deels je cijfer, en moet gedurende het project besproken worden met je mentoren. Na het behalen van de "baseline" milestone bespreekt ieder individu in de groep met de mentoren wat voor een onderdeel uit het project diegene gaat uitwerken. Dit kan bijvoorbeeld het uitwerken en programmeren van een visualisatie, een specifiek algoritme, een specifiek experiment, of een grote verbetering van de door de groep gebruikte probleemrepresentatie zijn. Hier maak je eerst een beschrijving van, die goedgekeurd moet worden door je mentoren.
 
-Voor meer informatie over de technische beschrijving, zie [de milestonepagina](/milestones/individueel_onderdeel). De uiterste deadline hiervoor is vrijdag 24 januari om 17:00. Natuurlijk kan je het ook eerder inleveren als je klaar bent.
+Voor meer informatie over de technische beschrijving, zie [de milestonepagina](/milestones/individueel_onderdeel). De uiterste deadline hiervoor is vrijdag 23 januari om 17:00. Natuurlijk kan je het ook eerder inleveren als je klaar bent.
 
 ## Kalender
 
@@ -147,13 +147,13 @@ In de tabel hieronder kan je zien wanneer de colleges zijn en de grote lijnen va
 | ---: | ------------------------------------------ | -------------------------------------------------------------- |
 | 1 | Interpretatie van de case | Maandag 9 uur: Openingscollege |
 | | | Dinsdag 13 uur: College over problemen |
-| | | Donderdag 15 uur: Live coding college |
+| | | Donderdag 9 uur: Live coding college |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
-| 2 | Een baseline zetten | Maandag 13 uur: College over zoekalgoritmen |
+| 2 | Een baseline zetten | Maandag 15 uur: College over zoekalgoritmen |
 | | | Dinsdag 13 uur: College over optimalisatie-algoritmen |
 | | | Donderdag 15 uur: Live coding college |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
-| 3 | Algoritmen & resultaten | Maandag 13 uur: College over experimenteren |
+| 3 | Algoritmen & resultaten | Maandag 11 uur: College over experimenteren |
 | | | Woensdag: Oefenpresentaties |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
 | 4 | Vergelijken & presenteren | Donderdag & Vrijdag: Eindpresentaties |

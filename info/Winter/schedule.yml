@@ -20,7 +20,7 @@ Week 1:
   Live colleges:
     "Opening (maandag 9:00 - 11:00)": /lectures/opening
     "Problemen (dinsdag 13:00 - 15:00)": /lectures/problemen
-    "Live coding (donderdag 15:00 - 17:00)": /lectures/live_coding_1
+    "Live coding (donderdag 9:00 - 11:00)": /lectures/live_coding_1
   Milestones:
     "Case & Teamnaam kiezen (maandag 17:00)": /milestones/case
     "State space (woensdag 13:00)": /milestones/state_space
@@ -31,7 +31,7 @@ Week 1:
     "Markdown": /naslag/markdown
 Week 2:
   Live colleges:
-    "Constructieve algoritmen (maandag 13:00 - 15:00)": /lectures/zoekalgoritmen
+    "Constructieve algoritmen (maandag 15:00 - 17:00)": /lectures/zoekalgoritmen
     "Iteratieve algoritmen (dinsdag 13:00 - 15:00)": /lectures/optimalisatie_algoritmen
     "Live coding (donderdag 15:00 - 17:00)": /lectures/live_coding_2
   Milestones:
@@ -39,9 +39,9 @@ Week 2:
     "Plan individueel onderdeel (vrijdag 17:00)": /milestones/individueel_onderdeel
 Week 3:
   Live colleges:
-    "Experimenteren (maandag 13:00 - 15:00)": /lectures/experimenteren
+    "Experimenteren (maandag 11:00 - 13:00)": /lectures/experimenteren
   Milestones:
-    "Oefenpresentatie (woensdag)": "/lectures/oefenpresentatie"
+    "Oefenpresentatie (woensdag en donderdag)": "/lectures/oefenpresentatie"
     "inleveren individueel onderdeel (vrijdag 17:00)": /milestones/individueel_onderdeel2
 Week 4:
   Milestones:
