@@ -20,7 +20,7 @@ Om Git te kunnen gebruiken op je computer, zijn er een aantal commando's op de c
 
 1. Ieder groepslid begint door een account aan te maken op [GitHub](https://github.com/). Als je deze al hebt, gebruik die dan.
 
-2. Na het inloggen, start **één** van de groepsleden met het aanmaken van een nieuw **Team** via [GitHub classroom](https://classroom.github.com/a/S4BFz-pG). Bedenk een leuke naam voor jullie groep, die je dan ook direct kan gebruiken als naam voor jullie repository.
+2. Na het inloggen, start **één** van de groepsleden met het aanmaken van een nieuw **Team** via [GitHub classroom](https://classroom.github.com/a/10f1qRyq). Bedenk een leuke naam voor jullie groep, die je dan ook direct kan gebruiken als naam voor jullie repository.
 
 3. De overige leden volgen nu ook de link naar [Github Classroom](https://classroom.github.com/a/10f1qRyq) en klikken op **Join** bij jullie eigen team. Zij krijgen dan ook toegang tot de repository.
 
