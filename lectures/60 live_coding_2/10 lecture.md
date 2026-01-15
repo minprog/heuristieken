@@ -14,4 +14,4 @@ In de volgende GitHub repository vind je de code van dit college: [github.com/mi
 
 ### Linkje!
 
-<https://prod.liveshare.vsengsaas.visualstudio.com/join?925B8CECAC993B1B87911A34BB00E9F50D25>
+<https://prod.liveshare.vsengsaas.visualstudio.com/join?A48FC87D7F6CCC957E839537CA6EE6EF534E>
