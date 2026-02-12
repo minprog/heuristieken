@@ -40,12 +40,28 @@ Game #6
 Game #7  
 ![](Rushhour12x12_1.jpg)
 
+Game #8: "De Hamburger"
+
+![](Rushhour12x12_2.png)
+
+Game #9: "Just one more move"
+
+![](Rushhour12x12_3.png)
 
 ## Advanced
 
 {:start="4"}
-4. Maak random Rush Hour borden en probeer ze op te lossen met je algoritmen.
-5. Probeer te achterhalen wat het verschil is tussen een moeilijke rushhour-opgave en een even grote makkelijk rushhour opgave.
+4. Los deze 15x15 puzzel op.
+
+Game #10
+
+![](Rushhour15x15_1.png)
+
+## Very Advanced
+
+{:start="5"}
+5. Maak Rush Hour borden en probeer ze op te lossen met je algoritmen.
+6. Probeer te achterhalen wat het verschil is tussen een moeilijke rushhour-opgave en een even grote makkelijk rushhour opgave.
 Ook aantonen waar de moeilijkheid **niet** aan ligt is waardevol.
 
 ## Input
