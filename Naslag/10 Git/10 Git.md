@@ -105,9 +105,9 @@ Je zou nu gebruik moeten kunnen maken van GitHub via SSH zonder iedere keer je g
 
 Nu Git en SSH goed ingesteld zijn, kunnen jullie de repository aanmaken en downloaden.
 
-1. Na het inloggen start **één** van de groepsleden met het aanmaken van een nieuw **Team** via [GitHub Classroom](https://classroom.github.com/a/10f1qRyq). Bedenk een leuke naam voor jullie groep, die je dan ook direct kunt gebruiken als naam voor jullie repository.
+1. Na het inloggen start **één** van de groepsleden met het aanmaken van een nieuw **Team** via [GitHub Classroom TODO](). Bedenk een leuke naam voor jullie groep, die je dan ook direct kunt gebruiken als naam voor jullie repository.
 
-2. De overige leden volgen nu ook de link naar [GitHub Classroom](https://classroom.github.com/a/10f1qRyq) en klikken op **Join** bij jullie eigen team. Zij krijgen dan ook toegang tot de repository.
+2. De overige leden volgen nu ook de link naar [GitHub Classroom TODO]( en klikken op **Join** bij jullie eigen team. Zij krijgen dan ook toegang tot de repository.
 
 3. Ieder groepslid opent nu een terminal en navigeert naar de folder waar diegene het project wil opslaan. Op de hoofdpagina van jullie repository staat een knop waar **Code** op staat. Als je hierop drukt, staan er onder het woord **Clone** drie tabjes. Druk op **SSH**. Nu komt er als het goed is een link tevoorschijn die lijkt op:
 
