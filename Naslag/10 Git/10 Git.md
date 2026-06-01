@@ -29,8 +29,8 @@ Git is al geïnstalleerd op de computers die je voor dit vak gebruikt. Voordat j
 Open een terminal en voer eerst de volgende commando's uit. Vervang de naam en het e-mailadres door je eigen gegevens:
 
 ```bash
-git config --global user.name "Voornaam Achternaam"
-git config --global user.email "jouw-email@example.com"
+    git config --global user.name "Voornaam Achternaam"
+    git config --global user.email "jouw-email@example.com"
 ```
 
 Deze gegevens worden gebruikt om bij te houden wie welke wijzigingen heeft gemaakt.
