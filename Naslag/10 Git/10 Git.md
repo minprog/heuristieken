@@ -95,11 +95,11 @@ Nu Git en SSH goed ingesteld zijn, kunnen jullie de repository aanmaken en downl
 
 3. Ieder groepslid opent nu een terminal en navigeert naar de folder waar diegene het project wil opslaan. Op de hoofdpagina van jullie repository staat een knop waar **Code** op staat. Als je hierop drukt, staan er onder het woord **Clone** drie tabjes. Druk op **SSH**. Nu komt er als het goed is een link tevoorschijn die lijkt op:
 
-   git@github.com:<gebruikersnaam>/<teamnaam>.git
+       git@github.com:<gebruikersnaam>/<teamnaam>.git
 
    Kopieer deze link en gebruik het volgende commando, waarbij je `<link>` vervangt door de link die je zojuist gekopieerd hebt:
 
-   git clone <link>
+       git clone <link>
 
 Hiermee wordt de Git-repository naar je computer gedownload. De repository kan nu worden gebruikt alsof het een gewone folder op je computer is.
 
