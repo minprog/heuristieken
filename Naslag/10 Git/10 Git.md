@@ -28,10 +28,8 @@ Git is al geïnstalleerd op de computers die je voor dit vak gebruikt. Voordat j
 
 Open een terminal en voer eerst de volgende commando's uit. Vervang de naam en het e-mailadres door je eigen gegevens:
 
-    ```bash
     git config --global user.name "Voornaam Achternaam"
     git config --global user.email "jouw-email@example.com"
-    ```
 
 Deze gegevens worden gebruikt om bij te houden wie welke wijzigingen heeft gemaakt.
 
@@ -39,17 +37,13 @@ Daarna stellen we in dat Git een eenvoudige editor gebruikt. Dit voorkomt dat Gi
 
 Voer daarom het volgende commando uit:
 
-    ```bash
     git config --global core.editor "nano"
-    ```
 
 Nano is een eenvoudige editor die in de terminal opent. Als Git later een bericht wil laten aanpassen, bijvoorbeeld bij een merge commit, kun je in Nano opslaan met `Ctrl+O`, daarna op Enter drukken, en afsluiten met `Ctrl+X`.
 
 Tot slot stellen we in hoe Git standaard moet omgaan met `git pull` wanneer jouw lokale versie en de online versie allebei nieuwe commits hebben. Voor deze cursus gebruiken we de simpele standaard waarbij Git probeert de versies samen te voegen met een merge:
 
-    ```bash
     git config --global pull.rebase false
-    ```
 
 ## SSH instellen
 
@@ -59,9 +53,7 @@ Voor de meeste acties die interactie vereisen met de GitHub-servers is het nodig
 
 Voer om een SSH-key aan te maken in een terminal het volgende commando uit. Vervang het e-mailadres door het e-mailadres dat je voor GitHub gebruikt:
 
-```bash
-ssh-keygen -t ed25519 -C "jouw-email@example.com"
-```
+    ssh-keygen -t ed25519 -C "jouw-email@example.com"
 
 Wanneer je een prompt krijgt om de key ergens op te slaan, druk op Enter. Hiermee sla je de key op op de standaardlocatie.
 
@@ -69,9 +61,7 @@ Je wordt daarna gevraagd of je een wachtwoord wilt invullen voor het gebruik van
 
 Voer nu het volgende uit in een terminal:
 
-```bash
-cat ~/.ssh/id_ed25519.pub
-```
+    cat ~/.ssh/id_ed25519.pub
 
 Dit laat je openbare sleutel op het scherm zien: een reeks tekens die begint met `ssh-ed25519`. Selecteer en kopieer deze hele regel. Let op dat je de prompt van je terminal, bijvoorbeeld `$`, niet mee kopieert.
 
@@ -81,23 +71,17 @@ Klik op **New SSH key** en plak je public SSH key in het tekstvak onder **Key**.
 
 Test daarna in de terminal of de verbinding werkt:
 
-```bash
-ssh -T git@github.com
-```
+    ssh -T git@github.com
 
 Je wordt mogelijk gevraagd of je verbinding wilt maken met GitHub. Typ dan `yes` en druk op Enter.
 
 Als het goed is zie je nu een bericht zoals:
 
-```text
-Hi <USERNAME>! You've successfully authenticated, but GitHub does not provide shell access.
-```
+    Hi <USERNAME>! You've successfully authenticated, but GitHub does not provide shell access.
 
 Als dit niet werkt, bijvoorbeeld omdat poort 22 geblokkeerd is op het netwerk waar je op zit, probeer dan deze variant:
 
-```bash
-ssh -T git@ssh.github.com -p 443
-```
+    ssh -T git@ssh.github.com -p 443
 
 Je zou nu gebruik moeten kunnen maken van GitHub via SSH zonder iedere keer je gebruikersnaam en wachtwoord in te vullen.
 
@@ -111,15 +95,11 @@ Nu Git en SSH goed ingesteld zijn, kunnen jullie de repository aanmaken en downl
 
 3. Ieder groepslid opent nu een terminal en navigeert naar de folder waar diegene het project wil opslaan. Op de hoofdpagina van jullie repository staat een knop waar **Code** op staat. Als je hierop drukt, staan er onder het woord **Clone** drie tabjes. Druk op **SSH**. Nu komt er als het goed is een link tevoorschijn die lijkt op:
 
-   ```text
    git@github.com:<gebruikersnaam>/<teamnaam>.git
-   ```
 
    Kopieer deze link en gebruik het volgende commando, waarbij je `<link>` vervangt door de link die je zojuist gekopieerd hebt:
 
-   ```bash
    git clone <link>
-   ```
 
 Hiermee wordt de Git-repository naar je computer gedownload. De repository kan nu worden gebruikt alsof het een gewone folder op je computer is.
 
@@ -146,9 +126,7 @@ Er zijn 5 commando's die je moet kennen:
 
   Bijvoorbeeld: als je lokaal een folder hebt aangemaakt die `coole_dingen` heet, met een bestand daarin dat `lees_data.py` heet, kun je dat bestand toevoegen met:
 
-  ```bash
-  git add coole_dingen/lees_data.py
-  ```
+      git add coole_dingen/lees_data.py
 
   Het is ook mogelijk om `git add .` uit te voeren om alle nieuwe bestanden in de huidige folder en subfolders toe te voegen aan de repository.
 
@@ -159,9 +137,7 @@ Er zijn 5 commando's die je moet kennen:
 
   Bijvoorbeeld:
 
-  ```bash
-  git commit -am "Voeg grafiek toe aan analyse"
-  ```
+      git commit -am "Voeg grafiek toe aan analyse"
 
   Gebruik een bericht dat duidelijk uitlegt wat je gedaan hebt. Dat maakt het een stuk makkelijker om oude versies van specifieke stukken code terug te vinden.
 
@@ -176,41 +152,29 @@ En dat is het! Als je lokale veranderingen naar de online Git-repository wilt st
 
 1. Haal eerst de laatste versie op:
 
-   ```bash
-   git pull
-   ```
+       git pull
 
 2. Werk aan je project.
 
 3. Kijk wat er veranderd is:
 
-   ```bash
-   git status
-   ```
+       git status
 
 4. Heb je nieuwe bestanden gemaakt? Voeg die dan toe:
 
-   ```bash
-   git add .
-   ```
+       git add .
 
 5. Sla je veranderingen lokaal op:
 
-   ```bash
-   git commit -am "Beschrijf kort wat je hebt gedaan"
-   ```
+       git commit -am "Beschrijf kort wat je hebt gedaan"
 
 6. Haal eventuele veranderingen van anderen op:
 
-   ```bash
-   git pull
-   ```
+       git pull
 
 7. Stuur jouw veranderingen naar GitHub:
 
-   ```bash
-   git push
-   ```
+       git push
 
 Als je niet zeker weet hoe het op enig moment staat, kun je altijd `git status` gebruiken om te kijken welke bestanden je nog moet toevoegen, of welke veranderingen nog niet opgeslagen zijn.
 
@@ -228,13 +192,11 @@ Je kunt de conflicten niet onopgelost laten. Git wil dat je de conflicten oplost
 
 Als je een bestand met een merge conflict opent in een editor, zul je tenminste één keer, maar soms ook meerdere keren, regels zien die lijken op:
 
-```text
-<<<<<<< HEAD
-Jouw variant van de code
-=======
-De variant van de code die nu online staat
->>>>>>> een boel getallen en letters
-```
+    <<<<<<< HEAD
+    Jouw variant van de code
+    =======
+    De variant van de code die nu online staat
+    >>>>>>> een boel getallen en letters
 
 Ieder stuk code dat tussen de `<<<<<<< HEAD`-regel en de `=======`-regel staat, is de code die je lokaal hebt staan. Alle code die tussen de `=======`-regel en de `>>>>>>>`-regel staat, is code die van de online versie van het bestand komt.
 
@@ -246,23 +208,17 @@ Sla daarna het bestand op.
 
 Vervolgens moet je Git vertellen dat je het conflict hebt opgelost:
 
-```bash
-git add <bestand>
-```
+    git add <bestand>
 
 Daarna maak je een commit:
 
-```bash
-git commit
-```
+    git commit
 
 Git opent nu mogelijk Nano, de editor die je eerder hebt ingesteld. Er staat al een standaardbericht klaar voor de merge commit. Meestal kun je dat bericht gewoon laten staan. Sla op met `Ctrl+O`, druk op Enter, en sluit af met `Ctrl+X`.
 
 Nu kun je je aanpassingen online zetten:
 
-```bash
-git push
-```
+    git push
 
 ## Oefenen met Git
 
