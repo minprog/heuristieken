@@ -28,10 +28,10 @@ Git is al geïnstalleerd op de computers die je voor dit vak gebruikt. Voordat j
 
 Open een terminal en voer eerst de volgende commando's uit. Vervang de naam en het e-mailadres door je eigen gegevens:
 
-```bash
+    ```bash
     git config --global user.name "Voornaam Achternaam"
     git config --global user.email "jouw-email@example.com"
-```
+    ```
 
 Deze gegevens worden gebruikt om bij te houden wie welke wijzigingen heeft gemaakt.
 
@@ -39,17 +39,17 @@ Daarna stellen we in dat Git een eenvoudige editor gebruikt. Dit voorkomt dat Gi
 
 Voer daarom het volgende commando uit:
 
-```bash
-git config --global core.editor "nano"
-```
+    ```bash
+    git config --global core.editor "nano"
+    ```
 
 Nano is een eenvoudige editor die in de terminal opent. Als Git later een bericht wil laten aanpassen, bijvoorbeeld bij een merge commit, kun je in Nano opslaan met `Ctrl+O`, daarna op Enter drukken, en afsluiten met `Ctrl+X`.
 
 Tot slot stellen we in hoe Git standaard moet omgaan met `git pull` wanneer jouw lokale versie en de online versie allebei nieuwe commits hebben. Voor deze cursus gebruiken we de simpele standaard waarbij Git probeert de versies samen te voegen met een merge:
 
-```bash
-git config --global pull.rebase false
-```
+    ```bash
+    git config --global pull.rebase false
+    ```
 
 ## SSH instellen
 
