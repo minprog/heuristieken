@@ -77,7 +77,7 @@ Het behalen van milestones is pass/fail. Bij een fail doe je de milestone opnieu
 Het project wordt beoordeeld op de presentatie en de code. Bij het beoordelen wordt op 3 verschillende onderdelen gelet:
 
 * De kwaliteit van de _code en documentatie_ op GitHub. Dit gaat over decompositie, design en style. Hiervoor lever je per groep de (**public**) GitHub link in.
-* De _eindpresentatie_ waar jullie verschillende algoritmen en hun resultaten voor jullie case vergelijken.
+* De _eindpresentatie_ waar jullie verschillende algoritmen en hun resultaten voor jullie case vergelijken en analyseren.
 * Een individuele bijdrage van code aan het project, op basis van eigen commits in GitHub en aparte _technische beschrijving_ hiervan.
 
 Je cijfer komt volgens de volgende schaal tot stand, waarbij voorgaande onderdelen altijd een voorwaarde zijn van een hoger cijfer:
@@ -85,23 +85,26 @@ Je cijfer komt volgens de volgende schaal tot stand, waarbij voorgaande onderdel
 6. 
 
 * Alle milestones zijn behaald.
+* De slides van de presentatie zijn ingeleverd als `.pdf`
+* **Resultaten** van meerdere experimenten worden gepresenteerd.
+* De experimenten en daaruit voortvloeiende resultaten en grafieken uit de presentatie zijn te reproduceren met de ingeleverde code.
 * Voldoende individueel aantoonbare bijdrage geleverd aan het project. 
-* Resultaten van meerdere experimenten worden gepresenteerd.
 
 7. 
 
-* Significante individuele bijdrage geleverd, inclusief complete technische beschrijving. 
+* Significante individuele bijdrage geleverd, inclusief complete technische beschrijving.
+* De presentatie bevat een **analyse van de behaalde resultaten** in context van de case en/of probleem-instantie.
 * Codebase is voldoende gedocumenteerd.
 
 8. 
 
 * De implementatie van meerdere overlappende projectonderdelen wordt gedeeld in één representatie. Dit gebeurt dmv import, niet door copy-paste en is goed gedocumenteerd. 
-* Een goede inhoudelijke vergelijking van resultaten uit verschillende experimenten wordt gemaakt in de presentatie. 
+* Een goede **inhoudelijke vergelijking** van resultaten uit verschillende experimenten wordt gemaakt in de presentatie. 
 
 9. 
 
 * Alle overlappende delen tussen projectonderdelen worden design-technisch goed gedeeld gerepresenteerd en zijn efficient geïmplementeerd. 
-* De presentatie bevat een analyse van de verschillen tussen algoritmen en/of heuristieken, en het effect daarvan op de resultaten.
+* De presentatie bevat een **analyse van de verschillen** tussen algoritmen en/of heuristieken, en het effect daarvan op de resultaten.
 
 10. 
 
@@ -110,9 +113,24 @@ Je cijfer komt volgens de volgende schaal tot stand, waarbij voorgaande onderdel
 
 > Let op dat je alle milestones moet behalen, een eindpresentatie geeft, en een individuele bijdrage met een technische beschrijving om een voldoende te kunnen krijgen voor het vak.
 
+#### Experimenten
+
+_Zet je algoritmes in op de probleeminstanties van je gekozen case. Verzamel, vergelijk en analyseer de resultaten._
+
+Gedurende het vak implementeer je verschillende algoritmes om je case op te lossen. Dit kunnen bestaande algoritmes zijn uit de colleges en het onderzoeksveld, maar ook eigen creaties of combinaties van beiden. Je hebt hierin vrije keuze. De keuze voor een algoritme moet zinnig zijn. Dat kan door bijvoorbeeld:
+
+* Voort te bouwen op voortschrijdend inzicht. Door bijvoorbeeld een algoritme aan te passen op wat jij leert over de case.
+* Een algoritme uit de literatuur te implementeren om mee te vergelijken. 
+* Of juist contrasterende algoritmes en aanpakken te vergelijken, zoals iteratieve vs constructieve algoritmes.
+
+De algoritmes zet je in op je case. Sommige algoritmes hebben tijd nodig of presteren niet iedere keer even goed. Daarom maak je een experimentele setup waarin je jouw algoritmes draait. Afhankelijk van wat je onderzoekt zal dit verschillen. Bij de verschillende deelcijfers staan de verwachtingen van de experimenten. Let goed op de woorden *analyse* en *inhoudelijke vergelijking*:
+
+* Met *analyse* wordt bedoeld het uiteenzetten en ontleden van een resultaat om zo tot een dieper inzicht te komen.
+* Met *inhoudelijke vergelijking* wordt bedoeld het vergelijken van de resultaten van verschillende algoritmes op een zinnige manier. Zodanig dat er een conclusie kan volgen. Dit houdt ook in dat de resultaten vergelijkbaar gemaakt moeten worden. Denk aan het constant houden van zoveel mogelijk factoren.
+
 #### Code
 
-_Maak je programma’s bruikbaar en begrijpelijk voor de buitenwereld._
+_Maak je experimenten reproduceerbaar, maak je programma’s bruikbaar en begrijpelijk voor de buitenwereld._
 
 Gedurende het vak zal je als groep één GitHub repository gebruiken.
 Deze repository moet tenminste je eindproduct, een README, een equivalent aan een requirements.txt, en je presentatie bevatten.
