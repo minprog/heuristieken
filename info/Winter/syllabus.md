@@ -115,18 +115,18 @@ Je cijfer komt volgens de volgende schaal tot stand, waarbij voorgaande onderdel
 
 #### Experimenten
 
-_Zet je algoritmes in op de probleeminstanties van je gekozen case. Verzamel, vergelijk en analyseer de resultaten._
+_Zet je algoritmen in op de probleeminstanties van je gekozen case. Verzamel, vergelijk en analyseer de resultaten._
 
-Gedurende het vak implementeer je verschillende algoritmes om je case op te lossen. Dit kunnen bestaande algoritmes zijn uit de colleges en het onderzoeksveld, maar ook eigen creaties of combinaties van beiden. Je hebt hierin vrije keuze. De keuze voor een algoritme moet zinnig zijn. Dat kan door bijvoorbeeld:
+Gedurende het vak implementeer je verschillende algoritmen om je case op te lossen. Dit kunnen bestaande algoritmen zijn uit de colleges en het onderzoeksveld, maar ook eigen creaties of combinaties van beiden. Je hebt hierin vrije keuze. De keuze voor een algoritme moet zinnig zijn. Dat kan door bijvoorbeeld:
 
 * Voort te bouwen op voortschrijdend inzicht. Door bijvoorbeeld een algoritme aan te passen op wat jij leert over de case.
 * Een algoritme uit de literatuur te implementeren om mee te vergelijken. 
-* Of juist contrasterende algoritmes en aanpakken te vergelijken, zoals iteratieve vs constructieve algoritmes.
+* Of juist contrasterende algoritmen en aanpakken te vergelijken, zoals iteratieve vs constructieve algoritmen.
 
-De algoritmes zet je in op je case. Sommige algoritmes hebben tijd nodig of presteren niet iedere keer even goed. Daarom maak je een experimentele setup waarin je jouw algoritmes draait. Afhankelijk van wat je onderzoekt zal dit verschillen. Bij de verschillende deelcijfers staan de verwachtingen van de experimenten. Let goed op de woorden *analyse* en *inhoudelijke vergelijking*:
+De algoritmen zet je in op je case. Sommige algoritmen hebben tijd nodig of presteren niet iedere keer even goed. Daarom maak je een experimentele setup waarin je jouw algoritmen draait. Afhankelijk van wat je onderzoekt zal dit verschillen. Bij de verschillende deelcijfers staan de verwachtingen van de experimenten. Let goed op de woorden *analyse* en *inhoudelijke vergelijking*:
 
 * Met *analyse* wordt bedoeld het uiteenzetten en ontleden van een resultaat om zo tot een dieper inzicht te komen.
-* Met *inhoudelijke vergelijking* wordt bedoeld het vergelijken van de resultaten van verschillende algoritmes op een zinnige manier. Zodanig dat er een conclusie kan volgen. Dit houdt ook in dat de resultaten vergelijkbaar gemaakt moeten worden. Denk aan het constant houden van zoveel mogelijk factoren.
+* Met *inhoudelijke vergelijking* wordt bedoeld het vergelijken van de resultaten van verschillende algoritmen op een zinnige manier. Zodanig dat er een conclusie kan volgen. Dit houdt ook in dat de resultaten vergelijkbaar gemaakt moeten worden. Denk aan het constant houden van zoveel mogelijk factoren.
 
 #### Code
 
