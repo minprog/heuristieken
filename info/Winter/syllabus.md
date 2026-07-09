@@ -67,6 +67,7 @@ Om jullie goed op gang te helpen bij het project hebben we een reeks milestones.
 - [Inleveren individueel onderdeel](/milestones/individueel_onderdeel2) (vóór vrijdag 23 januari 17:00)
 - [Experiment](/milestones/experiment) (dinsdag 27 januari 23:59)
 - [Oplevering](/milestones/deliverable) (woensdag 28 januari 23:59)
+- [Presentatie](/milestones/70%20presentation/) (vrijdag 30 januari 23:59)
 
 De links wijzen naar pagina's met en uitgebreide beschrijving van de milestones. Deze informatie en de deadlines zijn ook te vinden in de weekplanning.
 
