@@ -1,0 +1,4 @@
+name: presentation
+files:
+  required:
+    - presentatie.pdf

@@ -35,6 +35,7 @@ mods:
     technische_beschrijving: 0
     technische_beschrijving2: 0
     deliverable: 1
+    presentation: 0
 
 project:
   submits:
