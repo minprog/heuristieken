@@ -19,9 +19,9 @@ Lesroosters, of roosters in het algemeen, zijn buitengewoon lastig goed in te ri
 
 ## Opdracht
 
-1. Rooster alle vakken uit de onderstaande tabel in. Je mag E(studenten) nog even vergeten.
+1. Rooster alle vakken voor Lab42 in. Je mag E(studenten) nog even vergeten.
 
-2. Hou nu wel rekening met E(studenten). Voor iedere student die niet meer in de zaal past krijg je een maluspunt. Hoe minder maluspunten, hoe beter. De grootste zaal heeft ook een avondslot van 17:00-19:00, maar gebruik van het avondslot kost vijf maluspunten.
+2. Hou nu wel rekening met E(studenten). Voor iedere student die niet meer in de zaal past krijg je een maluspunt. Hoe minder maluspunten, hoe beter.
 
 3. Werkcolleges en practica mogen in meerdere groepen gegeven worden. In tegenstelling tot een hoorcollege hoeven daarbij niet alle ingeschreven studenten in één sessie bedeeld te worden. Maak hiervan gebruik om het rooster te verbeteren.
 
@@ -31,9 +31,39 @@ Studenten zien het liefst aaneengesloten activiteiten en zo min mogelijk "tussen
 
 {:start="5"}
 
-5. Een tussenslot voor een student op een dag levert één maluspunt op. Twee tussensloten op één dag voor een student levert drie maluspunten op. Drie tussensloten op één dag is niet toegestaan. De kans op verzuim bij meerdere tussensloten is namelijk aanzienlijk groter dan bij één tussenslot.
+5. Een tussenslot voor een student op een dag levert één maluspunt op. Meer dan één tussenslot is niet toegestaan. De kans op verzuim bij meerdere tussensloten is namelijk aanzienlijk groter dan bij één tussenslot.
+
+6. Maak nu een rooster voor Science Park. Hierbij zijn er twee nieuwe regels:
+    * De grootste zaal heeft nu ook een avondslot van 17:00-19:00, maar gebruik van het avondslot kost vijf maluspunten.
+    * Twee tussensloten zijn toegestaan, maar kosten drie maluspunten. Meer dan twee tussensloten is niet toegetaan.
 
 ## Zalen, Vakken en Inschrijvingen
+
+### Probleeminstantie 1: Lab 42
+
+| Zaalnummber | Max. capaciteit |
+| ----------- | --------------- |
+| L0.09       | 18               |
+| L0.10       | 30               |
+
+| Vakken                | #Hoorcolleges | #Werkcolleges | Max. stud. | #Practica | Max. stud. | E(studenten) |
+| ---------------------- | ------------- | ------------- | ---------- | --------- | ---------- | ------------ |
+| Quantumrekenen         | 2             | 1             | 13         | 0         | nvt        | 26           |
+| Statistisch Redeneren  | 1             | 1             | 10         | 0         | nvt        | 28           |
+| Cryptografie 2         | 2             | 1             | 10         | 0         | nvt        | 20           |
+| Datastructuren         | 2             | 1             | 14         | 0         | nvt        | 28           |
+| Practicum Lab 42       | 0             | 0             | nvt        | 1         | 6          | 20           |
+| Robotica               | 1             | 1             | 12         | 1         | 12         | 24           |
+| Neurale Netwerken      | 1             | 2             | 15         | 0         | nvt        | 30           |
+| Complexiteitstheorie   | 2             | 1             | 11         | 0         | nvt        | 22           |
+| Wetenschapsfilosofie   | 1             | 1             | 12         | 0         | nvt        | 24           |
+| Ethiek van AI          | 1             | 1             | 9          | 0         | nvt        | 18           |
+
+> Er is geen avondslot voor deze probleeminstantie. Een tussenslot voor een student op een dag levert één maluspunt op, en meer dan één tussenslot op één dag is niet toegestaan.
+
+Je kan de datafiles [hier](Lab42.zip) downloaden.
+
+### Probleeminstantie 2: Science Park
 
 | Zaalnummber | Max. capaciteit |
 | ----------- | --------------- |
@@ -46,7 +76,7 @@ Studenten zien het liefst aaneengesloten activiteiten en zo min mogelijk "tussen
 | C1.112      | 60              |
 
 | Vakken voor periode 4               | #Hoorcolleges | #Werkcolleges | Max. stud. | #Practica | Max. stud. | E(studenten) |
-| ----------------------------------- | ------------- | ------------- | ---------- | --------- | ---------- | ------------ |
+| ------------------------------------ | ------------- | ------------- | ---------- | --------- | ---------- | ------------ |
 | Advanced Heuristics                 | 1             | 0             | nvt        | 1         | 10         | 22           |
 | Algoritmen en complexiteit          | 1             | 1             | 25         | 1         | 25         | 47           |
 | Analysemethoden en -technieken      | 1             | 0             | nvt        | 0         | nvt        | 60           |
@@ -77,9 +107,9 @@ Studenten zien het liefst aaneengesloten activiteiten en zo min mogelijk "tussen
 | Webprogrammeren en databases        | 2             | 1             | 20         | 1         | 20         | 46           |
 | Zoeken, sturen en bewegen           | 0             | 0             | nvt        | 1         | 15         | 45           |
 
-## Data
+> Er is een avondslot voor deze probleeminstantie. Een tussenslot voor een student op een dag levert één maluspunt op, twee tussensloten leveren drie maluspunten op, en meer dan twee tussensloten op één dag is niet toegestaan.
 
-Je kan de datafiles [hier](LecturesLesroosters.zip) downloaden.
+Je kan de datafiles [hier](SciencePark.zip) downloaden.
 
 ## Output
 
